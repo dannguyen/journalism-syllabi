@@ -498,7 +498,7 @@ develop database information in combination with traditional news reporting."
   description: "This short course is an exploration of the line between data analysis and storytelling. How do we find the interesting stories in data, and how do we communicate them in a compelling way, with respect to the data?"
 
 - title: Coding for journalists
-  homepage: http://jrue.github.io/
+  homepage: http://jrue.github.io/coding/
   description: "This course is an introduction to programming concepts as they relate to the journalism industry. The goal of this course is to equip students with a foundational technical literacy to construct interactive online stories such as data visualizations, infographics, maps, multimedia packages, games or innumerable other types of projects students may conceive. Students will learn the basics of JavaScript—the language of the web. They will learn the fundamentals of prototypical object oriented programming, an important component in many web coding languages. The course will cover variables, typecasting, arrays, for-loops, conditional statements, comparison operators, functions, enclosures and cross-domain data requesting. This course will also cover popular data libraries like D3 and Leaflet. While these terms may seem esoteric to a layperson, they need to be part of the vernacular of students wishing to enhance their abilities in this expanding area of journalism."
   instructor: Jeremy Rue
   time_period: Fall 2013
@@ -555,5 +555,11 @@ develop database information in combination with traditional news reporting."
 - title: Computational Journalism
   homepage: https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016
 
-- title: Advanced Data Journalism,
+- title: Advanced Data Journalism
   homepage: https://simonrogers.github.io/datajournalism/
+
+- title: Advanced Coding for Journalists
+  homepage: http://jrue.github.io/advancedcoding/
+
+- title: Intro to Multimedia Web Skills
+  homepage: http://jrue.github.io/webskills/
