@@ -25,7 +25,7 @@
 - title: Story Bots
   course_listing: JOUR 491
   time_period: Fall 2014
-  homepage: https://github.com/mattwaite/JOUR491-Data-Storybots
+  homepage: https://github.com/mattwaite/JOUR491-Storybots
   description: "Welcome to the dawning days of storybots: programs that write stories so humans don't have to. Bots now write simple stories about softball games, corporate earnings reports, the weather and, yes, earthquakes. Some of them are extraordinarily simple -- basic programming knowledge is all that's required. Others are quite sophisticated -- they rely on more complex tools to arrive at a simple story."
   instructor: Matt Waite
   org: University of Nebraska-Lincoln
