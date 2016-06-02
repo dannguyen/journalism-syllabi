@@ -563,3 +563,24 @@ develop database information in combination with traditional news reporting."
 
 - title: Intro to Multimedia Web Skills
   homepage: http://jrue.github.io/webskills/
+
+- title: Data Journalism
+  syllabus: http://wp.vcu.edu/nenudata/files/2014/02/Data-journalism-syllabus-by-week.pdf
+  
+- title: Data Journalism
+  homepage: http://nickgeidner.com/494/
+  syllabus: http://nickgeidner.com/494/?page_id=8
+  books:
+    - Data Journalism Handbook
+    - Scraping for Journalists
+    - The Functional Art
+    
+  - title: Web Coding for Interactive Design
+    homepage: https://github.com/auremoser/web-coding
+    syllabus: https://github.com/auremoser/web-coding/blob/master/syllabus.md
+  
+  - title: Fundamentals of Digital Journalism
+    syllabus: https://jrnl6340fall2014.wordpress.com/syllabus/
+    homepage: https://jrnl6340fall2014.wordpress.com/
+    
+  
