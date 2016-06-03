@@ -23,6 +23,9 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
+
+There are currently <strong>85</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+
 <table>
     <thead>
         <tr>

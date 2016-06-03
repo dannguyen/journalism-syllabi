@@ -56,7 +56,7 @@ for d in data:
 
 
 
-tbltxt = tbl.substitute(rows=''.join(tablerows), rowcount=len(rows))
+tbltxt = tbl.substitute(rows=''.join(tablerows), rowcount=len(tablerows))
 
 
 readmetxt = DEST_PATH.read_text().splitlines()
