@@ -21,7 +21,7 @@ tbl = """
 row_template = """
         <tr>
             <td>
-                <h5>{title}</h5>
+                <h5>{course}</h5>
                 <p>{links}</p>
                 {description}
             </td>
@@ -34,22 +34,21 @@ row_template = """
 tablerows = []
 data = ryaml.load(SRC_PATH.open())
 for d in data:
-    course = '<h4>{0}</h4>'.format(d['title'])
+    course = '{0} | {1}'.format(d['title'], d['time_period']) if d.get('time_period') else d['title']
+
 
     if d.get('description'):
         desc = '<p><em>{0}</em></p>'.format(d['description'][:DESC_LENGTH] + '...' if len(d['description']) > DESC_LENGTH else d['description'])
     else:
         desc = ""
 
-    if d.get('time_period'):
-        desc = '{0}<br>{1}'.format(d['time_period'], desc)
 
     if d.get('homepage') == d.get('syllabus'):
         links = """<a href="{0}">Homepage/Syllabus</a>""".format(d['homepage'])
     else:
         links = ' / '.join(["""\n<a href="{1}">{0}</a>""".format(n.capitalize(), d[n]) for n in ('homepage', 'syllabus') if d.get(n)])
 
-    tablerows.append(row_template.format(title=d['title'], description=desc, links=links, organization=d.get('org')))
+    tablerows.append(row_template.format(course=course, description=desc, links=links, organization=d.get('org')))
 
 tbltxt = tbl.format(rows=''.join(tablerows))
 
