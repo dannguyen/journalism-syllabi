@@ -486,6 +486,7 @@ develop database information in combination with traditional news reporting."
 - title: Digital Frameworks for Reporting
   homepage: http://digitalframeworks.wordpress.com/
   syllabus: http://digitalframeworks.wordpress.com/syllabus/
+  org: University of Northwestern
   instructors:
     - Derek Willis
   time_period: 2011; Summer
@@ -578,6 +579,7 @@ develop database information in combination with traditional news reporting."
 
 
 - title: Computation + Journalism
+  org: Georgia Tech
   course_listing: CS 4464/6465
   homepage: http://compjournalism.wordpress.com/sp2014/
   syllabus: http://compjournalism.wordpress.com/schedule/
@@ -589,6 +591,7 @@ develop database information in combination with traditional news reporting."
     A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information.
 
 - title: Computation + Journalism
+  org: Georgia Tech
   course_listing: CS 4464/6465
   homepage: http://compjournalism.wordpress.com/sp2014/
   syllabus: https://docs.google.com/spreadsheet/pub?key=0AqyqgGWSjCbpdHcta1FBR0hzVVN4RmlKZGZoYW9KdkE
@@ -600,6 +603,7 @@ develop database information in combination with traditional news reporting."
     A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information. Technology is rapidly affecting how news information is gathered, reported, visualized, aggregated, summarized, distributed, and consumed. This class studies the computational technologies that impact journalism.
 
 - title: Computation + Journalism
+  org: Georgia Tech
   course_listing: CS 4464/6465
   homepage: https://compjournalism.wordpress.com/2013bcn/
   syllabus: https://docs.google.com/spreadsheets/d/1RElywzOZwm3xFxfJrS4mPlvRIw7HpkbX59irG5PDP8k
@@ -619,6 +623,7 @@ develop database information in combination with traditional news reporting."
 
 
 - title: Computation + Journalism
+  org: Georgia Tech
   course_listing: CS 4464/6465
   homepage: https://compjournalism.wordpress.com/2010-2/
   syllabus: https://compjournalism.wordpress.com/2010-2/
@@ -685,16 +690,20 @@ develop database information in combination with traditional news reporting."
 
 - title: Building Systems for Reporting
   homepage: https://github.com/dwillis/systems-for-reporting
+  syllabus: https://github.com/dwillis/systems-for-reporting/blob/master/syllabus.md
+  org: University of Maryland
 
 - title: WV Election Reporting
   homepage: https://github.com/dwillis/wv_elections
+  org: West Virginia University
 
 - title: Data Journalism
   syllabus: https://www.jou.ufl.edu/assets/syllabi/JOU4930%20DataJou-Section%2003C8s-Lewis-FA14.pdf
+  org: University of Florida
 
 - title: Data Journalism
   homepage: http://bahareh.newslab.ie/nuigddj15.html
-
+  org: National University of Ireland Galway
 - title: Reporting Methods
   org: Carleton University
   time_period: 2016; Winter
@@ -721,16 +730,20 @@ develop database information in combination with traditional news reporting."
 
 - title: Advanced Coding for Journalists
   homepage: http://jrue.github.io/advancedcoding/
+  org: University of California at Berkeley
 
 - title: Intro to Multimedia Web Skills
   homepage: http://jrue.github.io/webskills/
+  org: University of California at Berkeley
 
 - title: Data Journalism
   syllabus: http://wp.vcu.edu/nenudata/files/2014/02/Data-journalism-syllabus-by-week.pdf
+  org: Virginia Commonwealth University
 
 - title: Data Journalism
   homepage: http://nickgeidner.com/494/
   syllabus: http://nickgeidner.com/494/?page_id=8
+  org: University of Tennessee
   materials:
     - Data Journalism Handbook
     - Scraping for Journalists
@@ -739,21 +752,26 @@ develop database information in combination with traditional news reporting."
 - title: Web Coding for Interactive Design
   homepage: https://github.com/auremoser/web-coding
   syllabus: https://github.com/auremoser/web-coding/blob/master/syllabus.md
+  org: The New School
 
 - title: Fundamentals of Digital Journalism
   syllabus: https://jrnl6340fall2014.wordpress.com/syllabus/
   homepage: https://jrnl6340fall2014.wordpress.com/
+  org: Northeastern University
 
 - title: Advanced Online Media Production
   course_listing: MMC 4341L
   homepage: https://mmc4341.wordpress.com/
   syllabus: https://www.scribd.com/doc/251544285/Syllabus-MMC4341-2015-v2
+  org: University of Florida
 
 - title: "Journalists' Toolkit"
   homepage: https://jtoolkit.wordpress.com/
   syllabus: http://www.scribd.com/doc/161146413/Syllabus-JOU6344-Fall-2013
+  org: University of Florida
 
 - title: Coding and Data Skills for Communicators
+  org: Texas State University
   homepage: http://coding.cindyroyal.net/
   syllabus: http://coding.cindyroyal.net/syllabus/
   description: |
@@ -764,6 +782,7 @@ develop database information in combination with traditional news reporting."
   org: Stanford University
   homepage: http://fall2014.padjo.org/
   time_period: 2014; Fall
+  buzzwords:
     - Spreadsheets
     - Pivot Tables
     - SQLite
@@ -873,6 +892,7 @@ develop database information in combination with traditional news reporting."
   description: |
     This course consists of an in-depth discussion about the principles of infographics and data visualization, and how they apply to the real world. Students will learn how to display information using charts, maps, diagrams, and visual narratives, and how to bring them to life using d3.js, a Javascript library, which is quickly becoming a standard in visualization for communication.
   time_period: 2015; March 16 - April 26
+  org: Knight Center for Journalism in the Americas
   instructors:
     - Alberto Cairo
     - Scott Murray

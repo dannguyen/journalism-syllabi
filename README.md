@@ -14,7 +14,7 @@ Feel free to add suggestions in the [issues](https://github.com/dannguyen/journa
 
 
 
-### Course collection
+### Coarse collection
 
 The following table is auto-generated from running [scripts/produce_courselist.py](scripts/produce_courselist.py), which reads from [some-syllabi.yaml](some-syllabi.yaml) and prints things exactly in the order as I entered them in (i.e. with no real order at all -- will export to a proper Github Pages/Jekyll thing later):
 
@@ -416,7 +416,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 <p><em>The objective of this course is to familiarize students with digital tools that will become the frameworks with which they can approach storytelling, emphasizing the use of structured data and the vis...</em></p>
             </td>
             <td>
-                
+                University of Northwestern
             </td>
         </tr>
         <tr>
@@ -518,7 +518,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
 </em></p>
             </td>
             <td>
-                
+                Georgia Tech
             </td>
         </tr>
         <tr>
@@ -529,7 +529,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 <p><em>A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information. Technology is rapidly a...</em></p>
             </td>
             <td>
-                
+                Georgia Tech
             </td>
         </tr>
         <tr>
@@ -540,7 +540,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                Georgia Tech
             </td>
         </tr>
         <tr>
@@ -558,7 +558,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                Georgia Tech
             </td>
         </tr>
         <tr>
@@ -606,11 +606,12 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
         <tr>
             <td>
                 <h5>Building Systems for Reporting | 
-<a href="https://github.com/dwillis/systems-for-reporting">Homepage</a></h5>
+<a href="https://github.com/dwillis/systems-for-reporting">Homepage</a> / 
+<a href="https://github.com/dwillis/systems-for-reporting/blob/master/syllabus.md">Syllabus</a></h5>
                 
             </td>
             <td>
-                
+                University of Maryland
             </td>
         </tr>
         <tr>
@@ -620,7 +621,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                West Virginia University
             </td>
         </tr>
         <tr>
@@ -630,7 +631,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                University of Florida
             </td>
         </tr>
         <tr>
@@ -640,7 +641,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                National University of Ireland Galway
             </td>
         </tr>
         <tr>
@@ -700,7 +701,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                University of California at Berkeley
             </td>
         </tr>
         <tr>
@@ -710,7 +711,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                University of California at Berkeley
             </td>
         </tr>
         <tr>
@@ -720,7 +721,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                Virginia Commonwealth University
             </td>
         </tr>
         <tr>
@@ -731,7 +732,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                University of Tennessee
             </td>
         </tr>
         <tr>
@@ -742,7 +743,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                The New School
             </td>
         </tr>
         <tr>
@@ -753,7 +754,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                Northeastern University
             </td>
         </tr>
         <tr>
@@ -764,7 +765,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                University of Florida
             </td>
         </tr>
         <tr>
@@ -775,7 +776,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                University of Florida
             </td>
         </tr>
         <tr>
@@ -786,12 +787,12 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 <p><em>In this course, you’ll be introduced to programming and data concepts relevant to communicators. Data visualization and storytelling tools and techniques are covered as related to journalism, advertis...</em></p>
             </td>
             <td>
-                
+                Texas State University
             </td>
         </tr>
         <tr>
             <td>
-                <h5>Public Affairs Data Journalism I | 2014; Fall - Spreadsheets - Pivot Tables - SQLite | 
+                <h5>Public Affairs Data Journalism I | 2014; Fall | 
 <a href="http://fall2014.padjo.org/">Homepage</a></h5>
                 
             </td>
@@ -916,7 +917,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 <p><em>This course consists of an in-depth discussion about the principles of infographics and data visualization, and how they apply to the real world. Students will learn how to display information using c...</em></p>
             </td>
             <td>
-                
+                Knight Center for Journalism in the Americas
             </td>
         </tr>
         <tr>
