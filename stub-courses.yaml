@@ -1,0 +1,33 @@
+
+# These courses have descriptions but not syllabi
+
+
+
+
+- title: Visualization and Simulation-Based Inference
+  homepage: http://www.journalism.columbia.edu/page/1060-the-lede-program-courses/908
+  org: Columbia University
+  time_period: 2015
+  description: |
+    This is about seeing the structure of a data set. These structures are stories. We will start with fairly traditional storytelling tools, from simple descriptive statistics to graphical representations of data. Students will learn projective methods (marginal scatter plots, the Grand Tour, Principal Components) for seeing structures. Throughout, we will present the strengths and limitations of these data presentations. We emphasize that data have no 'natural' visual representation and that every view is some kind of reduction. Students will use existing views and create new views of data through a series of longer projects. This is about 'doing' and we will take as inspiration a raft of creative practices that produce visuals from data - in design, media art, architecture, geography, mathematics.
+
+- title: Computer-Assisted Journalism
+  course_listing: COM 461
+  instructors:
+    - Cheryl Phillips
+  org: University of Washington
+  homepage: https://www.com.washington.edu/journalism/course-descriptions/
+  description: |
+    Introduction to computer-assisted journalism and other advanced reporting techniques.  Includes hands-on electronic data analysis, exploration of on-line  investigative tools, and the fashioning of electronically-retrieved information  into news stories. Students examine ethical and technical challenges these  tools present to media and society.
+  prereqs:
+    - COM 361
+
+
+
+- title: Journalism Skills
+  org: Arizona State University
+  course_listing: MCO 502
+
+- title: Media Research Methods
+  org: Arizona State University
+  course_listing: MCO 302
