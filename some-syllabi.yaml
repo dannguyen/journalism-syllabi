@@ -221,9 +221,7 @@
     A free online data journalism course with 5 leading experts.
   extras: true
   org: European Journalism Centre
-  time_period:
-    start: May 19 2014
-    end: June 6 2014
+  time_period: 2014; May 6 - June 6
   instructors:
     - Simon Rogers
     - Paul Bradshaw
