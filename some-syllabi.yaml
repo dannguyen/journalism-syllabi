@@ -235,6 +235,7 @@
 - title: Your Digital Life
   course_listing: MMC 3260/5015
   homepage: http://iml.jou.ufl.edu/carlson/mmc5015/
+  org: University of Florida
   description: |
     This is a course about how to build and maintain your online presence, your digital identity, so to speak. Your digital identity includes everything you read, write and do online – email, social media, blogging, personal websites, shopping, archiving your professional work, and gaming. Your digital life is becoming more and more important as the internet and the web permeate every facet of our lives.
   schedule: http://iml.jou.ufl.edu/carlson/mmc5015/calendar.html
@@ -258,20 +259,6 @@
     - QR codes
     - Github
 
-- title: Your Digital Life
-  course_listing: MMC 3260/5015
-  homepage: https://github.com/gotoplanb/mmc3260-s14-exercises
-  extras: true
-  time_period: 2014; Spring
-  instructors:
-    - Dave Stanton @gotoplanb
-  buzzwords:
-    - Github
-    - Git
-    - CSS
-    - HTML
-    - WordPress
-    - Web inspector
 
 
 - title: Computer-Assisted Reporting
@@ -612,6 +599,7 @@ develop database information in combination with traditional news reporting."
     - Irfan Essa
 
 - title: Computation + Journalism
+  org: Georgia Tech
   course_listing: CS 4464/6465
   homepage: https://compjournalism.wordpress.com/2012-2/
   syllabus: https://compjournalism.wordpress.com/2012-2/
@@ -642,34 +630,6 @@ develop database information in combination with traditional news reporting."
     This course covers the use of data visualization as a method to communicate news stories (narrative visualization) and as a way to explore and analyze data as a method to find new news stories (visual analytics) in a journalism context. Students will learn to apply core principles of visualization related to perception, color, and visual mapping, while also practicing design skills, and implementing interactive data visualizations using both off-the-shelf tools as well as custom-built code. Critical skills and thinking about data visualization will be developed through the study of rhetoric, advocacy graphics, and ethics. Different types of data will be explored to understand a range of visual forms from networks, to timelines, trees, and maps. Several assignments, both critical and creative in nature, as well as an integrative final project will serve to underscore the concepts taught and provide practice in the craft of visualization.
 
 
-
-
-- title: "Web Publishing I: HTML/CSS"
-  course_listing: JOUR 4500/6500
-  instructors:
-    - Grant Smith
-  org: University of Memphis
-  time_period: 2011; Spring
-  homepage: http://www.memphis.edu/journalism/2011_Spring/J4500.6500.01Smith.pdf
-  description: |
-    Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
-  materials:
-    - Teach Yourself VISUALLY Dreamweaver CS4
-    - Teach Yourself VISUALLY Photoshop CS4
-
-
-- title: "Web Publishing II: html/css"
-  syllabus: http://www.memphis.edu/journalism/2011_Spring/J4550_6550_001_spring_2011.pdf
-  course_listing: JOUR 4550/6550
-  instructors:
-    - Jin Yang
-  org: University of Memphis
-  time_period: 2011; Spring
-  description: |
-    Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
-  materials:
-    - "Eric A. Meyer, CSS Web Site Design (2007). Peachpit Press."
-    - "Tom Negrino and Dori Smith (2009), Styling Web Pages with CSS. Peachpit Press."
 
 - title: Information Visualization
   homepage: https://wiki.cs.umd.edu/cmsc734_f12/index.php

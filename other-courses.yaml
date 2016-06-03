@@ -1,0 +1,29 @@
+
+# these courses are more on the digital publishing or other side
+
+- title: "Web Publishing I: HTML/CSS"
+  course_listing: JOUR 4500/6500
+  instructors:
+    - Grant Smith
+  org: University of Memphis
+  time_period: 2011; Spring
+  homepage: http://www.memphis.edu/journalism/2011_Spring/J4500.6500.01Smith.pdf
+  description: |
+    Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
+  materials:
+    - Teach Yourself VISUALLY Dreamweaver CS4
+    - Teach Yourself VISUALLY Photoshop CS4
+
+
+- title: "Web Publishing II: HTML/CSS"
+  syllabus: http://www.memphis.edu/journalism/2011_Spring/J4550_6550_001_spring_2011.pdf
+  course_listing: JOUR 4550/6550
+  instructors:
+    - Jin Yang
+  org: University of Memphis
+  time_period: 2011; Spring
+  description: |
+    Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
+  materials:
+    - "Eric A. Meyer, CSS Web Site Design (2007). Peachpit Press."
+    - "Tom Negrino and Dori Smith (2009), Styling Web Pages with CSS. Peachpit Press."

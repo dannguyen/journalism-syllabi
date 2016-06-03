@@ -24,7 +24,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 
 
 
-There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>89</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -212,17 +212,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 <p><em>This is a course about how to build and maintain your online presence, your digital identity, so to speak. Your digital identity includes everything you read, write and do online – email, social media...</em></p>
             </td>
             <td>
-                
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h5>Your Digital Life | 2014; Spring | 
-<a href="https://github.com/gotoplanb/mmc3260-s14-exercises">Homepage</a></h5>
-                
-            </td>
-            <td>
-                
+                University of Florida
             </td>
         </tr>
         <tr>
@@ -549,7 +539,7 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
                 <p><em>This class is aimed at understanding the computational and technological advancements in the area of journalism. Primary focus is on the study of technologies for developing new tools for (a) sense-ma...</em></p>
             </td>
             <td>
-                
+                Georgia Tech
             </td>
         </tr>
         <tr>
@@ -568,28 +558,6 @@ There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](
             </td>
             <td>
                 University of Maryland
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h5>Web Publishing I: HTML/CSS | 2011; Spring | 
-<a href="http://www.memphis.edu/journalism/2011_Spring/J4500.6500.01Smith.pdf">Homepage</a></h5>
-                <p><em>Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
-</em></p>
-            </td>
-            <td>
-                University of Memphis
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h5>Web Publishing II: html/css | 2011; Spring | 
-<a href="http://www.memphis.edu/journalism/2011_Spring/J4550_6550_001_spring_2011.pdf">Syllabus</a></h5>
-                <p><em>Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
-</em></p>
-            </td>
-            <td>
-                University of Memphis
             </td>
         </tr>
         <tr>
