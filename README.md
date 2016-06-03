@@ -1,6 +1,8 @@
 # journalism-syllabi
 
-This is a collection of computational and data journalism courses for which there's a __publicly available__ homepage or syllabus to use as a reference.  I started compiling this list before arriving at Stanford in 2014. In June 2016, I uploaded it here and made a few updates, but it's not complete or consistent by any means. 
+This is a collection of computational and data journalism courses for which there's a __publicly available__ homepage or syllabus to use as a reference.  I started compiling this list before arriving at Stanford in 2014. In June 2016, I uploaded it here (as [some-syllabi.yaml](some-syllabi.yaml)) and made a few updates, but it's not complete or consistent by any means. 
+
+A simplified HTML rendering of [some-syllabi.yaml](some-syllabi.yaml) is at the [end of this README](#table-courses); I'll make it a Jekyll site later.
 
 
 For investigative journalism syllabi, the [Investigative Journalism Education Consortium maintains](http://ijec.org/) a list here:  http://ijec.org/syllabi/
@@ -15,6 +17,8 @@ Feel free to add suggestions in the [issues](https://github.com/dannguyen/journa
 ### Course collection
 
 The following table is auto-generated from running [scripts/produce_courselist.py](scripts/produce_courselist.py), which reads from [some-syllabi.yaml](some-syllabi.yaml) and prints things exactly in the order as I entered them in (i.e. with no real order at all -- will export to a proper Github Pages/Jekyll thing later):
+
+<a id="table-courses"></a>
 
 <!--tablehere-->
 
@@ -536,10 +540,20 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 <h5>Advanced Data Journalism | 2015; Fall</h5>
                 <p>
 <a href="https://github.com/cjdd3b/advanced-data-journalism/tree/fall-2015">Homepage</a></p>
-                <p><em>The goal of this class is to teach you how to creatively solve problems in journalism using computer programming. In it, you will learn how to use the Python language, statistics and advanced spreadsh...</em></p>
+                
             </td>
             <td>
                 University of Missouri
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Advanced Data Journalism</h5>
+                <p><a href="http://cjdd3b.github.io/advanced-data-journalism/">Homepage/Syllabus</a></p>
+                <p><em>The goal of this class is to teach you how to creatively solve problems in journalism using computer programming. In it, you will learn how to use the Python language, statistics and advanced spreadsh...</em></p>
+            </td>
+            <td>
+                
             </td>
         </tr>
         <tr>
@@ -583,6 +597,50 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <a href="http://compjournalism.wordpress.com/schedule/">Syllabus</a></p>
                 <p><em>A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information.
 </em></p>
+            </td>
+            <td>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computation + Journalism | 2014; Spring</h5>
+                <p>
+<a href="http://compjournalism.wordpress.com/sp2014/">Homepage</a> / 
+<a href="https://docs.google.com/spreadsheet/pub?key=0AqyqgGWSjCbpdHcta1FBR0hzVVN4RmlKZGZoYW9KdkE">Syllabus</a></p>
+                <p><em>A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information. Technology is rapidly a...</em></p>
+            </td>
+            <td>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computation + Journalism | 2013; Spring</h5>
+                <p>
+<a href="https://compjournalism.wordpress.com/2013bcn/">Homepage</a> / 
+<a href="https://docs.google.com/spreadsheets/d/1RElywzOZwm3xFxfJrS4mPlvRIw7HpkbX59irG5PDP8k">Syllabus</a></p>
+                
+            </td>
+            <td>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computation + Journalism | 2012; Spring</h5>
+                <p><a href="https://compjournalism.wordpress.com/2012-2/">Homepage/Syllabus</a></p>
+                <p><em>This class is aimed at understanding the computational and technological advancements in the area of journalism. Primary focus is on the study of technologies for developing new tools for (a) sense-ma...</em></p>
+            </td>
+            <td>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computation + Journalism | 2010; Spring</h5>
+                <p><a href="https://compjournalism.wordpress.com/2010-2/">Homepage/Syllabus</a></p>
+                
             </td>
             <td>
                 
@@ -871,13 +929,58 @@ The following table is auto-generated from running [scripts/produce_courselist.p
         </tr>
         <tr>
             <td>
-                <h5>Computational Journalism</h5>
+                <h5>Computational Journalism | 2015; Spring</h5>
                 <p>
 <a href="http://2015.compjour.org">Homepage</a></p>
                 
             </td>
             <td>
                 Stanford University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computational Journalism</h5>
+                <p>
+<a href="https://github.com/jacobeisenstein/gt-compj-class">Homepage</a></p>
+                
+            </td>
+            <td>
+                Georgia Tech
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computational Journalism | 2016</h5>
+                <p>
+<a href="https://github.com/jacobeisenstein/gt-compj-class">Homepage</a> / 
+<a href="https://docs.google.com/spreadsheets/d/1hefbuuYoYV7dxzdWgUrepVHhN9LrQtTJXh8i9carKuo/edit">Syllabus</a></p>
+                
+            </td>
+            <td>
+                Georgia Tech
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Database Journalism | 2016; Spring</h5>
+                <p>
+<a href="http://mj.unc.edu/sites/default/files/images/Spring2016Schedule.pdf">Syllabus</a></p>
+                
+            </td>
+            <td>
+                University of North Carolina at Chapel Hill
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data Driven Journalism | 2016; Summer</h5>
+                <p>
+<a href="http://mj.unc.edu/sites/default/files/SummerSession2016.pdf">Syllabus</a></p>
+                
+            </td>
+            <td>
+                University of North Carolina at Chapel Hill
             </td>
         </tr>
     </tbody>

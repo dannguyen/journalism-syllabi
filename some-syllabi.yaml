@@ -521,7 +521,7 @@ develop database information in combination with traditional news reporting."
   description: |
     This is a skills-based, capstone course designed to enhance reporting skills, primarily by identifying and analyzing electronic data to look for patterns and trends that can lead to in-depth news stories. Students will obtain and analyze digital data for computer-assisted reporting that can be published on various media platforms Students will use spreadsheets and databases to manage information, find news stories, and produce graphics. Although students will spend a great deal of time learning how to use Microsoft Excel and Access software, this is not a class about computer programs; it's a class about good reporting practices. Learning the software is just one way to become a better reporter.
   instructors:
-    - Mary Jo Webster
+    - MaryJo Webster
   time_period: 2012; Spring
 
 - title: Digital Frameworks for Reporting
@@ -572,8 +572,17 @@ develop database information in combination with traditional news reporting."
   org: University of Missouri
   time_period: 2015; Fall
   homepage: https://github.com/cjdd3b/advanced-data-journalism/tree/fall-2015
+
+- title: Advanced Data Journalism
+  instructors:
+    - Chase Davis
+    - Mike Jenner
+  homepage: http://cjdd3b.github.io/advanced-data-journalism/
+  syllabus: http://cjdd3b.github.io/advanced-data-journalism/
+  github: https://github.com/cjdd3b/advanced-data-journalism
   description: |
     The goal of this class is to teach you how to creatively solve problems in journalism using computer programming. In it, you will learn how to use the Python language, statistics and advanced spreadsheet and database concepts, then apply those skills to real-world exercises. At the end of the semester, you will have been exposed to most of the skills required to do advanced data journalism in a newsroom environment.
+
 
 
 - title: Data Science Storytelling
@@ -619,6 +628,45 @@ develop database information in combination with traditional news reporting."
   extras: true
   description: |
     A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information.
+
+- title: Computation + Journalism
+  course_listing: CS 4464/6465
+  homepage: http://compjournalism.wordpress.com/sp2014/
+  syllabus: https://docs.google.com/spreadsheet/pub?key=0AqyqgGWSjCbpdHcta1FBR0hzVVN4RmlKZGZoYW9KdkE
+  time_period: 2014; Spring
+  instructors:
+    - Irfan Essa
+  extras: true
+  description: |
+    A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information. Technology is rapidly affecting how news information is gathered, reported, visualized, aggregated, summarized, distributed, and consumed. This class studies the computational technologies that impact journalism.
+
+- title: Computation + Journalism
+  course_listing: CS 4464/6465
+  homepage: https://compjournalism.wordpress.com/2013bcn/
+  syllabus: https://docs.google.com/spreadsheets/d/1RElywzOZwm3xFxfJrS4mPlvRIw7HpkbX59irG5PDP8k
+  time_period: 2013; Spring
+  instructors:
+    - Irfan Essa
+
+- title: Computation + Journalism
+  course_listing: CS 4464/6465
+  homepage: https://compjournalism.wordpress.com/2012-2/
+  syllabus: https://compjournalism.wordpress.com/2012-2/
+  time_period: 2012; Spring
+  instructors:
+    - Irfan Essa
+  description: |
+    This class is aimed at understanding the computational and technological advancements in the area of journalism. Primary focus is on the study of technologies for developing new tools for (a) sense-making from diverse news information sources, (b) the impact of more and cheaper networked sensors (c) collaborative human models for information aggregation and sense-making, (d) mashups and the use of programming in journalism, (e) the impact of mobile computing and data gathering, (f) computational approaches to information quality, (g) data mining for personalization and aggregation, and (h) citizen journalism. Complete schedule and other information will be on the t-square site available to only students taking the class.
+
+
+- title: Computation + Journalism
+  course_listing: CS 4464/6465
+  homepage: https://compjournalism.wordpress.com/2010-2/
+  syllabus: https://compjournalism.wordpress.com/2010-2/
+  time_period: 2010; Spring
+  instructors:
+    - Irfan Essa
+
 
 
 - title: Storytelling with Data Visualization
@@ -750,6 +798,28 @@ develop database information in combination with traditional news reporting."
 - title: Computational Journalism
   org: Stanford University
   homepage: http://2015.compjour.org
+  time_period: 2015; Spring
   buzzwords:
     - Python 3
     - Flask
+
+
+- title: Computational Journalism
+  org: Georgia Tech
+  homepage: https://github.com/jacobeisenstein/gt-compj-class
+
+- title: Computational Journalism
+  org: Georgia Tech
+  homepage: https://github.com/jacobeisenstein/gt-compj-class
+  syllabus: https://docs.google.com/spreadsheets/d/1hefbuuYoYV7dxzdWgUrepVHhN9LrQtTJXh8i9carKuo/edit
+  time_period: 2016
+
+- title: Database Journalism
+  time_period: 2016; Spring
+  org: University of North Carolina at Chapel Hill
+  syllabus: http://mj.unc.edu/sites/default/files/images/Spring2016Schedule.pdf
+
+- title: Data Driven Journalism
+  time_period: 2016; Summer
+  org: University of North Carolina at Chapel Hill
+  syllabus: http://mj.unc.edu/sites/default/files/SummerSession2016.pdf
