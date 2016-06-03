@@ -189,7 +189,7 @@
   homepage: http://shancarter.github.io/ucb-dataviz-fall-2013/
   description: |
     This course teaches some of the skills and techniques necessary for displaying statistical information effectively in journalism. Students will scrutinize techniques used in previously published projects and will also analyze data on their own, evaluating and producing static and interactive visualizations using a mix of desktop applications, command-line tools and basic programming, with an emphasis on Excel, R and D3.
-  org: University of Berkeley
+  org: University of California at Berkeley
   time_period: 2013; Fall
   instructors:
     - Shan Carter
@@ -333,47 +333,6 @@ develop database information in combination with traditional news reporting."
   description: |
     This course will combine theory and practice to help you develop your understanding of the many changes rocking the media landscape and build the skills you will need to join the fray.
 
-- title: "Web Publishing I: HTML/CSS"
-  course_listing: JOUR 4500/6500
-  instructors:
-    - Grant Smith
-  org: University of Memphis
-  time_period: 2011; Spring
-  homepage: http://www.memphis.edu/journalism/2011_Spring/J4500.6500.01Smith.pdf
-  description: |
-    Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
-  materials:
-    - Teach Yourself VISUALLY Dreamweaver CS4
-    - Teach Yourself VISUALLY Photoshop CS4
-
-
-- title: "Web Publishing II: html/css"
-  syllabus: http://www.memphis.edu/journalism/2011_Spring/J4550_6550_001_spring_2011.pdf
-  course_listing: JOUR 4550/6550
-  instructors:
-    - Jin Yang
-  org: University of Memphis
-  time_period: 2011; Spring
-  description: |
-    Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
-  materials:
-    - "Eric A. Meyer, CSS Web Site Design (2007). Peachpit Press."
-    - "Tom Negrino and Dori Smith (2009), Styling Web Pages with CSS. Peachpit Press."
-
-- title: Information Visualization
-  homepage: https://wiki.cs.umd.edu/cmsc734_f12/index.php
-  instructors:
-    - Ben Shneiderman
-  org: University of Maryland
-  extras: true
-  time_period: 2012; Fall
-  course_listing: CMSC 734
-  materials:
-    - "Hansen, M., Shneiderman, B, and Smith, M. A., Analyzing Social Media Networks with NodeXL: Insights from a Connected World, Morgan Kaufmann Publishers (2011). ISBN: 9780123822291."
-    - "Keim, D., Kohlhammer, J., Ellis, G., and Mansmann, G. (Editors), Mastering the Information Age: Solving Problems with Visual Analytics, Eurographics Association, Goslar, Germany (2010)."
-  description: |
-    What is information visualization? How is it related to scientific visualization? How does it combine with data mining? Information visualization is emerging as an important fusion of graphics, scientific visualization, database, and human-computer interaction. Dozens of innovative visualizations for 1-, 2-, 3-, and multi-dimensional data have been proposed, along with creative designs for temporal, hierarchical, and network data. This course will examine the design alternatives (overviews, dynamic queries, zooming, etc.), algorithms and data structures, coordinated views, plus human factors evaluations of efficacy for a variety of tasks and users.
-  syllabus: https://wiki.cs.umd.edu/cmsc734_f12/index.php?title=Syllabus
 
 - title: Computational Journalism
   homepage: http://courses.jmsc.hku.hk/jmsc6041spring2013/
@@ -601,7 +560,7 @@ develop database information in combination with traditional news reporting."
   instructors:
     - Jeremy Rue
   time_period: 2013; Fall
-  org: University of Berkeley
+  org: University of California at Berkeley
   extras: true
 
 
@@ -680,6 +639,50 @@ develop database information in combination with traditional news reporting."
 
 
 
+- title: "Web Publishing I: HTML/CSS"
+  course_listing: JOUR 4500/6500
+  instructors:
+    - Grant Smith
+  org: University of Memphis
+  time_period: 2011; Spring
+  homepage: http://www.memphis.edu/journalism/2011_Spring/J4500.6500.01Smith.pdf
+  description: |
+    Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
+  materials:
+    - Teach Yourself VISUALLY Dreamweaver CS4
+    - Teach Yourself VISUALLY Photoshop CS4
+
+
+- title: "Web Publishing II: html/css"
+  syllabus: http://www.memphis.edu/journalism/2011_Spring/J4550_6550_001_spring_2011.pdf
+  course_listing: JOUR 4550/6550
+  instructors:
+    - Jin Yang
+  org: University of Memphis
+  time_period: 2011; Spring
+  description: |
+    Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
+  materials:
+    - "Eric A. Meyer, CSS Web Site Design (2007). Peachpit Press."
+    - "Tom Negrino and Dori Smith (2009), Styling Web Pages with CSS. Peachpit Press."
+
+- title: Information Visualization
+  homepage: https://wiki.cs.umd.edu/cmsc734_f12/index.php
+  instructors:
+    - Ben Shneiderman
+  org: University of Maryland
+  extras: true
+  time_period: 2012; Fall
+  course_listing: CMSC 734
+  materials:
+    - "Hansen, M., Shneiderman, B, and Smith, M. A., Analyzing Social Media Networks with NodeXL: Insights from a Connected World, Morgan Kaufmann Publishers (2011). ISBN: 9780123822291."
+    - "Keim, D., Kohlhammer, J., Ellis, G., and Mansmann, G. (Editors), Mastering the Information Age: Solving Problems with Visual Analytics, Eurographics Association, Goslar, Germany (2010)."
+  description: |
+    What is information visualization? How is it related to scientific visualization? How does it combine with data mining? Information visualization is emerging as an important fusion of graphics, scientific visualization, database, and human-computer interaction. Dozens of innovative visualizations for 1-, 2-, 3-, and multi-dimensional data have been proposed, along with creative designs for temporal, hierarchical, and network data. This course will examine the design alternatives (overviews, dynamic queries, zooming, etc.), algorithms and data structures, coordinated views, plus human factors evaluations of efficacy for a variety of tasks and users.
+  syllabus: https://wiki.cs.umd.edu/cmsc734_f12/index.php?title=Syllabus
+
+
+
 - title: Building Systems for Reporting
   homepage: https://github.com/dwillis/systems-for-reporting
 
@@ -692,20 +695,29 @@ develop database information in combination with traditional news reporting."
 - title: Data Journalism
   homepage: http://bahareh.newslab.ie/nuigddj15.html
 
-- title: Data Journalism research methods
-  homepage: http://www.davidmckie.com/fall-2015-jour-4101/
-
 - title: Reporting Methods
+  org: Carleton University
+  time_period: 2016; Winter
   homepage: http://www.davidmckie.com/reporting-methods-carleton-university-journalism-5206-winter-2016/
 
+- title: Reporting Methods
+  time_period: 2014; Winter
+  org: Carleton University
+  homepage: http://www.davidmckie.com/syllabus/reporting-methods-carleton-university-journalism-5206-2/
+
+
 - title: Computer Assisted Reporting
+  org: Carleton University
   homepage: http://www.davidmckie.com/jou-1526_-computer-assisted-reporting-2015/
 
 - title: Computational Journalism
   homepage: https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016
+  org: University of Maryland
 
 - title: Advanced Data Journalism
   homepage: https://simonrogers.github.io/datajournalism/
+  time_period: 2015; Winter
+  org: University of California at Berkeley
 
 - title: Advanced Coding for Journalists
   homepage: http://jrue.github.io/advancedcoding/
@@ -874,4 +886,37 @@ develop database information in combination with traditional news reporting."
   description: |
      In this class, we will practice data journalism, a technique that is also called computer-assisted reporting. Also called precision journalism, this reporting strategy uses computers to analyze the ever-increasing amount of publicly available data to create unique and compelling stories. This course will teach the fundamentals of such techniques and combine your analysis of publicly available data into a semester-long enterprise reporting project. You will create a story, or a series of stories, that spring from the records you analyze.
 
+- title: Data-driven Reporting (the Texas Tribune Course)
+  org: University of Texas at Austin
+  syllabus: https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/2414119/
+  time_period: 2012; Fall
+  instructors:
+    - Pete Slover
+  description: |
+    In this course you’ll learn about and skills needed for Computer Assisted Reporting (also known as CAR) with a focus on data-driven reporting, a valuable skillset in journalism, easily exportable to other professions. You will learn to: develop a journalistic theory or line of questioning that could be addressed through data analysis; identify the data needed to test or address your questions; obtain or build the needed datasets, clean, analyze and compare data; perform follow-up reporting and develop stories based on your findings.
 
+- title: Advanced Online Media Design
+  syllabus: http://advanced.jacieyang.com/syllabus
+  org: Texas State University
+  instructors:
+    - Jacie Yang
+  description: |
+    In Advanced Online Media, we will continue exploring Web design topics, moving more heavily into the area of development, including data visualization and programming. The course will focus on application of these topics in the communication discipline.
+
+    The goal is to spend several weeks going over new topics and doing exercises, then working on a group deliverable with the topic to be determined each semester. Instructor may choose to deliver some lectures and assignments online.
+
+- title: Computer Assisted Reporting
+  syllabus: http://sites.tsu.edu/hb2504/syllabi/jour-335-01.pdf
+  org: Texas Southern University
+  time_period: 2016; Spring
+  instructors:
+    - Ladonia Randle
+  description: |
+    This is a course in the basic elements of computer--‐assisted reporting. You will learn how computer spreadsheet and database programs can be used to find details, leads and stories in collections of electronic records. With the proper training and inclination, journalists who are comfortable with these tools can produce stories that would be virtually impossible to do otherwise.
+
+- title: Data Journalism
+  org: New York University
+  syllabus: http://journalism.nyu.edu/wp-content/uploads/Broussard-Data-Journalism.pdf
+  time_period: 2016; Spring
+  description: |
+    In this introductory class, students will learn the skills needed to create visually exciting and thought-provoking online journalism. Topics include data journalism, data analysis, computer-assisted reporting, [painless] coding for journalists, and data visualization. The class is designed for an interdisciplinary group of students interested in writing, editing, visual design, or technology. Student-created projects will influence the path of the class: in a given semester, we may create infographics, investigate current political or economic issues, or develop innovative newsapps. The Spring 2016 class will focus on political data in anticipation of the 2016 presidential election.

@@ -1,6 +1,6 @@
 # journalism-syllabi
 
-This is a collection of computational and data journalism courses for which there's a __publicly available__ homepage or syllabus to use as a reference.  I started compiling this list before arriving at Stanford in 2014. In June 2016, I uploaded it here (as [some-syllabi.yaml](some-syllabi.yaml)) and made a few updates, but it's not complete or consistent by any means. 
+This is a collection of computational and data journalism courses for which there's a __publicly available__ homepage or syllabus to use as a reference.  I started compiling this list before arriving at Stanford in 2014. In June 2016, I uploaded it here  and made a few updates, but it's not complete or consistent by any means. It includes a few not-really computational/journalism courses, which I may edit out later. As I have time, I try to serialize various aspects of each course (see [some-syllabi.yaml](some-syllabi.yaml) for all the data fields), such as which textbooks are used and what specific skills are taught.
 
 A simplified HTML rendering of [some-syllabi.yaml](some-syllabi.yaml) is at the [end of this README](#table-courses); I'll make it a Jekyll site later.
 
@@ -24,7 +24,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 
 
 
-There are currently <strong>88</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>92</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -195,7 +195,7 @@ There are currently <strong>88</strong> courses listed; see [some-syllabi.yaml](
                 <p><em>This course teaches some of the skills and techniques necessary for displaying statistical information effectively in journalism. Students will scrutinize techniques used in previously published proje...</em></p>
             </td>
             <td>
-                University of Berkeley
+                University of California at Berkeley
             </td>
         </tr>
         <tr>
@@ -287,42 +287,6 @@ There are currently <strong>88</strong> courses listed; see [some-syllabi.yaml](
             </td>
             <td>
                 University of Memphis
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h5>Web Publishing I: HTML/CSS | 2011; Spring</h5>
-                <p>
-<a href="http://www.memphis.edu/journalism/2011_Spring/J4500.6500.01Smith.pdf">Homepage</a></p>
-                <p><em>Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
-</em></p>
-            </td>
-            <td>
-                University of Memphis
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h5>Web Publishing II: html/css | 2011; Spring</h5>
-                <p>
-<a href="http://www.memphis.edu/journalism/2011_Spring/J4550_6550_001_spring_2011.pdf">Syllabus</a></p>
-                <p><em>Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
-</em></p>
-            </td>
-            <td>
-                University of Memphis
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h5>Information Visualization | 2012; Fall</h5>
-                <p>
-<a href="https://wiki.cs.umd.edu/cmsc734_f12/index.php">Homepage</a> / 
-<a href="https://wiki.cs.umd.edu/cmsc734_f12/index.php?title=Syllabus">Syllabus</a></p>
-                <p><em>What is information visualization? How is it related to scientific visualization? How does it combine with data mining? Information visualization is emerging as an important fusion of graphics, scient...</em></p>
-            </td>
-            <td>
-                University of Maryland
             </td>
         </tr>
         <tr>
@@ -578,7 +542,7 @@ There are currently <strong>88</strong> courses listed; see [some-syllabi.yaml](
                 <p><em>This course is an introduction to programming concepts as they relate to the journalism industry. The goal of this course is to equip students with a foundational technical literacy to construct inter...</em></p>
             </td>
             <td>
-                University of Berkeley
+                University of California at Berkeley
             </td>
         </tr>
         <tr>
@@ -661,6 +625,42 @@ There are currently <strong>88</strong> courses listed; see [some-syllabi.yaml](
         </tr>
         <tr>
             <td>
+                <h5>Web Publishing I: HTML/CSS | 2011; Spring</h5>
+                <p>
+<a href="http://www.memphis.edu/journalism/2011_Spring/J4500.6500.01Smith.pdf">Homepage</a></p>
+                <p><em>Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
+</em></p>
+            </td>
+            <td>
+                University of Memphis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Web Publishing II: html/css | 2011; Spring</h5>
+                <p>
+<a href="http://www.memphis.edu/journalism/2011_Spring/J4550_6550_001_spring_2011.pdf">Syllabus</a></p>
+                <p><em>Creation and development of journalism/mass media web sites; incorporation of target audience analysis and web usability; application of information products' conceptualization and layout
+</em></p>
+            </td>
+            <td>
+                University of Memphis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Information Visualization | 2012; Fall</h5>
+                <p>
+<a href="https://wiki.cs.umd.edu/cmsc734_f12/index.php">Homepage</a> / 
+<a href="https://wiki.cs.umd.edu/cmsc734_f12/index.php?title=Syllabus">Syllabus</a></p>
+                <p><em>What is information visualization? How is it related to scientific visualization? How does it combine with data mining? Information visualization is emerging as an important fusion of graphics, scient...</em></p>
+            </td>
+            <td>
+                University of Maryland
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <h5>Building Systems for Reporting</h5>
                 <p>
 <a href="https://github.com/dwillis/systems-for-reporting">Homepage</a></p>
@@ -705,24 +705,24 @@ There are currently <strong>88</strong> courses listed; see [some-syllabi.yaml](
         </tr>
         <tr>
             <td>
-                <h5>Data Journalism research methods</h5>
-                <p>
-<a href="http://www.davidmckie.com/fall-2015-jour-4101/">Homepage</a></p>
-                
-            </td>
-            <td>
-                
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h5>Reporting Methods</h5>
+                <h5>Reporting Methods | 2016; Winter</h5>
                 <p>
 <a href="http://www.davidmckie.com/reporting-methods-carleton-university-journalism-5206-winter-2016/">Homepage</a></p>
                 
             </td>
             <td>
+                Carleton University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Reporting Methods | 2014; Winter</h5>
+                <p>
+<a href="http://www.davidmckie.com/syllabus/reporting-methods-carleton-university-journalism-5206-2/">Homepage</a></p>
                 
+            </td>
+            <td>
+                Carleton University
             </td>
         </tr>
         <tr>
@@ -733,7 +733,7 @@ There are currently <strong>88</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                Carleton University
             </td>
         </tr>
         <tr>
@@ -744,18 +744,18 @@ There are currently <strong>88</strong> courses listed; see [some-syllabi.yaml](
                 
             </td>
             <td>
-                
+                University of Maryland
             </td>
         </tr>
         <tr>
             <td>
-                <h5>Advanced Data Journalism</h5>
+                <h5>Advanced Data Journalism | 2015; Winter</h5>
                 <p>
 <a href="https://simonrogers.github.io/datajournalism/">Homepage</a></p>
                 
             </td>
             <td>
-                
+                University of California at Berkeley
             </td>
         </tr>
         <tr>
@@ -1015,6 +1015,50 @@ There are currently <strong>88</strong> courses listed; see [some-syllabi.yaml](
             </td>
             <td>
                 Ohio State University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data-driven Reporting (the Texas Tribune Course) | 2012; Fall</h5>
+                <p>
+<a href="https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/2414119/">Syllabus</a></p>
+                <p><em>In this course you’ll learn about and skills needed for Computer Assisted Reporting (also known as CAR) with a focus on data-driven reporting, a valuable skillset in journalism, easily exportable to o...</em></p>
+            </td>
+            <td>
+                University of Texas at Austin
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Advanced Online Media Design</h5>
+                <p>
+<a href="http://advanced.jacieyang.com/syllabus">Syllabus</a></p>
+                <p><em>In Advanced Online Media, we will continue exploring Web design topics, moving more heavily into the area of development, including data visualization and programming. The course will focus on applica...</em></p>
+            </td>
+            <td>
+                Texas State University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer Assisted Reporting | 2016; Spring</h5>
+                <p>
+<a href="http://sites.tsu.edu/hb2504/syllabi/jour-335-01.pdf">Syllabus</a></p>
+                <p><em>This is a course in the basic elements of computer--‐assisted reporting. You will learn how computer spreadsheet and database programs can be used to find details, leads and stories in collections of ...</em></p>
+            </td>
+            <td>
+                Texas Southern University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data Journalism | 2016; Spring</h5>
+                <p>
+<a href="http://journalism.nyu.edu/wp-content/uploads/Broussard-Data-Journalism.pdf">Syllabus</a></p>
+                <p><em>In this introductory class, students will learn the skills needed to create visually exciting and thought-provoking online journalism. Topics include data journalism, data analysis, computer-assisted ...</em></p>
+            </td>
+            <td>
+                New York University
             </td>
         </tr>
     </tbody>
