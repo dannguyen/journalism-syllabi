@@ -424,16 +424,16 @@ develop database information in combination with traditional news reporting."
 
 
 - title: Computer-Assisted Reporting
-  homepage: http://dherzog.com/car-class/syllabus/
-  time_period: 2014; Spring
+  homepage: http://dherzog.com/category/car-class/
+  syllabus: http://dherzog.com/wp-content/uploads/2016/01/herzog_spring_2016_syllabus-1.pdf
+  time_period: 2016; Spring
   instructors:
     - David Herzog
   course_listing: JOUR 4430/7430
   org: University of Missouri
   extras: true
   description: |
-    Computer-assisted reporting (CAR) refers to the analysis of public records that are stored electronically instead of on paper. This is largely a skills course with a heavy hands-on component. By successfully completing this course, you will be able to identify, obtain, evaluate, clean, analyze and visualize data. You will be expected to think like a journalist by evaluating data critically and applying what you learn to news stories, information graphics or web applications.You’ll learn how to use software tools, such as spreadsheets, database managers, text editors and data-cleaning programs.
-
+    This is largely a skills course with a heavy hands-on component. By successfully completing this course, you will be able to identify, obtain, evaluate, clean, analyze and visualize data. You will be expected to think like a journalist by evaluating data critically and applying what you learn to news stories, information graphics or web applications. You’ll learn how to use software, such as spreadsheets, database managers, text editors, data-cleaning programs and visualization tools.
 
 - title: Power Journalism
   syllabus: https://ire.org/media/uploads/files/documents/educators-center/powerjournalism2007.doc

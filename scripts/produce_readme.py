@@ -44,9 +44,8 @@ for d in data:
     else:
         desc = ""
 
-
     if d.get('instructors'):
-        teachers = '<p><strong>Instructors:</strong> {0}</p>'.format(', '.join(d['instructors']))
+        teachers = '<p>Instructors: {0}</p>'.format(', '.join(d['instructors']))
     else:
         teachers = ''
 
