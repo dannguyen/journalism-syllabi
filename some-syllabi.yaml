@@ -1,18 +1,7 @@
 # This YAML is turned into a README that can be viewed at:
 # https://github.com/dannguyen/journalism-syllabi
 
-- title: Math for Beginning Reporters
-  org: University of Nebraska-Lincoln
-  homepage: https://github.com/mattwaite/MathForBeginningReporters
-  time_period: 2014
-  description: |
-    This module is designed to solve a particular problem: How do you get basic data journalism into a beginning reporting class that many feel is packed as it is? My answer is to combine the basic math for reporters with instructions on how to apply those concepts in a spreadsheet using real data, all aimed at generating real story ideas.
-  instructors:
-    - Matt Waite
-  buzzwords:
-    - OpenOffice
-    - Excel
-    - Google Spreadsheets
+
 
 - title: Data Visualization
   org: University of Nebraska-Lincoln
@@ -67,6 +56,19 @@
     - Matt Waite
   buzzwords:
     - GIS
+
+- title: Math for Beginning Reporters
+  org: University of Nebraska-Lincoln
+  homepage: https://github.com/mattwaite/MathForBeginningReporters
+  time_period: 2014
+  description: |
+    This module is designed to solve a particular problem: How do you get basic data journalism into a beginning reporting class that many feel is packed as it is? My answer is to combine the basic math for reporters with instructions on how to apply those concepts in a spreadsheet using real data, all aimed at generating real story ideas.
+  instructors:
+    - Matt Waite
+  buzzwords:
+    - OpenOffice
+    - Excel
+    - Google Spreadsheets
 
 - title: Making Sense of Data
   org: Google
@@ -915,6 +917,7 @@ develop database information in combination with traditional news reporting."
 
 - title: Computer-Assisted Reporting
   course_listing: SMPA 130
+  org:  George Washington University
   syllabus: https://dwillis.wordpress.com/syllabus/
   homepage: https://dwillis.wordpress.com/
   time_period: 2008; Spring

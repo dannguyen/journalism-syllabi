@@ -1,4 +1,4 @@
-# journalism-syllabi
+# Data Journalism and Computer-Assisted Reporting Syllabuses 
 
 This is a collection of computational and data journalism courses for which there is a __publicly available homepage or syllabus__ suitable for others to use as a reference, i.e. basically anything that shows up in a Google search for `syllabus` + `computational`/`data`/`research` + `journalism` / `computer assisted reporting`. 
 
@@ -41,16 +41,6 @@ There are currently <strong>122</strong> courses listed; see [some-syllabi.yaml]
        
         <tr>
             <td>
-                <h5>Math for Beginning Reporters | 2014 | 
-<a href="https://github.com/mattwaite/MathForBeginningReporters">Homepage</a></h5>
-                <p><em>This module is designed to solve a particular problem: How do you get basic data journalism into a beginning reporting class that many feel is packed as it is? My answer is to combine the basic math f...</em></p>
-            </td>
-            <td>
-                University of Nebraska-Lincoln
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <h5>Data Visualization | 2013; Fall | 
 <a href="https://github.com/mattwaite/JOUR491-Data-Visualization">Homepage</a></h5>
                 <p><em>Welcome to data visualization, where you ll learn to use storytelling, analysis and visualization techniques to inform people with data. In this class, you ll learn what makes for good visualizations ...</em></p>
@@ -85,6 +75,16 @@ There are currently <strong>122</strong> courses listed; see [some-syllabi.yaml]
 <a href="https://github.com/mattwaite/JOUR407-Data-Journalism">Homepage</a> / 
 <a href="https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/syllabus.md">Syllabus</a></h5>
                 <p><em>The best reporters harness the right tools to get the story. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information -- to do investigat...</em></p>
+            </td>
+            <td>
+                University of Nebraska-Lincoln
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Math for Beginning Reporters | 2014 | 
+<a href="https://github.com/mattwaite/MathForBeginningReporters">Homepage</a></h5>
+                <p><em>This module is designed to solve a particular problem: How do you get basic data journalism into a beginning reporting class that many feel is packed as it is? My answer is to combine the basic math f...</em></p>
             </td>
             <td>
                 University of Nebraska-Lincoln
@@ -960,7 +960,7 @@ There are currently <strong>122</strong> courses listed; see [some-syllabi.yaml]
                 <p><em>The aim of this class is to teach students how to identify, obtain, analyze and incorporate data into their stories. In practical terms, this means learning to use spreadsheets, databases and the Inte...</em></p>
             </td>
             <td>
-                
+                George Washington University
             </td>
         </tr>
         <tr>
