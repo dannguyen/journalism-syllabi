@@ -1,7 +1,7 @@
 from pathlib import Path
 import ruamel_yaml as ryaml
 SRC_PATH = Path('some-syllabi.yaml')
-DESC_LENGTH = 150
+DESC_LENGTH = 200
 DEST_PATH = Path('README.md')
 DEST_START_STR = '<!--tablehere-->'
 
@@ -10,7 +10,6 @@ tbl = """
     <thead>
         <tr>
             <th>Course</th>
-            <th>Links</th>
             <th>Organization</th>
         </tr>
     </thead>
@@ -22,10 +21,9 @@ tbl = """
 row_template = """
         <tr>
             <td>
-                {course}
-            </td>
-            <td>
-                {links}
+                <h5>{title}</h5>
+                <p>{links}</p>
+                {description}
             </td>
             <td>
                 {organization}
@@ -37,18 +35,21 @@ tablerows = []
 data = ryaml.load(SRC_PATH.open())
 for d in data:
     course = '<h4>{0}</h4>'.format(d['title'])
-    if d.get('time_period'):
-        course += '\n  {0}'.format(d['time_period'])
+
     if d.get('description'):
-        desc = d['description'][:DESC_LENGTH] + '...' if len(d['description']) > DESC_LENGTH else d['description']
-        course += '\n  <p><em>{0}</em></p>'.format(desc)
+        desc = '<p><em>{0}</em></p>'.format(d['description'][:DESC_LENGTH] + '...' if len(d['description']) > DESC_LENGTH else d['description'])
+    else:
+        desc = ""
+
+    if d.get('time_period'):
+        desc = '{0}<br>{1}'.format(d['time_period'], desc)
 
     if d.get('homepage') == d.get('syllabus'):
         links = """<a href="{0}">Homepage/Syllabus</a>""".format(d['homepage'])
     else:
-        links = '/'.join(["""<a href="{1}">{0}</a>""".format(n.capitalize(), d[n]) for n in ('homepage', 'syllabus') if d.get(n)])
+        links = ' / '.join(["""\n<a href="{1}">{0}</a>""".format(n.capitalize(), d[n]) for n in ('homepage', 'syllabus') if d.get(n)])
 
-    tablerows.append(row_template.format(course=course, links=links, organization=d.get('org')))
+    tablerows.append(row_template.format(title=d['title'], description=desc, links=links, organization=d.get('org')))
 
 tbltxt = tbl.format(rows=''.join(tablerows))
 
