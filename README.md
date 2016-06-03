@@ -24,7 +24,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 
 
 
-There are currently <strong>89</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>121</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -49,7 +49,7 @@ There are currently <strong>89</strong> courses listed; see [some-syllabi.yaml](
             <td>
                 <h5>Data Visualization | 2013; Fall | 
 <a href="https://github.com/mattwaite/JOUR491-Data-Visualization">Homepage</a></h5>
-                <p><em>Welcome to data visualization, where you'll learn to use storytelling, analysis and visualization techniques to inform people with data. In this class, you'll learn what makes for good visualizations ...</em></p>
+                <p><em>Welcome to data visualization, where you ll learn to use storytelling, analysis and visualization techniques to inform people with data. In this class, you ll learn what makes for good visualizations ...</em></p>
             </td>
             <td>
                 University of Nebraska-Lincoln
@@ -59,7 +59,7 @@ There are currently <strong>89</strong> courses listed; see [some-syllabi.yaml](
             <td>
                 <h5>Story Bots | 2014; Fall | 
 <a href="https://github.com/mattwaite/JOUR491-Storybots">Homepage</a></h5>
-                <p><em>Welcome to the dawning days of storybots: programs that write stories so humans don't have to. Bots now write simple stories about softball games, corporate earnings reports, the weather and, yes, ear...</em></p>
+                <p><em>Welcome to the dawning days of storybots: programs that write stories so humans don t have to. Bots now write simple stories about softball games, corporate earnings reports, the weather and, yes, ear...</em></p>
             </td>
             <td>
                 University of Nebraska-Lincoln
@@ -466,7 +466,7 @@ There are currently <strong>89</strong> courses listed; see [some-syllabi.yaml](
                 <p><em>The goal of this class is to teach you how to creatively solve problems in journalism using computer programming. In it, you will learn how to use the Python language, statistics and advanced spreadsh...</em></p>
             </td>
             <td>
-                
+                University of Missouri
             </td>
         </tr>
         <tr>
@@ -738,7 +738,7 @@ There are currently <strong>89</strong> courses listed; see [some-syllabi.yaml](
         </tr>
         <tr>
             <td>
-                <h5>Journalists' Toolkit | 
+                <h5>Journalists  Toolkit | 
 <a href="https://jtoolkit.wordpress.com/">Homepage</a> / 
 <a href="http://www.scribd.com/doc/161146413/Syllabus-JOU6344-Fall-2013">Syllabus</a></h5>
                 
@@ -936,6 +936,332 @@ There are currently <strong>89</strong> courses listed; see [some-syllabi.yaml](
             </td>
             <td>
                 New York University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer-Assisted Reporting | 2007; Spring | 
+<a href="https://ire.org/media/uploads/files/documents/educators-center/sp07carsyl.doc">Syllabus</a></h5>
+                <p><em>We will do three basic things:  go after information, analyze it, and write/produce stories about it.   You’ll improve your web searching capability.  You’ll learn how to use a spreadsheet (Excel) and...</em></p>
+            </td>
+            <td>
+                Kent State University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer-Assisted Reporting | 2008; Spring | 
+<a href="https://dwillis.wordpress.com/">Homepage</a> / 
+<a href="https://dwillis.wordpress.com/syllabus/">Syllabus</a></h5>
+                <p><em>The aim of this class is to teach students how to identify, obtain, analyze and incorporate data into their stories. In practical terms, this means learning to use spreadsheets, databases and the Inte...</em></p>
+            </td>
+            <td>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer-Assisted Reporting | 2011; Spring | 
+<a href="http://www.eiu.edu/include08/global/show_file_gsm.php?type=syllabi2&id=4011">Syllabus</a></h5>
+                <p><em>To give students the fundamentals of computer-assisted reporting, using public documents in order to gather, organize, evaluate data to write objective reports in accepted journalistic style across se...</em></p>
+            </td>
+            <td>
+                Eastern Illinois University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer-Assisted Reporting | 2012; Fall | 
+<a href="https://joegisondi.files.wordpress.com/2012/11/computer-assisted-syllabus-20124.pdf">Syllabus</a></h5>
+                
+            </td>
+            <td>
+                Eastern Illinois University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer Assisted Reporting | 2015; Spring | 
+<a href="http://www.pointloma.edu/sites/default/files/filemanager/Literature_Journalism__Modern_Languages/WRI313_SP15_Syllabus.pdf">Syllabus</a></h5>
+                <p><em>Introduces students to investigative journalism through hands-on laboratory work, including advanced Web research, public records requests, statistical analysis, databases, mapping, visual aids and da...</em></p>
+            </td>
+            <td>
+                Point Loma Nazarene University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Quantitative Journalism: Computer-Assisted Reporting and Research | 2009; Fall | 
+<a href="http://web.augsburg.edu/afa/previous%20syllabi%20folder/2009-2010/tri1/091ENL327A.pdf">Syllabus</a></h5>
+                <p><em>Practicing journalists and those aspiring to enter communications professions are becoming aware that requirements for entry are growing. With the ongoing information explosions, the liberally educate...</em></p>
+            </td>
+            <td>
+                Augsburg College
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Stabile Seminar: The empirical spine of investigative reporting | 2014; Spring | 
+<a href="http://sarahcnyt.github.io/stabile/">Homepage</a></h5>
+                <p><em>This is a class in computer-assisted reporting, a branch of the data journalism movement. In previous incarnations of the class, Maurice Tamman of Reuters dubbed it the “empirical spine” of journalism...</em></p>
+            </td>
+            <td>
+                Columbia University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer Assisted Reporting | 2011; Fall | 
+<a href="https://msu.edu/course/jrn/407/">Homepage</a> / 
+<a href="https://msu.edu/course/jrn/407/Syllabus.htm">Syllabus</a></h5>
+                <p><em>This course will help to strengthen your reporting skills, teach you how to find, negotiate for and acquire public records data, how to query and analyze data, how to use online resources beyond Googl...</em></p>
+            </td>
+            <td>
+                Michigan State University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Journalism Research | 2002; Winter | 
+<a href="http://homepages.wmich.edu/~schristi/journalism_research/index.html">Homepage</a> / 
+<a href="http://homepages.wmich.edu/~schristi/journalism_research/syllabus.html">Syllabus</a></h5>
+                <p><em>This course is designed to provide the student with an introduction to the sources, practices, technique and principles of journalism and other information research. The course introduces students to ...</em></p>
+            </td>
+            <td>
+                Western Michigan University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Craft of Research | 2014; Fall | 
+<a href="http://craftresearch-day.2014.journalism.cuny.edu/">Homepage</a></h5>
+                
+            </td>
+            <td>
+                City University of New York
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data Journalism and Visualization | 2015; Summer | 
+<a href="http://rampages.us/xiamen/wp-content/uploads/sites/7573/2015/06/Syllabus-Data-Journalism-Xiamen.doc">Syllabus</a></h5>
+                <p><em>In our Data Journalism and Visualization course, you will learn how to use the Internet and other digital technology to find ideas, information and sources for your stories. In particular, you will le...</em></p>
+            </td>
+            <td>
+                Xiamen University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>News Gathering and Investigation | 2015; Fall | 
+<a href="http://libguides.utep.edu/c.php?g=430443&p=2935380">Syllabus</a></h5>
+                <p><em>To master basic investigative tools and techniques, as well as how to apply them to everyday reporting and major enterprise stories. We will explore how to take advantage of two main sources of inform...</em></p>
+            </td>
+            <td>
+                University of Texas at El Paso
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data-Driven Reporting | 2015; Fall | 
+<a href="https://journalism.utexas.edu/sites/journalism.utexas.edu/files/attachments/graduate/08140-McDonald.pdf">Syllabus</a></h5>
+                <p><em>This course will cover the basics of computer­assisted reporting, using electronic records for the basis of news reporting. Students will learn how to request data from public and governmental sources...</em></p>
+            </td>
+            <td>
+                University of Texas at Austin
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Research Methods for Journalists | 1998; Spring | 
+<a href="http://wjcohen.home.mindspring.com/nwuindex.htm">Syllabus</a></h5>
+                <p><em>This course is about evaluating and executing social science research. Journalism professionals increasingly need to analyze, interpret and use research methods employed in the social sciences. Knowle...</em></p>
+            </td>
+            <td>
+                Northwestern University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Design & Presentation | 2015; Fall | 
+<a href="http://lenagroeger.com/design/">Homepage</a></h5>
+                <p><em>This course will cover the fundamentals of good presentation, layout, and design for print and the web. We ll cover basic typography, color theory, page layout, information design as well as navigatio...</em></p>
+            </td>
+            <td>
+                City University of New York
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Scraping for Journalists | 2015; Spring | 
+<a href="https://github.com/sisiwei/2015-spring-cuny-web-scraping">Homepage</a> / 
+<a href="https://medium.com/@sisiwei/breaking-the-html-enigma-machine-cc4013c37532">Syllabus</a></h5>
+                <p><em>This is a skills class. I will be teaching you why web scraping is one of the most important tools available to journalists, but in only five weeks, I will primarily be teaching you the technical skil...</em></p>
+            </td>
+            <td>
+                City University of New York
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer Assisted Reporting | 1997; Spring | 
+<a href="http://www.drewsullivan.com/nyu/syllabus.html">Syllabus</a></h5>
+                <p><em>Public records have been the mainstay of good beat and investigative reporting for years. But times are changing. No longer are records stored in dusty file drawers or shelves, but rather on the optic...</em></p>
+            </td>
+            <td>
+                New York University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Advanced Reporting | 2000; Winter | 
+<a href="http://condor.depaul.edu/elawler/cmn377.htm">Syllabus</a></h5>
+                <p><em>The course is designed to go beyond the inverted pyramid of basic newswriting and focus on some of the sophisticated newsgathering techniques used by journalists. As is true with any story, Advanced R...</em></p>
+            </td>
+            <td>
+                DePaul University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Database & Computer Assisted Reporting | 2011; Winter | 
+<a href="http://www2.fiu.edu/~surisc/database.html">Homepage</a> / 
+<a href="http://www2.fiu.edu/~surisc/database%20syllabus.html">Syllabus</a></h5>
+                <p><em>The dual emphasis of the course is to have students acquire the basic skills and practical knowledge of how to access information  in order to support their reporting practices, as well as, a basic un...</em></p>
+            </td>
+            <td>
+                Florida International University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Database & Public Records Reporting | 2006; Summer | 
+<a href="http://www.nreisner.com/res/ClassDocuments/31212.pdf">Syllabus</a></h5>
+                <p><em>We will learn research and analytical methods and how to make sure what you get is true, we’ll review elementary school arithmetic, we’ll learn about powerful software and techniques. More than anythi...</em></p>
+            </td>
+            <td>
+                Florida International University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Applied Fact Finding | 2013; Fall | 
+<a href="http://www.jou.ufl.edu/assets/syllabi/JOU%203110%20fall2013.pdf">Syllabus</a></h5>
+                <p><em>Fact Finding is designed to give student journalists the skills to locate, interpret and analyze a broad variety of informational resources crucial to your success as a working journalist, including s...</em></p>
+            </td>
+            <td>
+                University of Florida
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Applied Fact Finding | 2015; Summer | 
+<a href="https://www.jou.ufl.edu/assets/syllabi/JOU%203110%20Applied%20Fact%20Finding-Section0863-Shumate-SU15.pdf">Homepage</a></h5>
+                <p><em>This course is designed to teach students how to use a wide variety of public records, reference materials and Internet resources to gather information as a reporter. Students will also learn how to a...</em></p>
+            </td>
+            <td>
+                University of Florida
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Applied Fact Finding | 2016; Spring | 
+<a href="https://www.jou.ufl.edu/assets/syllabi/201601/jou3110section3335mannspring2016.pdf">Homepage</a></h5>
+                <p><em>Fact Finding is designed to give student journalists the skills to locate, interpret and analyze a broad variety of informational resources crucial to your success. Students will learn to retrieve dat...</em></p>
+            </td>
+            <td>
+                University of Florida
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Applied Fact Finding | 2012; Spring | 
+<a href="http://dennisfrohlich.com/syllabi/factfinding.pdf">Syllabus</a></h5>
+                <p><em>Fact Finding is designed to give student journalists the skills to locate, interpret and analyze a wide range of informational resources crucial to your success as a working journalist, including stan...</em></p>
+            </td>
+            <td>
+                University of Florida
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computational Journalism | 2015; Fall | 
+<a href="http://www.compjournalism.com/">Homepage</a> / 
+<a href="http://www.compjournalism.com/?p=133">Syllabus</a></h5>
+                <p><em>The course is a hands-on introduction to the areas of computer science that have a direct relevance to journalism, and the broader project of producing an informed and engaged public. We will touch on...</em></p>
+            </td>
+            <td>
+                Columbia University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Investigative Reporting Techniques | 2010; Spring | 
+<a href="https://www.uclaextension.edu/InstructorContent/prod/FileRoot/Syllabus/210080.pdf">Syllabus</a></h5>
+                
+            </td>
+            <td>
+                University of California at Los Angeles, Extension
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Journalism Research | 2016; Spring | 
+<a href="https://journalismandresearch.com/">Homepage</a> / 
+<a href="https://journalismandresearch.com/syllabus/">Syllabus</a></h5>
+                
+            </td>
+            <td>
+                Temple University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer-Assisted Reporting | 2008; Summer | 
+<a href="http://www.iis.ru.ac.th/iis/syllabus/JR301.pdf">Syllabus</a></h5>
+                <p><em>This course introduces practically to the data research and data analysis skills that students and professional journalists need to write better stories. The course focuses on research on the Internet...</em></p>
+            </td>
+            <td>
+                Ramkhamhaeng University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Law, Order & Algorithms | 2016; Winter | <a href="https://5harad.com/mse330/">Homepage/Syllabus</a></h5>
+                <p><em>Data and algorithms are rapidly transforming law enforcement and criminal justice, including how police officers are deployed, how discrimination is detected, and how sentencing, probation, and parole...</em></p>
+            </td>
+            <td>
+                Stanford University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computational Social Science | 2015; Fall | <a href="https://5harad.com/mse231/">Homepage/Syllabus</a></h5>
+                <p><em>With a vast amount of information now collected on our online and offline actions — from what we buy, to where we travel, to who we interact with — we have an unprecedented opportunity to study comple...</em></p>
+            </td>
+            <td>
+                Stanford University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Geek Like Me (Course proposal) | 1997 | 
+<a href="http://blog.mattwaite.com/post/141582141069/i-wrote-a-data-journalism-manual-for-my-college-in">Homepage</a> / 
+<a href="https://www.dropbox.com/s/lbnmaudrt112li3/geeklikeme.pdf?dl=0">Syllabus</a></h5>
+                <p><em>In that independent study, for one credit hour, I was to create a Computer-Assisted Reporting class. The proposal I had to write said I would create a syllabus, recommend texts and create class materi...</em></p>
+            </td>
+            <td>
+                University of Nebraska-Lincoln
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Institute for Analytic Journalism (Proposal) | 2001 | 
+<a href="http://www.bu.edu/iaj/Pubs/IAJProposal-20010327.PDF">Syllabus</a></h5>
+                <p><em>Creating, initially, a master’s degree program for mid-career media and communications professionals or individuals trained in other fields but desirous of academic or professional careers in communic...</em></p>
+            </td>
+            <td>
+                
             </td>
         </tr>
     </tbody>

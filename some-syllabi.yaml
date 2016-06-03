@@ -939,8 +939,7 @@ develop database information in combination with traditional news reporting."
   org: Eastern Illinois University
   instructors:
     - Joe Gisondi
-  materials:
-    - https://joegisondi.files.wordpress.com/2012/11/computer-assisted-syllabus-20124.pdf
+  syllabus: https://joegisondi.files.wordpress.com/2012/11/computer-assisted-syllabus-20124.pdf
 
 - title: Computer Assisted Reporting
   time_period: 2015; Spring
