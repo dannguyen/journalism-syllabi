@@ -1,11 +1,12 @@
 from pathlib import Path
+from string import Template
 import ruamel_yaml as ryaml
 SRC_PATH = Path('some-syllabi.yaml')
 DESC_LENGTH = 200
 DEST_PATH = Path('README.md')
 DEST_START_STR = '<!--tablehere-->'
 
-tbl = """
+tbl = Template("""
 <table>
     <thead>
         <tr>
@@ -14,21 +15,21 @@ tbl = """
         </tr>
     </thead>
     <tbody>
-       {rows}
+       ${rows}
     </tbody>
-</table>"""
+</table>""")
 
-row_template = """
+row_template = Template("""
         <tr>
             <td>
-                <h5>{course}</h5>
-                <p>{links}</p>
-                {description}
+                <h5>${course}</h5>
+                <p>${links}</p>
+                ${description}
             </td>
             <td>
-                {organization}
+                ${organization}
             </td>
-        </tr>"""
+        </tr>""")
 
 
 tablerows = []
@@ -48,9 +49,9 @@ for d in data:
     else:
         links = ' / '.join(["""\n<a href="{1}">{0}</a>""".format(n.capitalize(), d[n]) for n in ('homepage', 'syllabus') if d.get(n)])
 
-    tablerows.append(row_template.format(course=course, description=desc, links=links, organization=d.get('org')))
+    tablerows.append(row_template.substitute(course=course, description=desc, links=links, organization=(d['org'] if d.get('org') else '')))
 
-tbltxt = tbl.format(rows=''.join(tablerows))
+tbltxt = tbl.substitute(rows=''.join(tablerows))
 
 
 readmetxt = DEST_PATH.read_text().splitlines()

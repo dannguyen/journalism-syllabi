@@ -223,7 +223,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 <p><em>This is a course about how to build and maintain your online presence, your digital identity, so to speak. Your digital identity includes everything you read, write and do online – email, social media...</em></p>
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -234,7 +234,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -483,7 +483,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 <p><em>The objective of this course is to familiarize students with digital tools that will become the frameworks with which they can approach storytelling, emphasizing the use of structured data and the vis...</em></p>
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -585,7 +585,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 </em></p>
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -596,7 +596,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -607,7 +607,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -618,7 +618,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -629,7 +629,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -640,7 +640,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -651,7 +651,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -662,7 +662,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -673,7 +673,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -684,7 +684,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -695,7 +695,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -706,7 +706,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -717,7 +717,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -728,7 +728,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -740,7 +740,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -752,7 +752,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -764,7 +764,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -776,7 +776,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -788,7 +788,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
@@ -800,7 +800,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
                 <p><em>In this course, you’ll be introduced to programming and data concepts relevant to communicators. Data visualization and storytelling tools and techniques are covered as related to journalism, advertis...</em></p>
             </td>
             <td>
-                None
+                
             </td>
         </tr>
         <tr>
