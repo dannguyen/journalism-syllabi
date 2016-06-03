@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>146</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>145</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -1117,19 +1117,6 @@ There are currently <strong>146</strong> courses listed; see [some-syllabi.yaml]
             </td>
             <td>
                 University of North Carolina at Chapel Hill
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h5>Data Journalism | 2016; Spring <br>
-                    
-<a href="http://www.asc.usc.edu/CurrentStudents/UGStudentSvcs/Jour/~/media/PDFs/current/Description%20JOUR%20499%20Data%20Journalism%20Spring%202016.ashx">Syllabus</a>
-                </h5>
-                
-                
-            </td>
-            <td>
-                University of Southern California
             </td>
         </tr>
         <tr>
