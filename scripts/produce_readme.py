@@ -1,21 +1,21 @@
 from pathlib import Path
 from tabulate import tabulate
 import ruamel_yaml as ryaml
-HEADERS=['title_time', 'links', 'organization']
+HEADERS=['Name', 'Links', 'Organization']
 SRC_PATH = Path('some-syllabi.yaml')
 DEST_PATH = Path('README.md')
 DEST_START_STR = '<!--tablehere-->'
 
 data = ryaml.load(SRC_PATH.open())
 for d in data:
-    d['title_time'] = '**{0}**'.format(d['title'])
+    d['Name'] = '**{0}**'.format(d['title'])
     if d.get('time_period'):
-        d['title_time'] += ' <br> {0}'.format(d['time_period'])
+        d['Name'] += ' <br> {0}'.format(d['time_period'])
     if d.get('homepage') == d.get('syllabus'):
-        d['links'] = "[Homepage/Syllabus]({0})".format(d['homepage'])
+        d['Links'] = "[Homepage/Syllabus]({0})".format(d['homepage'])
     else:
-        d['links'] = '/'.join(["[{0}]({1})".format(n.capitalize(), d[n]) for n in ('homepage', 'syllabus') if d.get(n)])
-    d['organization'] = d.get('org')
+        d['Links'] = '/'.join(["[{0}]({1})".format(n.capitalize(), d[n]) for n in ('homepage', 'syllabus') if d.get(n)])
+    d['Organization'] = d.get('org')
 
 tbl = tabulate([[d[h] for h in HEADERS] for d in data], headers=HEADERS, tablefmt="pipe")
 

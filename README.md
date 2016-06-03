@@ -24,7 +24,7 @@ The following table is autog-enerated from running [scripts/produce_courselist.p
 
 <!--tablehere-->
 
-| title_time                                                                                  | links                                                                                                                                                                          | organization                              |
+| Name                                                                                        | Links                                                                                                                                                                          | Organization                              |
 |:--------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------|
 | **Math for Beginning Reporters** <br> 2014                                                  | [Homepage](https://github.com/mattwaite/MathForBeginningReporters)                                                                                                             | University of Nebraska-Lincoln            |
 | **Data Visualization** <br> 2013; Fall                                                      | [Homepage](https://github.com/mattwaite/JOUR491-Data-Visualization)                                                                                                            | University of Nebraska-Lincoln            |
