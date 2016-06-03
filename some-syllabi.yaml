@@ -670,7 +670,15 @@ develop database information in combination with traditional news reporting."
 
 
 - title: Storytelling with Data Visualization
+  org: University of Maryland
   homepage: https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015
+  syllabus: https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015
+  time_period: 2015; Fall
+  description: |
+    This course covers the use of data visualization as a method to communicate news stories (narrative visualization) and as a way to explore and analyze data as a method to find new news stories (visual analytics) in a journalism context. Students will learn to apply core principles of visualization related to perception, color, and visual mapping, while also practicing design skills, and implementing interactive data visualizations using both off-the-shelf tools as well as custom-built code. Critical skills and thinking about data visualization will be developed through the study of rhetoric, advocacy graphics, and ethics. Different types of data will be explored to understand a range of visual forms from networks, to timelines, trees, and maps. Several assignments, both critical and creative in nature, as well as an integrative final project will serve to underscore the concepts taught and provide practice in the craft of visualization.
+
+
+
 
 - title: Building Systems for Reporting
   homepage: https://github.com/dwillis/systems-for-reporting
@@ -807,19 +815,63 @@ develop database information in combination with traditional news reporting."
 - title: Computational Journalism
   org: Georgia Tech
   homepage: https://github.com/jacobeisenstein/gt-compj-class
-
-- title: Computational Journalism
-  org: Georgia Tech
-  homepage: https://github.com/jacobeisenstein/gt-compj-class
   syllabus: https://docs.google.com/spreadsheets/d/1hefbuuYoYV7dxzdWgUrepVHhN9LrQtTJXh8i9carKuo/edit
   time_period: 2016
 
-- title: Database Journalism
-  time_period: 2016; Spring
-  org: University of North Carolina at Chapel Hill
-  syllabus: http://mj.unc.edu/sites/default/files/images/Spring2016Schedule.pdf
+
+
 
 - title: Data Driven Journalism
-  time_period: 2016; Summer
+  time_period: 2016; Spring
   org: University of North Carolina at Chapel Hill
-  syllabus: http://mj.unc.edu/sites/default/files/SummerSession2016.pdf
+  syllabus: http://ryanthornburg.com/about-contact/my-classes/syllabus-data-driven-journalism-jomc-390/
+  homepage: http://ryanthornburg.com/about-contact/my-classes/syllabus-data-driven-journalism-jomc-390/
+  instructors:
+    - Ryan Thornburg
+  description: |
+    The economics of digital publishing has opened a floodgate of raw data, and journalism is just one of many fields that are being rapidly transformed by this tsunami of data. In law, medicine, business, politics, and ecology, people are using data to understand the social and natural worlds. They are also using data to tell stories.
+
+    To retain their position as brokers of trust and hubs of community conversation, reporters must understand how the people they cover are using data, and how journalists can use data to improve our shared understand of an increasingly complex world.
+
+
+
+- title: Data Driven Journalism
+  org: University of North Carolina at Chapel Hill
+  time_period: 2015; Maymester
+  syllabus: http://ryanthornburg.com/about-contact/my-classes/2015-maymester-data-journalism-class/syllabus/
+
+  description: |
+    The economics of digital publishing technology have opened a floodgate of raw data, and journalism is just one of many fields that are being rapidly transformed by that floodgate. In law, medicine, business, politics, and ecology, people are using data to understand the social and natural worlds. They are also using data to tell stories.
+
+
+- title: Data Journalism
+  time_period: 2016; Spring
+  org: University of Southern California
+  syllabus: http://www.asc.usc.edu/CurrentStudents/UGStudentSvcs/Jour/~/media/PDFs/current/Description%20JOUR%20499%20Data%20Journalism%20Spring%202016.ashx
+
+- title: Big Data and Global Media
+  time_period: 2016
+  org: Yale University
+  syllabus: https://valeriebelairgagnon.com/2016/02/09/big-data-and-global-media-syllabus/
+  description: |
+     In this reading group, we examine the legal challenges posed by big data in media production, distribution, and consumption. We are looking at relevant markets, government institutions, debates specific to the media under FCC jurisdiction, the challenges of law- and policy-making in a period of technological convergence, and emerging issues in law and policy.
+
+- title: Data Visualization and Infographics with D3.js
+  homepage: http://journalismcourses.org/D3syllabus.html
+  description: |
+    This course consists of an in-depth discussion about the principles of infographics and data visualization, and how they apply to the real world. Students will learn how to display information using charts, maps, diagrams, and visual narratives, and how to bring them to life using d3.js, a Javascript library, which is quickly becoming a standard in visualization for communication.
+  time_period: 2015; March 16 - April 26
+  instructors:
+    - Alberto Cairo
+    - Scott Murray
+
+- title: Data Journalism in Enterprise Reporting
+  org: Ohio State University
+  syllabus: https://comm.osu.edu/sites/comm.osu.edu/files/SP16%20Comm%204221%20Syllabus%20Hunt.pdf
+  time_period: 2016; Spring
+  instructors:
+    - Spencer Hunt @spencerhuntosu
+  description: |
+     In this class, we will practice data journalism, a technique that is also called computer-assisted reporting. Also called precision journalism, this reporting strategy uses computers to analyze the ever-increasing amount of publicly available data to create unique and compelling stories. This course will teach the fundamentals of such techniques and combine your analysis of publicly available data into a semester-long enterprise reporting project. You will create a story, or a series of stories, that spring from the records you analyze.
+
+

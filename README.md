@@ -24,7 +24,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 
 
 
-There are currently <strong>85</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>88</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -651,13 +651,12 @@ There are currently <strong>85</strong> courses listed; see [some-syllabi.yaml](
         </tr>
         <tr>
             <td>
-                <h5>Storytelling with Data Visualization</h5>
-                <p>
-<a href="https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015">Homepage</a></p>
-                
+                <h5>Storytelling with Data Visualization | 2015; Fall</h5>
+                <p><a href="https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015">Homepage/Syllabus</a></p>
+                <p><em>This course covers the use of data visualization as a method to communicate news stories (narrative visualization) and as a way to explore and analyze data as a method to find new news stories (visual...</em></p>
             </td>
             <td>
-                
+                University of Maryland
             </td>
         </tr>
         <tr>
@@ -943,17 +942,6 @@ There are currently <strong>85</strong> courses listed; see [some-syllabi.yaml](
         </tr>
         <tr>
             <td>
-                <h5>Computational Journalism</h5>
-                <p>
-<a href="https://github.com/jacobeisenstein/gt-compj-class">Homepage</a></p>
-                
-            </td>
-            <td>
-                Georgia Tech
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <h5>Computational Journalism | 2016</h5>
                 <p>
 <a href="https://github.com/jacobeisenstein/gt-compj-class">Homepage</a> / 
@@ -966,10 +954,9 @@ There are currently <strong>85</strong> courses listed; see [some-syllabi.yaml](
         </tr>
         <tr>
             <td>
-                <h5>Database Journalism | 2016; Spring</h5>
-                <p>
-<a href="http://mj.unc.edu/sites/default/files/images/Spring2016Schedule.pdf">Syllabus</a></p>
-                
+                <h5>Data Driven Journalism | 2016; Spring</h5>
+                <p><a href="http://ryanthornburg.com/about-contact/my-classes/syllabus-data-driven-journalism-jomc-390/">Homepage/Syllabus</a></p>
+                <p><em>The economics of digital publishing has opened a floodgate of raw data, and journalism is just one of many fields that are being rapidly transformed by this tsunami of data. In law, medicine, business...</em></p>
             </td>
             <td>
                 University of North Carolina at Chapel Hill
@@ -977,13 +964,57 @@ There are currently <strong>85</strong> courses listed; see [some-syllabi.yaml](
         </tr>
         <tr>
             <td>
-                <h5>Data Driven Journalism | 2016; Summer</h5>
+                <h5>Data Driven Journalism | 2015; Maymester</h5>
                 <p>
-<a href="http://mj.unc.edu/sites/default/files/SummerSession2016.pdf">Syllabus</a></p>
-                
+<a href="http://ryanthornburg.com/about-contact/my-classes/2015-maymester-data-journalism-class/syllabus/">Syllabus</a></p>
+                <p><em>The economics of digital publishing technology have opened a floodgate of raw data, and journalism is just one of many fields that are being rapidly transformed by that floodgate. In law, medicine, bu...</em></p>
             </td>
             <td>
                 University of North Carolina at Chapel Hill
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data Journalism | 2016; Spring</h5>
+                <p>
+<a href="http://www.asc.usc.edu/CurrentStudents/UGStudentSvcs/Jour/~/media/PDFs/current/Description%20JOUR%20499%20Data%20Journalism%20Spring%202016.ashx">Syllabus</a></p>
+                
+            </td>
+            <td>
+                University of Southern California
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Big Data and Global Media | 2016</h5>
+                <p>
+<a href="https://valeriebelairgagnon.com/2016/02/09/big-data-and-global-media-syllabus/">Syllabus</a></p>
+                <p><em>In this reading group, we examine the legal challenges posed by big data in media production, distribution, and consumption. We are looking at relevant markets, government institutions, debates specif...</em></p>
+            </td>
+            <td>
+                Yale University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data Visualization and Infographics with D3.js | 2015; March 16 - April 26</h5>
+                <p>
+<a href="http://journalismcourses.org/D3syllabus.html">Homepage</a></p>
+                <p><em>This course consists of an in-depth discussion about the principles of infographics and data visualization, and how they apply to the real world. Students will learn how to display information using c...</em></p>
+            </td>
+            <td>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data Journalism in Enterprise Reporting | 2016; Spring</h5>
+                <p>
+<a href="https://comm.osu.edu/sites/comm.osu.edu/files/SP16%20Comm%204221%20Syllabus%20Hunt.pdf">Syllabus</a></p>
+                <p><em>In this class, we will practice data journalism, a technique that is also called computer-assisted reporting. Also called precision journalism, this reporting strategy uses computers to analyze the ev...</em></p>
+            </td>
+            <td>
+                Ohio State University
             </td>
         </tr>
     </tbody>
