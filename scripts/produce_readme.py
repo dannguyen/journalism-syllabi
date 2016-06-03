@@ -2,12 +2,11 @@ from pathlib import Path
 from string import Template
 import ruamel_yaml as ryaml
 SRC_PATH = Path('some-syllabi.yaml')
-DESC_LENGTH = 200
 DEST_PATH = Path('README.md')
+DESC_LENGTH = 200
 DEST_START_STR = '<!--tablehere-->'
 
 tbl = Template("""
-
 There are currently <strong>${rowcount}</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
@@ -33,18 +32,14 @@ row_template = Template("""
             </td>
         </tr>""")
 
-
 tablerows = []
 data = ryaml.load(SRC_PATH.open())
 for d in data:
     course = '{0} | {1}'.format(d['title'], d['time_period']) if d.get('time_period') else d['title']
-
-
     if d.get('description'):
         desc = '<p><em>{0}</em></p>'.format(d['description'][:DESC_LENGTH] + '...' if len(d['description']) > DESC_LENGTH else d['description'])
     else:
         desc = ""
-
 
     if d.get('homepage') == d.get('syllabus'):
         links = """<a href="{0}">Homepage/Syllabus</a>""".format(d['homepage'])
@@ -53,11 +48,7 @@ for d in data:
 
     tablerows.append(row_template.substitute(course=course, description=desc, links=links, organization=(d['org'] if d.get('org') else '')))
 
-
-
 tbltxt = tbl.substitute(rows=''.join(tablerows), rowcount=len(tablerows))
-
-
 readmetxt = DEST_PATH.read_text().splitlines()
 
 try:
