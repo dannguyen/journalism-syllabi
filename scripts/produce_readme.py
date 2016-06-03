@@ -7,6 +7,9 @@ DEST_PATH = Path('README.md')
 DEST_START_STR = '<!--tablehere-->'
 
 tbl = Template("""
+
+There are currently <strong>${rowcount}</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+
 <table>
     <thead>
         <tr>
@@ -51,7 +54,9 @@ for d in data:
 
     tablerows.append(row_template.substitute(course=course, description=desc, links=links, organization=(d['org'] if d.get('org') else '')))
 
-tbltxt = tbl.substitute(rows=''.join(tablerows))
+
+
+tbltxt = tbl.substitute(rows=''.join(tablerows), rowcount=len(rows))
 
 
 readmetxt = DEST_PATH.read_text().splitlines()
