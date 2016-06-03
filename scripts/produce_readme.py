@@ -24,7 +24,9 @@ There are currently <strong>${rowcount}</strong> courses listed; see [some-sylla
 row_template = Template("""
         <tr>
             <td>
-                <h5>${course} | ${links}</h5>
+                <h5>${course} <br>
+                    ${links}
+                </h5>
                 ${description}
             </td>
             <td>
