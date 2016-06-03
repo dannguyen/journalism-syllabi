@@ -1,6 +1,8 @@
 # journalism-syllabi
 
-This is a collection of computational and data journalism courses for which there's a __publicly available__ homepage or syllabus to use as a reference.  I started compiling this list before arriving at Stanford in 2014. In June 2016, I uploaded it here  and made a few updates, but it's not complete or consistent by any means. It includes a few not-really computational/journalism courses, which I may edit out later. As I have time, I try to serialize various aspects of each course (see [some-syllabi.yaml](some-syllabi.yaml) for all the data fields), such as which textbooks are used and what specific skills are taught.
+This is a collection of computational and data journalism courses for which there is a __publicly available homepage or syllabus__ suitable for others to use as a reference, i.e. basically anything that shows up in a Google search for `syllabus` + `computational`/`data`/`research` + `journalism` / `computer assisted reporting`. 
+
+This list includes courses from as early as 1997 and several taught in countries not in North America. I started compiling this list before [teaching at Stanford](http://cjlab.stanford.edu/) in 2014. In June 2016, I uploaded it here  and made a few updates, but it's not complete or consistent by any means. It includes a few not-really computational/journalism courses, which I may trim later, and misses anything not found via Google or from the top of my head. As I have time, I try to serialize various aspects of each course (see [some-syllabi.yaml](some-syllabi.yaml) for all the data fields), such as which textbooks are used and what specific skills are taught.
 
 A simplified HTML rendering of [some-syllabi.yaml](some-syllabi.yaml) is at the [end of this README](#table-courses); I'll make it a Jekyll site later.
 
@@ -8,6 +10,8 @@ A simplified HTML rendering of [some-syllabi.yaml](some-syllabi.yaml) is at the 
 For investigative journalism syllabi, the [Investigative Journalism Education Consortium maintains](http://ijec.org/) a list here:  http://ijec.org/syllabi/
 
 [Investigative Reporters & Editors](https://ire.org/) also maintains a collection: https://ire.org/resource-center/educators-center/syllabi/
+
+Also relevant: This report by Charles Berret (Columbia University) and Cheryl Phillips (Stanford University): [Teaching Data and Computational Journalism](https://www.gitbook.com/book/columbiajournalism/teaching-data-computational-journalism/details)
 
 
 Feel free to add suggestions in the [issues](https://github.com/dannguyen/journalism-syllabi/issues).
@@ -24,7 +28,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 
 
 
-There are currently <strong>121</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>122</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -1259,6 +1263,16 @@ There are currently <strong>121</strong> courses listed; see [some-syllabi.yaml]
                 <h5>Institute for Analytic Journalism (Proposal) | 2001 | 
 <a href="http://www.bu.edu/iaj/Pubs/IAJProposal-20010327.PDF">Syllabus</a></h5>
                 <p><em>Creating, initially, a master’s degree program for mid-career media and communications professionals or individuals trained in other fields but desirous of academic or professional careers in communic...</em></p>
+            </td>
+            <td>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Storytelling with Data + Interactivity | 2014; Fall | 
+<a href="http://sisiwei.github.io/cuny-interactive-fall-2014/">Homepage</a></h5>
+                <p><em>The Data/Interactivity 10-week portion of this course introduces students to the essential concepts, tools, and story forms in multimedia storytelling. Students learn the basics of HTML/CSS/JavaScript...</em></p>
             </td>
             <td>
                 

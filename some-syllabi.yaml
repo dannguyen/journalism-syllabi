@@ -1227,3 +1227,13 @@ develop database information in combination with traditional news reporting."
   description: |
     Creating, initially, a master’s degree program for mid-career media and communications professionals or individuals trained in other fields but desirous of academic or professional careers in communications. This program will focus on methods, data and analytic techniques largely unknown to traditional journalism and media management.
 
+- title: Storytelling with Data + Interactivity
+  homepage: http://sisiwei.github.io/cuny-interactive-fall-2014/
+  github: https://github.com/sisiwei/cuny-interactive-fall-2014
+  time_period: 2014; Fall
+  instructors:
+    - Sisi Wei
+  description: |
+    The Data/Interactivity 10-week portion of this course introduces students to the essential concepts, tools, and story forms in multimedia storytelling. Students learn the basics of HTML/CSS/JavaScript, leverage existing frameworks and libraries (Bootstrap, jQuery), and pitch, report, produce, and critique interactive, media-rich news packages.
+
+    The course covers four common multimedia story forms (slideshows, charts, maps, and quizzes), which allow students to explore the different narrative potential of each, and to delve into data, coding, design, and interactivity. This module covers fundamental technical skills that will serve as the foundation for your interactive work at the CUNY Graduate School of Journalism.
