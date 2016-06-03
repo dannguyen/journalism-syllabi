@@ -1,6 +1,6 @@
 from pathlib import Path
 from string import Template
-import ruamel_yaml as ryaml
+import ruamel.yaml as ryaml
 SRC_PATH = Path('some-syllabi.yaml')
 DEST_PATH = Path('README.md')
 DESC_LENGTH = 200
@@ -28,6 +28,7 @@ row_template = Template("""
                     ${links}
                 </h5>
                 ${description}
+                ${teachers}
             </td>
             <td>
                 ${organization}
@@ -43,12 +44,20 @@ for d in data:
     else:
         desc = ""
 
+
+    if d.get('instructors'):
+        teachers = '<p><strong>Instructors:</strong> {0}</p>'.format(', '.join(d['instructors']))
+    else:
+        teachers = ''
+
     if d.get('homepage') == d.get('syllabus'):
         links = """<a href="{0}">Homepage/Syllabus</a>""".format(d['homepage'])
     else:
         links = ' / '.join(["""\n<a href="{1}">{0}</a>""".format(n.capitalize(), d[n]) for n in ('homepage', 'syllabus') if d.get(n)])
 
-    tablerows.append(row_template.substitute(course=course, description=desc, links=links, organization=(d['org'] if d.get('org') else '')))
+    tablerows.append(row_template.substitute(course=course, description=desc,
+                                             links=links, teachers=teachers,
+                                             organization=(d['org'] if d.get('org') else '')))
 
 tbltxt = tbl.substitute(rows=''.join(tablerows), rowcount=len(tablerows))
 readmetxt = DEST_PATH.read_text().splitlines()

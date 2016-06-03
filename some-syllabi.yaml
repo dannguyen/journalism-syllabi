@@ -90,8 +90,6 @@
       - Basic familiarity with spreadsheets
       - Comfort with a web browser
 
-
-
 - title: Foundations of Computing
   homepage: https://github.com/ledeprogram/courses/tree/master/foundations
   syllabus: https://github.com/ledeprogram/courses/tree/master/foundations
@@ -204,7 +202,7 @@
   course_listing: WRIT1-CE9741
   syllabus: http://www.jsvine.com/WRIT1-CE9741/syllabus/
   instructors:
-    - Jeremy Singer-Vine
+    - "Jeremy Singer-Vine"
   description: |
     Data-based journalism is increasingly important at all levels of news organizations. This course will introduce you to fundamental concepts and skills for gathering, analyzing, and visualizing data. It’s also a hands-on class; you’ll apply the techniques you learn each week to a semester-long data-reporting project.
   time_period: 2013; Fall
@@ -235,39 +233,13 @@
     - Web scraping
     - Adobe Illustrator
 
-- title: Your Digital Life
-  course_listing: MMC 3260/5015
-  homepage: http://iml.jou.ufl.edu/carlson/mmc5015/
-  org: University of Florida
-  description: |
-    This is a course about how to build and maintain your online presence, your digital identity, so to speak. Your digital identity includes everything you read, write and do online – email, social media, blogging, personal websites, shopping, archiving your professional work, and gaming. Your digital life is becoming more and more important as the internet and the web permeate every facet of our lives.
-  schedule: http://iml.jou.ufl.edu/carlson/mmc5015/calendar.html
-  time_period: 2013; Fall
-  instructors:
-    - Dave Carlson @gigabit1
-  prereqs:
-    - JOU 1100, Intro to Journalism
-    - JOU 3109c, Multimedia Writing
-    - Junior standing or permission of the instructor
-  materials:
-    - "HTML5 & CSS3 Visual QuickStart Guide (7th Edition) by Elizabeth Castro and Bruce Hyslop, ISBN: 0321719611."
-    - "Journalism Next by Mark Briggs, ISBN: 1452227853"
-  buzzwords:
-    - CSS
-    - HTML
-    - WordPress
-    - Photoshop
-    - SEO
-    - Video
-    - QR codes
-    - Github
-
 
 
 - title: Computer-Assisted Reporting
   course_listing: MPJO-720
   org: Georgetown University
-  instructors: Robert Benincasa @RobertBenincasa
+  instructors:
+    - Robert Benincasa @RobertBenincasa
   time_period: 2010; Spring
   homepage: http://kbpublisher.gu-scs.com/kb_file/WebFiles/MPS%20Journalism/MPS%20JO%20Syllabi/MPS%20JO%20Spring%202010/MPJO720.Computer.Assisted.Reporting.RBenincasa.10a.pdf
   description: |
@@ -314,15 +286,6 @@ develop database information in combination with traditional news reporting."
     (Bedford/St. Martin’s Press, 2004) ISBN 0-312-41149-9"
     - "Kathleen Wickham, Math Tools for Journalists 2nd edition (Marion Street Press, 2003) ISBN 0-966-517652"
 
-- title: Social Media Theory and Practice
-  homepage: http://www.memphis.edu/journalism/2011_Spring/J7200.01Brown.pdf
-  time_period: 2011; Spring
-  instructors:
-    - Carrie Brown-Smith @brizzyc
-  org: University of Memphis
-  description: |
-    This course will combine theory and practice to help you develop your understanding of the many changes rocking the media landscape and build the skills you will need to join the fray.
-
 
 - title: Computational Journalism
   homepage: http://courses.jmsc.hku.hk/jmsc6041spring2013/
@@ -337,7 +300,7 @@ develop database information in combination with traditional news reporting."
     This course, given at the University of Hong Kong during January-February 2013, is an advanced look at how techniques from visualization, natural language processing, social network analysis, statistics, and cryptography apply to four different areas of journalism: finding stories through data mining, communicating what you’ve learned, filtering an overwhelming volume of information, and tracking the spread of information and effects. The course assumes knowledge of computer science, including standard algorithms and linear algebra. Several of the assignments require students to write Python code at an intermediate level. But this introductory video, which explains the topics covered, is for everyone.
 
 - title: Frontiers of Computational Journalism
-  homepage: https://groups.google.com/forum/#!topic/computational-communication/OMKYrD5K5JE
+  syllabus: http://www.compjournalism.com/?p=6
   course_listing: JOUR 6002
   org: Columbia University
   instructors:
@@ -389,8 +352,6 @@ develop database information in combination with traditional news reporting."
   instructors:
     - Rachel Schutt
   org: Columbia University
-  description: |
-    This course is an introduction to the interdisciplinary and emerging field of data science, which lies at the intersection of statistics, computer science, data visualization and the social sciences. The course will be organized around three central threads: (1) statistical modeling and machine learning, (2) data pipelines, programming languages and “big data” tools, and (3) real world topics and case studies. Correspondingly there will be (1) core lectures, (2) labs and (3) guest lectures from researchers and scientists who are experts in their fields. Topics and tools will include logistic regression, predictive modeling, clustering algorithms, decision trees, Hadoop, data pipelines, visualization, data journalism, R, python.
 
 - title: Data-driven Interactive Journalism
   homepage: http://datadrivenjournalism.fall.2013.journalism.cuny.edu/syllabus-fall-2013/
@@ -410,8 +371,38 @@ develop database information in combination with traditional news reporting."
   instructors:
     - Russell Chun
     - Amanda Hickman
+
+
+- title: Data Journalism
+  org: New York University
+  homepage: http://kpq.github.io/spring-2015/
+  time_period: 2015; Spring
+  instructors:
+    - Amanda Cox
+    - Kevin Quealy
   description: |
-    We swim in a world of data – from election results, budgets and census reports, to Facebook updates and image uploads. Journalists need to know how to find stories in data and shape them in compelling ways. This hands-on course teaches reporters and editors to gather, analyze, and visualize interactive data-driven stories. This emerging discipline touches on information and interactivity design, mapping, graphing, animation tools, and data analysis. Participants are expected to pitch, report, and produce stories working alone and in teams. You’ll learn to use online Web tools such as Google Fusion Tables, Refine, and Maps, and integrate them in a non code-intensive development environment. Familiarity with HTML/CSS is helpful, but not required. This is not a course in coding, but programmers of all skill levels are welcome.
+    This course teaches some of the skills and techniques necessary for obtaining, analyzing and communicating structured information effectively. Students will scrutinize techniques used in previously published projects and will also analyze data on their own, primarily using Excel, HTML, CSS and Javascript (and JS libraries like D3), and, in some cases, command-line tools.
+
+
+- title: Data Journalism
+  org: New York University
+  homepage: http://kpq.github.io/nyu-data-journalism-fall-2014/
+  time_period: 2014; Fall
+  instructors:
+    - Amanda Cox
+    - Kevin Quealy
+
+
+
+- title: Data Journalism
+  org: New York University
+  homepage: http://kpq.github.io/nyu-data-journalism-2014/
+  time_period: 2014; Spring
+  instructors:
+    - Amanda Cox
+    - Kevin Quealy
+
+
 
 - title: Sherp 31 Data Journalism
   homepage: http://kpq.github.io/sherp-31/
@@ -444,6 +435,16 @@ develop database information in combination with traditional news reporting."
     Computer-assisted reporting (CAR) refers to the analysis of public records that are stored electronically instead of on paper. This is largely a skills course with a heavy hands-on component. By successfully completing this course, you will be able to identify, obtain, evaluate, clean, analyze and visualize data. You will be expected to think like a journalist by evaluating data critically and applying what you learn to news stories, information graphics or web applications.You’ll learn how to use software tools, such as spreadsheets, database managers, text editors and data-cleaning programs.
 
 
+- title: Power Journalism
+  syllabus: https://ire.org/media/uploads/files/documents/educators-center/powerjournalism2007.doc
+  org: University of Oregon
+  course_listing: J463/J563
+  instructors:
+    - Scott R. Maier
+  time_period: 2006; Spring
+  description: |
+      Power Journalism is a specialized reporting course on high-tech investigative techniques used by today's best journalists to uncover new sources of information, analyze data, and give stories greater depth and context. Using Census, FBI and other government data, you will learn how to apply Excel, a powerful electronic spreadsheet, to organize and interpret thousands of electronic records at the push of keystroke. You will also learn advanced techniques to find, download and evaluate data sources on the Internet. But this course won't be just a digital experience. You will go out in the community to tell real-life stories about the people behind the numbers, as well as to introduce yourself on the Internet with your own blog (web log). In addition, this course examines ethical and technological issues that these powerful tools present to media and society
+
 - title: Computer-Assisted Journalism
   homepage: http://media.okstate.edu/faculty/kstan/ketterer/car-s.htm
   time_period: 2003; Fall
@@ -455,18 +456,19 @@ develop database information in combination with traditional news reporting."
 
 
 - title: Digital Journalism
-  homepage: http://www.theinternetwon.com/
+  homepage: http://comm217.stanford.edu/syllabus/
   description: |
-    Traditional newspaper journalists had no need to learn how to operate the printing presses. Or to understand strategies the Marketing and Circulation departments used to promote and distribute their work. Their interactions with readers were one-sided at best, antisocial at worst, and computers were treated as glorified word processors. The Internet blew that world up. Mobile technologies are shaking it yet again. This course will explore the mind-sets and skill-sets of digital journalism, covering website development and design; data analysis and visualization; search engine and social media strategies; audience engagement; mobile platforms; and web analytics.
-  time_period: 2013; Winter
+    In “legacy” media, newspaper and magazine journalists had no need to learn how to operate the printing presses, or to understand strategies the marketing and circulation departments used to promote and distribute their work. Their interactions with readers were one-sided at best, antisocial at worst. And computers were treated as glorified typewriters. The Internet blew that world up. Mobile technologies and social media are shaking it yet again. This course explores the mind-sets and skill-sets of journalism in the digital age.
+  time_period: 2014; Winter
   org: Stanford University
   instructors:
     - R.B. Brenner
     - Drake Martinet
 
+
 - title: Database Reporting
   org: University of Minnesota
-  homepage: http://www.ire.org/media/uploads/files/documents/educators-center/sylvevster_umn_2012.pdf
+  syllabus: http://www.ire.org/media/uploads/files/documents/educators-center/sylvevster_umn_2012.pdf
   description: |
     This is a skills-based, capstone course designed to enhance reporting skills, primarily by identifying and analyzing electronic data to look for patterns and trends that can lead to in-depth news stories. Students will obtain and analyze digital data for computer-assisted reporting that can be published on various media platforms Students will use spreadsheets and databases to manage information, find news stories, and produce graphics. Although students will spend a great deal of time learning how to use Microsoft Excel and Access software, this is not a class about computer programs; it s a class about good reporting practices. Learning the software is just one way to become a better reporter.
   instructors:
@@ -495,33 +497,6 @@ develop database information in combination with traditional news reporting."
   description: |
     The world that we live in and report on is increasingly influenced by data. This course will help you use data to find and develop stories that can’t be found in other ways. Data can be anything: spreadsheets full of numbers, the text of speeches or the measured observations of daily life. Reporters need to be able to treat data as another source to be researched, interviewed and analyzed, using the right tool for the job. Beginning with spreadsheets and continuing to databases, basic mapping and rudimentary programming, this class will make working with data a part of your skill set. This is a skills-based course, so students will need to be comfortable with learning to use computer software beyond word processors. If you are wondering if you can do this stuff, you can. You may prefer interviewing people to data, but avoiding data - particularly for Washington journalists - is no longer an option."
 
-- title: Advanced Data Journalism
-  instructors:
-    - Chase Davis
-  org: University of Missouri
-  time_period: 2013; Spring
-  homepage: https://github.com/cjdd3b/advanced-data-journalism/tree/old/spring-2013
-
-- title: Advanced Data Journalism
-  instructors:
-    - Chase Davis
-  org: University of Missouri
-  time_period: 2014; Spring
-  homepage: https://github.com/cjdd3b/advanced-data-journalism/tree/old/spring-2014
-
-- title: Advanced Data Journalism
-  instructors:
-    - Chase Davis
-  org: University of Missouri
-  time_period: 2015; Spring
-  homepage: https://github.com/cjdd3b/advanced-data-journalism/tree/old/spring-2015
-
-- title: Advanced Data Journalism
-  instructors:
-    - Chase Davis
-  org: University of Missouri
-  time_period: 2015; Fall
-  homepage: https://github.com/cjdd3b/advanced-data-journalism/tree/fall-2015
 
 - title: Advanced Data Journalism
   org: University of Missouri
@@ -535,6 +510,36 @@ develop database information in combination with traditional news reporting."
     The goal of this class is to teach you how to creatively solve problems in journalism using computer programming. In it, you will learn how to use the Python language, statistics and advanced spreadsheet and database concepts, then apply those skills to real-world exercises. At the end of the semester, you will have been exposed to most of the skills required to do advanced data journalism in a newsroom environment.
 
 
+
+- title: Advanced Data Journalism
+  instructors:
+    - Chase Davis
+  org: University of Missouri
+  time_period: 2015; Fall
+  homepage: https://github.com/cjdd3b/advanced-data-journalism/tree/fall-2015
+
+- title: Advanced Data Journalism
+  instructors:
+    - Chase Davis
+  org: University of Missouri
+  time_period: 2015; Spring
+  homepage: https://github.com/cjdd3b/advanced-data-journalism/tree/old/spring-2015
+
+
+- title: Advanced Data Journalism
+  instructors:
+    - Chase Davis
+  org: University of Missouri
+  time_period: 2014; Spring
+  homepage: https://github.com/cjdd3b/advanced-data-journalism/tree/old/spring-2014
+
+
+- title: Advanced Data Journalism
+  instructors:
+    - Chase Davis
+  org: University of Missouri
+  time_period: 2013; Spring
+  homepage: https://github.com/cjdd3b/advanced-data-journalism/tree/old/spring-2013
 
 - title: Data Science Storytelling
   homepage: http://hmason.github.io/datastorytelling/
@@ -632,7 +637,8 @@ develop database information in combination with traditional news reporting."
   time_period: 2015; Fall
   description: |
     This course covers the use of data visualization as a method to communicate news stories (narrative visualization) and as a way to explore and analyze data as a method to find new news stories (visual analytics) in a journalism context. Students will learn to apply core principles of visualization related to perception, color, and visual mapping, while also practicing design skills, and implementing interactive data visualizations using both off-the-shelf tools as well as custom-built code. Critical skills and thinking about data visualization will be developed through the study of rhetoric, advocacy graphics, and ethics. Different types of data will be explored to understand a range of visual forms from networks, to timelines, trees, and maps. Several assignments, both critical and creative in nature, as well as an integrative final project will serve to underscore the concepts taught and provide practice in the craft of visualization.
-
+  instructors:
+    - Nicholas Diakopoulos @ndiakopoulos
 
 
 - title: Information Visualization
@@ -656,49 +662,112 @@ develop database information in combination with traditional news reporting."
   homepage: https://github.com/dwillis/systems-for-reporting
   syllabus: https://github.com/dwillis/systems-for-reporting/blob/master/syllabus.md
   org: University of Maryland
+  time_period: 2016; Fall
+  instructors:
+    - Derek Willis
+  description: |
+    This course will teach students how to use data and technology to craft a systematic approach to beat reporting, or to build what you could call a reporter’s exoskeleton. Such a system would make it easier for a journalist to place news in context or spot interesting and potentially newsworthy events.
 
-- title: WV Election Reporting
-  homepage: https://github.com/dwillis/wv_elections
+
+
+- title: West Virginia Election Reporting
+  homepage: http://dwillis.github.io/wv_elections/
+  github: https://github.com/dwillis/wv_elections
+  time_period: 2014; Fall
   org: West Virginia University
+  instructors:
+    - Derek Willis
 
 - title: Data Journalism
   syllabus: https://www.jou.ufl.edu/assets/syllabi/JOU4930%20DataJou-Section%2003C8s-Lewis-FA14.pdf
   org: University of Florida
+  instructors:
+    - Norm Lewis
+  time_period: 2014; Fall
+  description: |
+    Students will develop a “data frame of mind” by demonstrating proficiency in:
+
+    - Finding stories in data and finding data to report stories.
+    - Evaluating the strengths and weaknesses of data sources and methods.
+    - Acquiring data through public sources and by scraping websites and PDFs.
+    - Cleaning (fix mistakes in) data through Open Refine, Excel and Access.
+    - Analyzing data to find patterns and avoid erroneous conclusions.
+    - Writing SQL queries in Access to evaluate data and join databases.
+    - Joining and analyzing geographic data in ArcGIS.
+    - Creating basic data visualizations using Excel, Google Fusion and Tableau.
+    - Publishing a meaningful story based on acquiring and analyzing data.
 
 - title: Data Journalism
   homepage: http://bahareh.newslab.ie/nuigddj15.html
+  time_period: 2015; Fall
   org: National University of Ireland Galway
+  instructors:
+    - Bahareh Heravi @Bahareh360
+  description: |
+    This course is part of MA in Journalism at the National University of Ireland, Galway, and will introduce journalistm students to the practise of data journalism and showcase a set of tools and technicques for data driven analysis, investigation and storytelling.
+
+
 - title: Reporting Methods
   org: Carleton University
   time_period: 2016; Winter
+  instructors:
+    - David McKie
+    - Jim Bronskill
   homepage: http://www.davidmckie.com/reporting-methods-carleton-university-journalism-5206-winter-2016/
+  description: |
+    Obtain a thorough grounding in journalistic research methods.  Acquire skills, such as data-journalism reporting techniques, needed to make sense of the information gathered and filing access-to-information requests. Develop the ability to shape the information into accurate and compelling stories.
 
 - title: Reporting Methods
   time_period: 2014; Winter
   org: Carleton University
   homepage: http://www.davidmckie.com/syllabus/reporting-methods-carleton-university-journalism-5206-2/
+  instructors:
+    - David McKie
+    - Jim Bronskill
 
 
 - title: Computer Assisted Reporting
   org: Carleton University
+  time_period: 2015; Fall
   homepage: http://www.davidmckie.com/jou-1526_-computer-assisted-reporting-2015/
+  instructors:
+    - David McKie
+  description: |
+    To teach students how to find information on the Internet and government hard drives using advanced search techniques and tools such as Excel, MySQL, Google Fusion Tables and ArcGIS Online to make sense of the information and render it more accessible readers, viewers and listeners through multi-media platforms. We will also learn how to negotiate for data that government officials are reluctant to release.
 
 - title: Computational Journalism
   homepage: https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016
+  syllabus: https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016
+  time_period: 2016; Spring
   org: University of Maryland
+  instructors:
+    - Nicholas Diakopoulos @ndiakopoulos
+  description: |
+    This course explores the conceptualization and application of computational and data-driven approaches to journalism practice. Students will examine how computational techniques are changing journalistic data gathering, curation, sensemaking, presentation, dissemination, and analytics of content. Methods from text analysis, social computing, automated news production, simulation / prediction / modeling, algorithmic accountability, and content analytics will be applied to real journalistic scenarios. Several assignments, both critical and creative in nature, as well as an integrative final project will serve to underscore the concepts taught and provide practice in producing artifacts of computational journalism.
+
+
 
 - title: Advanced Data Journalism
   homepage: https://simonrogers.github.io/datajournalism/
   time_period: 2015; Winter
   org: University of California at Berkeley
+  instructors:
+    - Simon Rogers
+  description: |
+    The course will introduce reporters to the practice of data journalism in a busy newsroom, showcasing the importance of telling a story and how tools can help you do it.
 
 - title: Advanced Coding for Journalists
   homepage: http://jrue.github.io/advancedcoding/
   org: University of California at Berkeley
+  instructors:
+    - Jeremy Rue
+
 
 - title: Intro to Multimedia Web Skills
   homepage: http://jrue.github.io/webskills/
   org: University of California at Berkeley
+  instructors:
+    - Jeremy Rue
 
 - title: Data Journalism
   syllabus: http://wp.vcu.edu/nenudata/files/2014/02/Data-journalism-syllabus-by-week.pdf
@@ -708,36 +777,53 @@ develop database information in combination with traditional news reporting."
   homepage: http://nickgeidner.com/494/
   syllabus: http://nickgeidner.com/494/?page_id=8
   org: University of Tennessee
+  instructors:
+    - Nick Geidner
   materials:
     - Data Journalism Handbook
     - Scraping for Journalists
     - The Functional Art
+  description: |
+    This senior-level course will introduce students to all phases of data journalism, including: finding and evaluating data sources, organizing data, reporting with numbers, and visualizing data. During the course we will discuss computer programming, data analysis, statistics, graphic design and other salient topic. I do not expect any of you to be experts in these fields, but I expect you to be motivated enough to learn what you need to learn to complete class assignments.
+
+
+
 
 - title: Web Coding for Interactive Design
   homepage: https://github.com/auremoser/web-coding
   syllabus: https://github.com/auremoser/web-coding/blob/master/syllabus.md
+  time_period: 2015; Fall
   org: The New School
+  instructors:
+    - Aurelia Moser
+  description: |
+    Interactives and news apps are changing the way we process media, and the expectations for media producers in newsrooms globally. Data journalism departments and newsrooms like Vox, the NYTimes, ProPublica, and 538 build narrative and newsworthy tools around code; and the participatory nature of their media output invokes new languages and web fluencies. This course will introduce web development for newsroom interactives, including an introduction to web scripting languages, version control for collaborative coding, and the authorship of interactive narrative on the web. The goal of the course is to compliment student's existing coursework and interests with some essential coding skills, by course completion, helping them design, build, and deploy a data-driven, or news-inspired interactive. Students will workshop a news interactive of their own design throughout the course, punctuated by smaller exercises and lecture pairings on the topics of HTML5/CSS3, Javascript and contemporary development in data journalism.
 
-- title: Fundamentals of Digital Journalism
-  syllabus: https://jrnl6340fall2014.wordpress.com/syllabus/
-  homepage: https://jrnl6340fall2014.wordpress.com/
-  org: Northeastern University
+
 
 - title: Advanced Online Media Production
   course_listing: MMC 4341L
   homepage: https://mmc4341.wordpress.com/
   syllabus: https://www.scribd.com/doc/251544285/Syllabus-MMC4341-2015-v2
   org: University of Florida
+  time_period: 2015; Spring
+  instructors:
+    - Mindy McAdams
 
-- title: "Journalists  Toolkit"
+- title: "Journalists Toolkit"
   homepage: https://jtoolkit.wordpress.com/
   syllabus: http://www.scribd.com/doc/161146413/Syllabus-JOU6344-Fall-2013
   org: University of Florida
+  time_period: 2013; Fall
+  instructors:
+    - Mindy McAdams
 
 - title: Coding and Data Skills for Communicators
   org: Texas State University
   homepage: http://coding.cindyroyal.net/
   syllabus: http://coding.cindyroyal.net/syllabus/
+  instructors:
+    - Cindy Royal
   description: |
     In this course, you’ll be introduced to programming and data concepts relevant to communicators. Data visualization and storytelling tools and techniques are covered as related to journalism, advertising, public relations and the technology industry.
 
@@ -746,6 +832,9 @@ develop database information in combination with traditional news reporting."
   org: Stanford University
   homepage: http://fall2014.padjo.org/
   time_period: 2014; Fall
+  instructors:
+    - Dan Nguyen
+
   buzzwords:
     - Spreadsheets
     - Pivot Tables
@@ -755,6 +844,9 @@ develop database information in combination with traditional news reporting."
   org: Stanford University
   homepage: http://2015.padjo.org/
   time_period: 2015; Fall
+  instructors:
+    - Dan Nguyen
+
   buzzwords:
     - Spreadsheets
     - Pivot Tables
@@ -766,6 +858,9 @@ develop database information in combination with traditional news reporting."
   org: Stanford University
   syllabus: http://cephillips.webfactional.com/blog/?page_id=1564
   time_period: 2015; Winter
+  instructors:
+    - Cheryl Phillips
+
   buzzwords:
     - FOIA
     - SQL
@@ -776,6 +871,8 @@ develop database information in combination with traditional news reporting."
   org: Stanford University
   syllabus: http://cephillips.webfactional.com/blog/?page_id=1320
   time_period: 2016; Winter
+  instructors:
+    - Cheryl Phillips
   buzzwords:
     - FOIA
     - SQL
@@ -787,6 +884,8 @@ develop database information in combination with traditional news reporting."
   org: Stanford University
   homepage: http://2015.compciv.org/
   time_period: 2015; Winter
+  instructors:
+    - Dan Nguyen
   buzzwords:
     - Bash
 
@@ -794,6 +893,9 @@ develop database information in combination with traditional news reporting."
   org: Stanford University
   homepage: http://2016.compciv.org/
   time_period: 2016; Winter
+  instructors:
+    - Dan Nguyen
+
   buzzwords:
     - Python 3
     - Flask
@@ -805,6 +907,8 @@ develop database information in combination with traditional news reporting."
   buzzwords:
     - Python 3
     - Flask
+  instructors:
+    - Dan Nguyen
 
 
 - title: Computational Journalism
@@ -812,7 +916,8 @@ develop database information in combination with traditional news reporting."
   homepage: https://github.com/jacobeisenstein/gt-compj-class
   syllabus: https://docs.google.com/spreadsheets/d/1hefbuuYoYV7dxzdWgUrepVHhN9LrQtTJXh8i9carKuo/edit
   time_period: 2016
-
+  instructors:
+    - Jacob Eisenstein
 
 
 
@@ -834,10 +939,8 @@ develop database information in combination with traditional news reporting."
   org: University of North Carolina at Chapel Hill
   time_period: 2015; Maymester
   syllabus: http://ryanthornburg.com/about-contact/my-classes/2015-maymester-data-journalism-class/syllabus/
-
-  description: |
-    The economics of digital publishing technology have opened a floodgate of raw data, and journalism is just one of many fields that are being rapidly transformed by that floodgate. In law, medicine, business, politics, and ecology, people are using data to understand the social and natural worlds. They are also using data to tell stories.
-
+  instructors:
+    - Ryan Thornburg
 
 - title: Data Journalism
   time_period: 2016; Spring
@@ -902,12 +1005,16 @@ develop database information in combination with traditional news reporting."
   org: New York University
   syllabus: http://journalism.nyu.edu/wp-content/uploads/Broussard-Data-Journalism.pdf
   time_period: 2016; Spring
+  instructors:
+    - Meredith Broussard
   description: |
     In this introductory class, students will learn the skills needed to create visually exciting and thought-provoking online journalism. Topics include data journalism, data analysis, computer-assisted reporting, [painless] coding for journalists, and data visualization. The class is designed for an interdisciplinary group of students interested in writing, editing, visual design, or technology. Student-created projects will influence the path of the class: in a given semester, we may create infographics, investigate current political or economic issues, or develop innovative newsapps. The Spring 2016 class will focus on political data in anticipation of the 2016 presidential election.
 
 - title: Computer-Assisted Reporting
   org: Kent State University
   time_period: 2007; Spring
+  instructors:
+    - Karl Idsvoog
   syllabus: https://ire.org/media/uploads/files/documents/educators-center/sp07carsyl.doc
   description: |
     We will do three basic things:  go after information, analyze it, and write/produce stories about it.   You’ll improve your web searching capability.  You’ll learn how to use a spreadsheet (Excel) and a database (Access).
@@ -984,7 +1091,8 @@ develop database information in combination with traditional news reporting."
   syllabus: https://msu.edu/course/jrn/407/Syllabus.htm
   description: |
     This course will help to strengthen your reporting skills, teach you how to find, negotiate for and acquire public records data, how to query and analyze data, how to use online resources beyond Google to identify and retrieve information and how to produce a package. Students will use spreadsheet, database and mapping software to develop these skills. Students will also overcome the traditional math phobia of a great many journalists. Students will also report and write packages that have the potential to inform the public about underreported information by performing the historic watchdog role of journalism.
-
+  instructors:
+    - Jane Briggs-Bunting
 
 - title: Journalism Research
   org: Western Michigan University
@@ -1064,6 +1172,8 @@ develop database information in combination with traditional news reporting."
   time_period: 2015; Spring
   homepage: https://github.com/sisiwei/2015-spring-cuny-web-scraping
   syllabus: https://medium.com/@sisiwei/breaking-the-html-enigma-machine-cc4013c37532
+  instructors:
+    - Sisi Wei
   description: |
     This is a skills class. I will be teaching you why web scraping is one of the most important tools available to journalists, but in only five weeks, I will primarily be teaching you the technical skill of how to scrape data from a website. Know that as a journalist, this is not enough. The real key is in what you do with the data after you’ve acquired it.
 
@@ -1162,6 +1272,14 @@ develop database information in combination with traditional news reporting."
     The course is a hands-on introduction to the areas of computer science that have a direct relevance to journalism, and the broader project of producing an informed and engaged public. We will touch on many different technical and social topics: information recommendation systems but also filter bubbles, principles of statistical analysis but also the human processes which generate data, network analysis and its role in investigative journalism, visualization techniques and the cognitive effects involved in viewing a visualization. Assignments will require programming in Python, but the emphasis will be on clearly articulating the connection between the algorithmic and the editorial.
 
 
+- title: Computational Journalism
+  org: New York University
+  syllabus: http://www.compjournalism.com/?p=113
+  time_period: 2014; Fall
+  instructors:
+    - Jonathan Stray
+
+
 - title: Investigative Reporting Techniques
   instructors:
     - Fred Mamoun
@@ -1206,7 +1324,8 @@ develop database information in combination with traditional news reporting."
   time_period: 2015; Fall
   description: |
     With a vast amount of information now collected on our online and offline actions — from what we buy, to where we travel, to who we interact with — we have an unprecedented opportunity to study complex social systems. This opportunity, however, comes with scientific, engineering, and ethical challenges. In this hands-on course, we develop ideas from computer science and statistics to address problems in sociology, economics, political science, and beyond. We cover techniques for collecting and parsing data, methods for large-scale machine learning, and principles for effectively communicating results. To see how these techniques are applied in practice, we discuss recent research findings in a variety of areas. This course was previously listed as MS&E 331.
-
+  instructors:
+    - Sharad Goel
 
 
 - title: Geek Like Me (Course proposal)
@@ -1231,6 +1350,7 @@ develop database information in combination with traditional news reporting."
     Creating, initially, a master’s degree program for mid-career media and communications professionals or individuals trained in other fields but desirous of academic or professional careers in communications. This program will focus on methods, data and analytic techniques largely unknown to traditional journalism and media management.
 
 - title: Storytelling with Data + Interactivity
+  org: City University of New York
   homepage: http://sisiwei.github.io/cuny-interactive-fall-2014/
   github: https://github.com/sisiwei/cuny-interactive-fall-2014
   time_period: 2014; Fall
@@ -1240,3 +1360,243 @@ develop database information in combination with traditional news reporting."
     The Data/Interactivity 10-week portion of this course introduces students to the essential concepts, tools, and story forms in multimedia storytelling. Students learn the basics of HTML/CSS/JavaScript, leverage existing frameworks and libraries (Bootstrap, jQuery), and pitch, report, produce, and critique interactive, media-rich news packages.
 
     The course covers four common multimedia story forms (slideshows, charts, maps, and quizzes), which allow students to explore the different narrative potential of each, and to delve into data, coding, design, and interactivity. This module covers fundamental technical skills that will serve as the foundation for your interactive work at the CUNY Graduate School of Journalism.
+
+
+- title: "Digital Journalism: Sensor Journalism in San Diego"
+  org: San Diego State University
+  homepage: https://sensorjournalism.wordpress.com/sensor-journalism-101/
+  syllabus: https://sensorjournalism.files.wordpress.com/2015/02/sensorjournalismsyllabus.pdf
+  instructors:
+    - Schmitz Weiss
+    - Kevin Robinson
+  time_period: 2015; Spring
+  description: |
+    The course is designed to promote learning through working in interdisciplinary teams (journalism and geology) along with a nonprofit news organization, inewsource to examine air quality in San Diego using electronic, cutting-edge sensors. Students will work together to create a series of digital news stories on air quality in San Diego, which will be developed throughout the spring semester and published on the inewsource website
+
+
+
+- title: "Math for Journalists Made Easy: Understanding and Using Numbers and Statistics"
+  org: Knight Center for Journalism in the Americas
+  homepage: http://journalismcourses.org/MJME2015.html
+  type: MOOC
+  time_period: 2015; June
+  instructors:
+    - Brant Houston
+    - Jennifer LaFleur
+    - Greg Ferenstein
+  description: |
+    This course aims to provide journalists, media practitioners and the general public with knowledge about how to be critical about numbers, statistics and research and to avoid being improperly swayed by biased researchers.
+
+
+- title: Data 1
+  org: Columbia University
+  time_period: 2015; Fall
+  homepage: https://github.com/tommeagher/data1-fall2015
+  syllabus: https://github.com/tommeagher/data1-fall2015
+  instructors:
+    - Tom Meagher
+  description: |
+    In this seven-week introduction to data journalism, you'll be exposed to the history of the craft of numerate reporting. You'll develop and finetune your bullshit detector for bad data reporting and writing. You'll be introduced to modern data practices, including software for examining spreadsheets, databases, PDFs and other common forms of data. You'll also become comfortable with the basic steps of an analysis that you can integrate into your reporting.
+
+- title: Journalism Research
+  org: Temple University
+  time_period: 2015 Spring
+  notes: |
+    More than one course in a single session:
+      https://smc.temple.edu/journalism/syllabi/
+  instructors:
+    - Michael Panzer
+  syllabus: http://smc.temple.edu/journalism/wp-content/uploads/sites/7/2015/03/Journalism_Research_Spring_2015_Syllabus_Clean.docx
+  description: |
+    This is an introductory course that focuses on research methods and techniques used in journalism and reporting. Quality writing and thorough research are two fundamentals of good journalism. This research-intensive course is geared toward identifying, understanding and applying your abilities to seek out wide-ranging sources of information to enhance your stories. This course will require you to advance your writing skills and your abilities to evaluate the credibility of sources of information.
+
+
+- title: Data Journalism
+  org: Temple University
+  syllabus: https://smc.temple.edu/journalism/wp-content/uploads/sites/7/2015/01/DataJournalismS15.pdf
+  time_period: 2015; Spring
+  instructors:
+    - Meredith Broussard
+
+- title: Advanced Journalism Research
+  org: Boston University
+  time_period: 2001; Spring
+  course_listing: JO807
+  instructors:
+    - J. T. Johnson
+  syllabus: http://online.sfsu.edu/jjohnson/Courses&Syllabi/BU-JO807/S01Sylli.htm
+  description: |
+    Doing journalism — high-quality journalism — involves five phases that I call the RRAW-P process : Research, Reporting, Analysis, Writing and Publishing (or Production).  This is a four-unit course designed to develop and reinforce your skills in the first three of these, especially as they pertain to the digital information environment.  By the end of the semester, however, you will be demonstrating your skills in the fourth aspect of the process, writing.
+
+    In this course you will be learning a lot about how to search for, retrieve, manage and analyze data.  Often that data will be in digital form but ink-on-paper data is still a major part of the research for most stories.   During the first week or two, we will be doing some practical — and I hope fun  — activities to get you up-to-speed in the basic skills and tools related to today’s communications environment.  I'm talking about sophisticated computer tools.  We also will learn about the basics of Analytic Journalism (aka computer-assisted reporting): online research and data management tools, some sophisticated aspects of spreadsheets and, possibly, get into the basics of databases and geographic information systems (GIS).   You will also be expected to know some elementary statistics.  As the semester progresses, you will be doing more basic research into public documents, research often related to your final project.
+
+
+- title: Advanced Journalism Research
+  org: Boston University
+  time_period: 2000; Fall
+  course_listing: JO807
+  instructors:
+    - J. T. Johnson
+  syllabus: http://online.sfsu.edu/jjohnson/Courses&Syllabi/BU-JO807/JO807Calendar&Syllabus.htm
+
+
+- title: Research, Analysis and Insight
+  org: University of Southern California
+  instructors:
+    - Dave Quast
+  time_period: 2013; Spring
+  course_listing: Journalism 463
+  syllabus: http://web-app.usc.edu/soc/syllabus/20131/21380.pdf
+  description: |
+    A major component of the public relations practitioner’s work is to find and utilize facts, figures and opinions in a thoughtful and productive manner. Successful practitioners can observe and examine an array of information ranging from consumer perceptions to voting trends and spending habits and, in turn, draw useful conclusions. This course is designed to introduce students to the research and evaluation tools available to them as tomorrow’s public relations practitioners. The goal of the class is to produce professionals who understand the need to measure and evaluate all communications efforts. Students will leave the course prepared to evaluate assignments they encounter as professional practitioners; find, interpret, synthesize and present research, to direct a research project, and to package and present research.
+
+
+- title: Data Storytelling Studio - Civic Data
+  course_listing: CMS.631/CMS.831
+  syllabus: https://docs.google.com/document/d/1S-21ufcAsdwFq3ltYpKEpIhiu-Dy_8cYTRbztopyc3k/edit#heading=h.v0vzwhn3fizl
+  homepage: http://datastudio2016.datatherapy.org/
+  time_period: 2016; Spring
+  instructors:
+    - Rahul Bhargava
+  description: |
+    We are swimming in data - "Big" and small, global and personal. And we are also facing complicated problems like Climate Change and inequality whose stories can only be told with data. The need for public understanding of data-driven issues is higher than ever before. But raw data doesn't make a good story and that's where you come in.
+
+    This class is focused on how to tell stories with data to create social change. We will learn through case studies, examples and hands-on experimentation with tools and technologies. We will teach basic methods for research, cleaning and analysis of datasets, but the focus in on creative methods of data presentation and storytelling. We will consider the emotional, aesthetic and practical effects of different presentation methods as well as how to develop metrics for assessing impact. For the final project, students will create a piece that tells a data-driven story.
+
+- title: Data Visualization
+  time_period: 2016; Spring
+  syllabus: http://courses.cs.washington.edu/courses/cse512/16sp/
+  org: University of Washington
+  instructors:
+    - Jeremy Heer
+  description: |
+    The world is awash with increasing amounts of data, and we must keep afloat with our relatively constant perceptual and cognitive abilities. Visualization provides one means of combating information overload, as a well-designed visual encoding can supplant cognitive calculations with simpler perceptual inferences and improve comprehension, memory, and decision making. Furthermore, visual representations may help engage more diverse audiences in the process of analytic thinking.
+
+    In this course we will study techniques and algorithms for creating effective visualizations based on principles from graphic design, visual art, perceptual psychology, and cognitive science. The course is targeted both towards students interested in using visualization in their own work, as well as students interested in building better visualization tools and systems.
+
+- title: Visualization
+  org: Harvard University
+  instructors:
+    - Alexander Lex
+  syllabus: http://www.cs171.org/2015/syllabus/
+  homepage: http://www.cs171.org/2015/
+  time_period: 2015; Spring
+  description: |
+    The amount and complexity of information produced in science, engineering, business, and everyday human activity is increasing at staggering rates. The goal of this course is to expose you to visual representation methods and techniques that increase the understanding of complex data. Good visualizations not only present a visual interpretation of data, but do so by improving comprehension, communication, and decision making.
+
+    In this course you will learn how the human visual system processes and perceives images, good design practices for visualization, tools for visualization of data from a variety of fields, and programming of interactive web-based visualizations using D3.
+
+
+- title: Visualization
+  org: Harvard University
+  time_period: 2014; Spring
+  instructors:
+    - Hanspeter Pfister
+  homepage: http://www.cs171.org/2014/#!index.md
+  syllabus: http://www.cs171.org/2014/#!syllabus.md
+
+
+- title: Intro to Web Apps
+  homepage: https://introwebapps.wordpress.com/
+  syllabus: https://www.scribd.com/doc/274776275/Intro-to-Web-Apps-Syllabus-2015
+  time_period: 2015; Fall
+  org: University of Florida
+  instructors:
+    - Mindy McAdams
+  materials:
+    - "Learning Web Design (4th Edition), by Jennifer Niederst Robbins. O’Reilly, 2012 (at Amazon; e-book at O’Reilly)."
+  description: |
+    This course has two broad goals:
+
+    1. Enable journalism students to find out if they like and/or have an aptitude for creating Web apps and coding/programming.
+    2. Provide journalism students with sufficient understanding of how Web apps are created and how coding problems are solved so that they, as journalists, can work effectively on teams that include coders/programmers in media organizations (even if they decide that coding is not their cup of tea).
+
+- title: Advanced Web Apps
+  org: University of Florida
+  homepage: https://webappsplus.wordpress.com/
+  syllabus: https://www.scribd.com/doc/294050877/Web-Apps-2-Syllabus-2016
+  time_period: 2016; Spring
+  instructors:
+    - Mindy McAdams
+  description: |
+    This course adds server-side (back-end) skills to the client-side (front-end) skills you’ve already developed. This means you can save information generated from a Web page (you can require users to log in, for example), and you can run scripts on the server that will affect what the user sees, among other things.
+
+- title: Data Visualization
+  org: Rice University
+  syllabus: http://had.co.nz/stat645/syllabus.html
+  homepage: http://had.co.nz/stat645/
+  time_period: 2011; Spring
+  instructors:
+    - Hadley Wickham
+  description: |
+    This course will give you the tools to create and critically evaluate data visualisations. We will focus on statistical graphics, graphics that display statistical data (observations are in rows and variables in columns), with some forays into the field of information visualisation.
+
+- title: Introduction to Data Analysis
+  org: Rice University
+  syllabus: http://stat405.had.co.nz/syllabus.html
+  homepage: http://stat405.had.co.nz/
+  time_period: 2012; Fall
+  instructors:
+    - Hadley Wickham
+  description: |
+    This course will teach you to be a data analyst. You will learn how to take a large dataset break up into manageable pieces and use a range of qualitative and quantitative tools to summarise it and learn what it has to tell. You will learn the importance of scepticism and curiosity, and how to communicate your findings. Each section of the course is motivated by a particular dataset, and you will gain experience working with a wide variety of data sources varying in size and quality.
+
+- title: Programming R (Proposed)
+  syllabus: https://gist.github.com/hadley/6734639
+  instructors:
+    - Hadley Wickham
+  time_period: 2013; Fall
+  description: |
+    My first stab at a basic R programming curriculum. I think teaching just these topics without overall motivating examples would be extremely boring, but if you're a self-taught R user, this might be useful to help spot your gaps.
+
+- title: Advanced Reporting
+  course_listing: JOMC 453.001
+  org: University of North Carolina at Chapel Hill
+  syllabus: http://www.unc.edu/~pmeyer/JOMC453.html
+  time_period: 2008; Spring
+  instructors:
+    - Philip Meyer
+  description: |
+    This course is about processing. You will learn how to deal with the abundance of information in publicly available databases, or in databases that you construct yourself. You will learn how to manage, analyze, and reduce data to make its meaning and importance clear to your audience, using the tools of social science.
+
+    The main tool is SPSS (Statistical Package for the Social Sciences). We’ll use it to deal with datasets of increasing complexity. The good news about SPSS is that it is easy to use. The bad news is that it is expensive.
+
+
+- title: Patricia Elliott
+  org: University of Regina
+  syllabus: http://www.patriciaelliott.ca/wp-content/uploads/2015/07/Reseach-syllabus-2013.docx
+  time_period: 2013; Fall
+  description: |
+    The course is designed to give students practical and theoretical experience in journalistic research methods, including interviewing, observation, data collection, archival research and retrieval of public documents. Major projects will be centred around a university-community collaboration with the Willow Bunch Museum. Working across three courses – Research Techniques, Interviewing and Intro to Print – students will collaborate with museum volunteers to explore and present Willow Bunch’s past and present. Additional classroom learning will acquaint students with common research tools used by journalists, such as public accounts, corporate registries, freedom of information legislation, etc. Assigned readings and quizzes will compliment classroom and experiential learning.
+
+
+- title: 'Data Journalism: The Basics'
+  org: Kardi Has University
+  syllabus: http://www.verigazeteciligi.com/syllabus2015-2016-autumn-semestre-data-journalism-khas/
+  instructors:
+    - "Pınar Dağ @pinardag"
+  time_period: 2015; Fall
+  description: |
+    The data journalism course will present fundamentals of open /data collecting, gathering, cleaning, analysis, visualisation  process and understanding FOIA. Data skills are getting more important to affect data driven works for media industry. In the developing Internet world; to understand and figure out how database journalism turns to data journalism; and as the future of journalism, to teach with open data disciplines how data became a strong role in transferring more efficient growing online resources, tools, and techniques. This course will also address common pitfalls in misinterpreting data..
+
+
+- title: Data Visualization
+  org: University of Texas at Austin
+  syllabus: http://journalism.utexas.edu/sites/journalism.utexas.edu/files/07915-McDonald.pdf
+  time_period: 2015; Spring
+  instructors:
+    - Christian McDonald
+  description: |
+    As the era of Open Government and Open Data evolves, more stories are being told through data and data visualization than ever before. In this course, you’ll learn how to acquire compelling data sets, clean them, analyze the contents using visualization techniques to find storylines, and then present that result through a variety of methods, including online interactive charts and maps.
+
+- title: Data Skills
+  org: City University of New York
+  homepage: http://amandabee.github.io/CUNY-data-skills/
+  syllabus: http://amandabee.github.io/CUNY-data-skills/
+  github: https://github.com/amandabee/CUNY-data-skills/
+  time_period: 2015; Spring
+  instructors:
+    - Amanda Hickman
+  description: |
+    This semester we will work together to gather, analyze and visualize numbers you need to understand your audience and to tell interactive data-driven stories.
+

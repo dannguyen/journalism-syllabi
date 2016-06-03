@@ -27,3 +27,50 @@
   materials:
     - "Eric A. Meyer, CSS Web Site Design (2007). Peachpit Press."
     - "Tom Negrino and Dori Smith (2009), Styling Web Pages with CSS. Peachpit Press."
+
+
+
+- title: Your Digital Life
+  course_listing: MMC 3260/5015
+  homepage: http://iml.jou.ufl.edu/carlson/mmc5015/
+  org: University of Florida
+  description: |
+    This is a course about how to build and maintain your online presence, your digital identity, so to speak. Your digital identity includes everything you read, write and do online – email, social media, blogging, personal websites, shopping, archiving your professional work, and gaming. Your digital life is becoming more and more important as the internet and the web permeate every facet of our lives.
+  schedule: http://iml.jou.ufl.edu/carlson/mmc5015/calendar.html
+  time_period: 2013; Fall
+  instructors:
+    - Dave Carlson @gigabit1
+  prereqs:
+    - JOU 1100, Intro to Journalism
+    - JOU 3109c, Multimedia Writing
+    - Junior standing or permission of the instructor
+  materials:
+    - "HTML5 & CSS3 Visual QuickStart Guide (7th Edition) by Elizabeth Castro and Bruce Hyslop, ISBN: 0321719611."
+    - "Journalism Next by Mark Briggs, ISBN: 1452227853"
+  buzzwords:
+    - CSS
+    - HTML
+    - WordPress
+    - Photoshop
+    - SEO
+    - Video
+    - QR codes
+    - Github
+
+
+- title: Social Media Theory and Practice
+  homepage: http://www.memphis.edu/journalism/2011_Spring/J7200.01Brown.pdf
+  time_period: 2011; Spring
+  instructors:
+    - Carrie Brown-Smith @brizzyc
+  org: University of Memphis
+  description: |
+    This course will combine theory and practice to help you develop your understanding of the many changes rocking the media landscape and build the skills you will need to join the fray.
+
+
+- title: Fundamentals of Digital Journalism
+  syllabus: https://jrnl6340fall2014.wordpress.com/syllabus/
+  homepage: https://jrnl6340fall2014.wordpress.com/
+  org: Northeastern University
+  time_period: 2014; Fall
+
