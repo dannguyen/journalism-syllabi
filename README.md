@@ -1,26 +1,20 @@
 # journalism-syllabi
 
-This is a collection of computational and data journalism courses for which there's a __publicly available__ homepage or syllabus to use as a reference. 
-
-I started compiling this list before arriving at Stanford in 2014, then uploaded it here in June 2016 and made a few updates, but it's not complete or consistent by any means. 
+This is a collection of computational and data journalism courses for which there's a __publicly available__ homepage or syllabus to use as a reference.  I started compiling this list before arriving at Stanford in 2014. In June 2016, I uploaded it here and made a few updates, but it's not complete or consistent by any means. 
 
 
-For investigative journalism syllabi, the [Investigative Journalism Education Consortium maintains](http://ijec.org/) a list here: 
+For investigative journalism syllabi, the [Investigative Journalism Education Consortium maintains](http://ijec.org/) a list here:  http://ijec.org/syllabi/
 
-http://ijec.org/syllabi/
-
-[Investigative Reporters & Editors](https://ire.org/) also maintains a collection:
-
-https://ire.org/resource-center/educators-center/syllabi/
+[Investigative Reporters & Editors](https://ire.org/) also maintains a collection: https://ire.org/resource-center/educators-center/syllabi/
 
 
 Feel free to add suggestions in the [issues](https://github.com/dannguyen/journalism-syllabi/issues).
 
 
 
-### Course list
+### Course collection
 
-The following table is autog-enerated from running [scripts/produce_courselist.py](scripts/produce_courselist.py), which reads from [some-syllabi.yaml](some-syllabi.yaml) and prints things exactly in the order as I entered them in (i.e. with no real order at all -- will polish it later):
+The following table is auto-generated from running [scripts/produce_courselist.py](scripts/produce_courselist.py), which reads from [some-syllabi.yaml](some-syllabi.yaml) and prints things exactly in the order as I entered them in (i.e. with no real order at all -- will export to a proper Github Pages/Jekyll thing later):
 
 <!--tablehere-->
 
