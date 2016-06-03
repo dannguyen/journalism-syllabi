@@ -8,7 +8,9 @@ DEST_START_STR = '<!--tablehere-->'
 
 data = ryaml.load(SRC_PATH.open())
 for d in data:
-    d['title_time'] = "{0} <br> {1}".format(d['title'], d['time_period']) if d.get('time_period') else d['title']
+    d['title_time'] = '**{0}**'.format(d['title'])
+    if d.get('time_period'):
+        d['title_time'] += ' <br> {0}'.format(d['time_period'])
     if d.get('homepage') == d.get('syllabus'):
         d['links'] = "[Homepage/Syllabus]({0})".format(d['homepage'])
     else:
