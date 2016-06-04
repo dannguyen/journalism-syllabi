@@ -805,8 +805,7 @@ There are currently <strong>145</strong> courses listed; see [some-syllabi.yaml]
         <tr>
             <td>
                 <h5>Data Journalism | 2015; Fall <br>
-                    
-<a href="http://bahareh.newslab.ie/nuigddj15.html">Homepage</a>
+                    <a href="http://bahareh.net/nuigddj15.html">Homepage/Syllabus</a>
                 </h5>
                 <p><em>This course is part of MA in Journalism at the National University of Ireland, Galway, and will introduce journalistm students to the practise of data journalism and showcase a set of tools and techni...</em></p>
                 <p>Instructors: Bahareh Heravi @Bahareh360</p>
