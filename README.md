@@ -882,11 +882,13 @@ There are currently <strong>146</strong> courses listed; see [some-syllabi.yaml]
         </tr>
         <tr>
             <td>
-                <h5>Advanced Coding for Journalists <br>
+                <h5>Advanced Coding for Journalists | 2015 <br>
                     
 <a href="http://jrue.github.io/advancedcoding/">Homepage</a>
                 </h5>
-                
+                <p><em>This course is a continuation of the Coding For Journalists class, and will include intermediary lessons in computational literacy.
+
+This class containes more applied lessons than its earlier counterp...</em></p>
                 <p>Instructors: Jeremy Rue</p>
             </td>
             <td>
@@ -895,11 +897,13 @@ There are currently <strong>146</strong> courses listed; see [some-syllabi.yaml]
         </tr>
         <tr>
             <td>
-                <h5>Intro to Multimedia Web Skills <br>
+                <h5>Intro to Multimedia Web Skills | 2014 <br>
                     
 <a href="http://jrue.github.io/webskills/">Homepage</a>
                 </h5>
-                
+                <p><em>This five-week mini-course is a follow-up to the Intro to Multimedia Reporting Bootcamp workshop, and is required for all first-year journalism graduate students in the Fall.
+
+The objective of the cla...</em></p>
                 <p>Instructors: Jeremy Rue</p>
             </td>
             <td>
