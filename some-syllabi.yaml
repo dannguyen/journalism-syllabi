@@ -766,6 +766,11 @@
   org: University of California at Berkeley
   instructors:
     - Jeremy Rue
+  time_period: 2015
+  description: |
+    This course is a continuation of the Coding For Journalists class, and will include intermediary lessons in computational literacy.
+
+    This class containes more applied lessons than its earlier counterpart. There are some lectures depending on the story subject matter that arises.
 
 
 - title: Intro to Multimedia Web Skills
@@ -773,6 +778,13 @@
   org: University of California at Berkeley
   instructors:
     - Jeremy Rue
+  time_period: 2014
+  description: |
+    This five-week mini-course is a follow-up to the Intro to Multimedia Reporting Bootcamp workshop, and is required for all first-year journalism graduate students in the Fall.
+
+    The objective of the class is to teach every student the foundational skills needed to create an online website, such as a personal portfolio site. This includes instruction in the basics of HTML and CSS, design principles for websites and using hosting services to publish a website.
+
+
 
 - title: Data Journalism
   syllabus: http://wp.vcu.edu/nenudata/files/2014/02/Data-journalism-syllabus-by-week.pdf
