@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>146</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>149</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -1777,7 +1777,7 @@ The objective of the cla...</em></p>
                 <p>Instructors: Rahul Bhargava</p>
             </td>
             <td>
-                
+                Massachusetts Institute of Technology
             </td>
         </tr>
         <tr>
@@ -1970,6 +1970,47 @@ The objective of the cla...</em></p>
             </td>
             <td>
                 Emerson College
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Dealing with Data | 2014; Summer <br>
+                    
+<a href="http://ipeirotis.github.io/DwD/">Homepage</a> / 
+<a href="http://ipeirotis.github.io/DwD/syllabus/">Syllabus</a>
+                </h5>
+                <p><em>The volume of data being generated every day continues to grow exponentially. We capture and store data about pretty much every aspect of our lives. Being able to handle and analyze the available data...</em></p>
+                <p>Instructors: Panos Ipeirotis</p>
+            </td>
+            <td>
+                New York University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>How to Process, Analyze and Visualize Data | 2012 <br>
+                    
+<a href="http://dataiap.github.io/dataiap/">Homepage</a>
+                </h5>
+                <p><em>Data science! Big data! Statistics! Infographics! Buzzword!
+</em></p>
+                <p>Instructors: Adam Marcus, Eugene Wu</p>
+            </td>
+            <td>
+                Massachusetts Institute of Technology
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer-Assisted Reporting <br>
+                    
+<a href="http://archive.is/vuQYf">Homepage</a>
+                </h5>
+                <p><em>Course introduces students to technology-based news reporting techniques, ranging from library database research to computer-assisted reporting applications, such as Internet search engines and analyt...</em></p>
+                <p>Instructors: Barbara K. Iverson</p>
+            </td>
+            <td>
+                Columbia College Chicago
             </td>
         </tr>
     </tbody>

@@ -1471,6 +1471,7 @@
   time_period: 2016; Spring
   instructors:
     - Rahul Bhargava
+  org: Massachusetts Institute of Technology
   description: |
     We are swimming in data - "Big" and small, global and personal. And we are also facing complicated problems like Climate Change and inequality whose stories can only be told with data. The need for public understanding of data-driven issues is higher than ever before. But raw data doesn't make a good story and that's where you come in.
 
@@ -1622,3 +1623,35 @@
     - Catherine D'Ignazio
   description: |
     This course introduces concepts, methods and practices of data visualization and data storytelling for journalism majors. Data journalism is an emerging field of practice that ranges from the dazzling interactive graphics of the New York Times to the consistent, watchful reporting of sites like Homicide Watch.
+
+- title: Dealing with Data
+  org: New York University
+  time_period: 2014; Summer
+  syllabus: http://ipeirotis.github.io/DwD/syllabus/
+  homepage: http://ipeirotis.github.io/DwD/
+  instructors:
+    - Panos Ipeirotis
+  description: |
+    The volume of data being generated every day continues to grow exponentially. We capture and store data about pretty much every aspect of our lives. Being able to handle and analyze the available data is now a fundamental skill for everyone. The objective of this course is to challenge and teach students how to handle data that come in a variety of forms and sizes. This course guides students through the whole data management process, from initial data acquisition to final data analysis. The (tentative) list of topics that we plan to cover:
+
+- title: "How to Process, Analyze and Visualize Data"
+  org: Massachusetts Institute of Technology
+  description: |
+    Data science! Big data! Statistics! Infographics! Buzzword!
+  instructors:
+    - Adam Marcus
+    - Eugene Wu
+  homepage: http://dataiap.github.io/dataiap/
+  github: https://github.com/dataiap/dataiap
+  time_period: 2012
+
+- title: Computer-Assisted Reporting
+  org: Columbia College Chicago
+  instructors:
+    - Barbara K. Iverson
+  homepage: http://archive.is/vuQYf
+  course_listing: 53-2030-03
+  description: |
+    Course introduces students to technology-based news reporting techniques, ranging from library database research to computer-assisted reporting applications, such as Internet search engines and analytical software. Assignments emphasize acquisition and evaluation of quality information and knowledgeable sources, using computer tools in an Internet-connected news lab.
+  materials:
+    - "Computer-Assisted Reporting: A Practical Guide by Brant Houston (required)"
