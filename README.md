@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>149</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>150</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -2002,7 +2002,7 @@ The objective of the cla...</em></p>
         </tr>
         <tr>
             <td>
-                <h5>Computer-Assisted Reporting <br>
+                <h5>Computer-Assisted Reporting | 2006; Spring <br>
                     
 <a href="http://archive.is/vuQYf">Homepage</a>
                 </h5>
@@ -2011,6 +2011,19 @@ The objective of the cla...</em></p>
             </td>
             <td>
                 Columbia College Chicago
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Managing Data Journalism Projects <br>
+                    
+<a href="http://learno.net/courses/managing-data-journalism-projects">Homepage</a>
+                </h5>
+                <p><em>Bringing a data journalism project to a good end is not an easy task. There are a lot of variables and processes at play that need to be managed and accounted for before the project can be produced an...</em></p>
+                <p>Instructors: Jacopo Ottaviani</p>
+            </td>
+            <td>
+                Learno.net
             </td>
         </tr>
     </tbody>
