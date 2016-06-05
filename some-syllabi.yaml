@@ -1650,8 +1650,18 @@
   instructors:
     - Barbara K. Iverson
   homepage: http://archive.is/vuQYf
+  time_period: 2006; Spring
   course_listing: 53-2030-03
   description: |
     Course introduces students to technology-based news reporting techniques, ranging from library database research to computer-assisted reporting applications, such as Internet search engines and analytical software. Assignments emphasize acquisition and evaluation of quality information and knowledgeable sources, using computer tools in an Internet-connected news lab.
   materials:
     - "Computer-Assisted Reporting: A Practical Guide by Brant Houston (required)"
+
+
+- title: Managing Data Journalism Projects
+  homepage: http://learno.net/courses/managing-data-journalism-projects
+  org: Learno.net
+  description: |
+    Bringing a data journalism project to a good end is not an easy task. There are a lot of variables and processes at play that need to be managed and accounted for before the project can be produced and in the end published.
+  instructors:
+    - Jacopo Ottaviani
