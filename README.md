@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>145</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>146</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -1951,6 +1951,20 @@ There are currently <strong>145</strong> courses listed; see [some-syllabi.yaml]
             </td>
             <td>
                 City University of New York
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data Visualization | 2016; Spring <br>
+                    
+<a href="https://word.emerson.edu/dataviz/">Homepage</a> / 
+<a href="https://docs.google.com/document/d/1wTMXJpejmCX7itXDdhGSa3XSl4-8VxuYb-gbH8eUuLI/edit">Syllabus</a>
+                </h5>
+                <p><em>This course introduces concepts, methods and practices of data visualization and data storytelling for journalism majors. Data journalism is an emerging field of practice that ranges from the dazzling...</em></p>
+                <p>Instructors: Catherine D'Ignazio</p>
+            </td>
+            <td>
+                Emerson College
             </td>
         </tr>
     </tbody>
