@@ -271,20 +271,24 @@
     - CSS
     - Github
 
+
 - title: Computer-Assisted Reporting
-  homepage: http://www.memphis.edu/journalism/2011_Spring/J4124.6124.01Hayden.pdf
-  time_period: 2011; Spring
+  homepage: http://archive.is/trDXO
+  time_period: 2012; Spring
   org: University of Memphis
   instructors:
     - Joe Hayden
-  description: "Advanced use of computer technology and investigative techniques to access, analyze and
-develop database information in combination with traditional news reporting."
+  description: |
+    Advanced use of computer technology and investigative techniques to access, analyze and develop database information in combination with traditional news reporting.
   prereqs:
-    - JOUR 3120
+    - JOUR 4124/6124
   materials:
     - "Brant Houston, Computer-Assisted Reporting: A Practical Guide 3rd edition
     (Bedford/St. Martin’s Press, 2004) ISBN 0-312-41149-9"
     - "Kathleen Wickham, Math Tools for Journalists 2nd edition (Marion Street Press, 2003) ISBN 0-966-517652"
+  recommended:
+    - |
+      Darrell Huff, How to Lie With Statistics (New York, Norton: 1954). ISBN 978-0-393- 31072-6
 
 
 - title: Computational Journalism
@@ -1605,5 +1609,4 @@ develop database information in combination with traditional news reporting."
   instructors:
     - Catherine D'Ignazio
   description: |
-    This course introduces concepts, methods and practices of data visualization and data storytelling for journalism majors. Data journalism is an emerging field of practice that ranges from the dazzling interactive graphics of the New York Times to the consistent, watchful reporting of sites like Homicide Watch. 
-
+    This course introduces concepts, methods and practices of data visualization and data storytelling for journalism majors. Data journalism is an emerging field of practice that ranges from the dazzling interactive graphics of the New York Times to the consistent, watchful reporting of sites like Homicide Watch.

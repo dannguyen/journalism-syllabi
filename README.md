@@ -287,11 +287,12 @@ There are currently <strong>146</strong> courses listed; see [some-syllabi.yaml]
         </tr>
         <tr>
             <td>
-                <h5>Computer-Assisted Reporting | 2011; Spring <br>
+                <h5>Computer-Assisted Reporting | 2012; Spring <br>
                     
-<a href="http://www.memphis.edu/journalism/2011_Spring/J4124.6124.01Hayden.pdf">Homepage</a>
+<a href="http://archive.is/trDXO">Homepage</a>
                 </h5>
-                <p><em>Advanced use of computer technology and investigative techniques to access, analyze and develop database information in combination with traditional news reporting.</em></p>
+                <p><em>Advanced use of computer technology and investigative techniques to access, analyze and develop database information in combination with traditional news reporting.
+</em></p>
                 <p>Instructors: Joe Hayden</p>
             </td>
             <td>
