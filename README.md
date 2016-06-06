@@ -2230,7 +2230,8 @@ In the proposal, I wrote...</em></p>
 <a href="http://journalism.uoregon.edu/~jupshaw/j202/index.html">Homepage</a> / 
 <a href="http://journalism.uoregon.edu/~jupshaw/j202/syllabus.html">Syllabus</a>
                 </h5>
-                
+                <p><em>This course introduces you to the theory and methods of information gathering and gives you the opportunity to apply what you're learning to an important public policy question.
+</em></p>
                 <p>Instructors: Jim Upshaw</p>
             </td>
             <td>
