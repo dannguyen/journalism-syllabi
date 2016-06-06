@@ -1077,6 +1077,16 @@
 
 - title: "Quantitative Journalism: Computer-Assisted Reporting and Research"
   org: Augsburg College
+  syllabus: http://web.augsburg.edu/afa/syllabi/September%202010-August%202011/1-Fall/Fall%202011%20ENL327A%20Aggergaard.pdf
+  course_listing: English 327
+  time_period: 2010; Fall
+  instructors:
+    - Steve Aggergaard
+  description: |
+    This is a reporting class. Computers will assist you to get you where you need to go, which will be off campus, in the community, our community, reporting the news.
+
+- title: "Quantitative Journalism: Computer-Assisted Reporting and Research"
+  org: Augsburg College
   syllabus: http://web.augsburg.edu/afa/previous%20syllabi%20folder/2009-2010/tri1/091ENL327A.pdf
   course_listing: English 327
   time_period: 2009; Fall
@@ -1126,14 +1136,25 @@
   org: City University of New York
   time_period: 2014; Fall
 
+
+
+
+- title: Data Journalism
+  org: Northeast Normal University
+  homepage: http://wp.vcu.edu/nenudata/
+  syllabus: http://wp.vcu.edu/nenudata/wp-content/uploads/sites/4058/2014/02/Syllabus-Data-Journalism1.pdf
+  instructors:
+    - Jeff South
+  time_period: 2014; Spring
+  description: |
+    In our Data Journalism and Visualization course, you will learn how to use the Internet and other digital technology to find ideas, information and sources for your stories. In particular, you will learn how to obtain and analyze data – about health, crime, education, economics and other topics. You will learn how to weave this information into news reports, so that your stories aren’t just anecdotal (based on what people have told you) but also analytical (based on reliable data that can’t be disputed).
+
 - title: Data Journalism and Visualization
   org: Xiamen University
   instructors:
     - Jeff South
   time_period: 2015; Summer
   syllabus: http://rampages.us/xiamen/wp-content/uploads/sites/7573/2015/06/Syllabus-Data-Journalism-Xiamen.doc
-  description: |
-    In our Data Journalism and Visualization course, you will learn how to use the Internet and other digital technology to find ideas, information and sources for your stories. In particular, you will learn how to obtain and analyze data – about health, crime, education, economics and other topics. You will learn how to weave this information into news reports, so that your stories aren’t just anecdotal (based on what people have told you) but also analytical (based on reliable data that can’t be disputed).
 
 - title: News Gathering and Investigation
   syllabus: http://libguides.utep.edu/c.php?g=430443&p=2935380
@@ -1665,3 +1686,138 @@
     Bringing a data journalism project to a good end is not an easy task. There are a lot of variables and processes at play that need to be managed and accounted for before the project can be produced and in the end published.
   instructors:
     - Jacopo Ottaviani
+
+
+- title: Online Journalism
+  course_listing: COM 300
+  syllabus: http://archive.is/GYuHz
+  homepage: http://futureofjourn.blogspot.com/
+  org: Drexel University
+  instructors:
+    - Ron Bishop
+  time_period: 2006; Winter
+  description: |
+    We will explore how to use the computer and the internet to add depth and context to news stories. Keep in mind, however, that these are just tools – they supplement, but do not replace, in-depth, aggressive reporting. We will conduct database analyses, and access a wide variety of records from governmental agencies, all in the pursuit of two news stories. Finally, we will explore the development of online journalism and blogging, and the changes they have brought to the craft of journalism.
+
+
+- title: Web Programming for Multimedia Journalism
+  syllabus: http://jamesraber.com/course_materials/WPMJ-Syllabus-Fall14.pdf
+  course_listing: 40095/60195
+  time_period: 2014; Fall
+  instructors:
+    - Jacqueline Marino
+    - James Raber
+  org: Kent State University
+  description: |
+    Students in this class are journalists, programmers, web developers or designers, or they consider themselves some combination of the above. They are taking this class because they want to create something new and meaningful on the web. This course is designed as a capstone for students in the School of Digital Sciences and as a culminating experience for students in the School of Journalism and Mass Communication. However, we welcome other majors and graduate students, particularly those in Computer Science, the School of Visual Design, Management Information Systems and Information Architecture and Knowledge Management.
+
+- title: Visualizing Data in Journalism
+  course_listing: JOUR 241
+  org: Western Kentucky University
+  time_period: 2015; Spring
+  instructors:
+    - Josh Meltzer @joshmeltzer
+  homepage: http://joshmeltzer.com/teaching/jour241/
+  syllabus: http://joshmeltzer.com/teaching/jour241/syllabus/
+  description: |
+    This is a introductory level course designed for students in all areas of journalism, where you will learn how to find, examine and visually display data in the forms of maps, charts, diagrams and illustrations for a sophisticated audience.  You will also learn how to critically read examples of these forms of visual communication for accuracy, thoroughness and effectiveness.
+
+- title: GeoData Journalism
+  course_listing: GGS 590
+  time_period: 2016; Spring
+  org: George Mason University
+  syllabus: https://cos.gmu.edu/ggs/wp-content/uploads/sites/5/2015/12/Spring_2016_GGS590_004_Pfoser.pdf
+  instructors:
+    - Dieter Pfoser
+  description: |
+    Today, the world is awash in unprecedented amounts of data and an expanding network of sources for news. Media organizations today must be able to put data to work quickly. This need was amply demonstrated during Hurricane Sandy, when public, open government data feeds became critical infrastructure. The open question is not whether data, computers, and algorithms can be used by journalists in the public interest, but rather how, when, where, why, and by whom. Today, journalists can treat all of that data as a source, interrogating it for answers as they would a human. That work is data journalism, or gathering, cleaning, organizing, analyzing, visualizing, and publishing data to support the creation of acts of journalism. A more succinct definition might be simply the application of data science to journalism, where data science is defined as the study of the extraction of knowledge from data.
+
+- title: "News & Numbers: Lies, Statistics, and the Stories Media Tell"
+  org: Miami (Ohio) University
+  course_listing: JRN-STA 380
+  time_period: 2009; Spring
+  instructors:
+    - A. John Bailer
+    - Richard Campbell
+  syllabus: http://www.users.miamioh.edu/baileraj/classes/jrn-sta-380/JRN-STA-380-Syllabus-08Oct08.pdf
+  description: |
+    JRN-STA 380 explores the quality of how quantitative ideas and material are represented in daily journalism—where, in fact, most of us get our common-sense ideas about the numbers and data present in our everyday lives. The topics for the course are ripped from current events and headlines—especially those numbers and data related to political polling, the financial crisis, and energy/environmental issues. In analyzing the numbers that underlie such current news stories, we dig under the surface of a USA Today graph or a CNN poll to give students the chance to critique contemporary journalism’s use of numerical representations. In the course we examine and critique concepts such as journalistic objectivity and bias, the concept of uncertainty, and various visual presentations of numerical data.
+
+    We also give students opportunities to craft their own articles on related topics, some of them tied to course speakers and/or Miami faculty who have expertise in political polls, financial systems, and environmental sustainability. For selected speakers, students will “cover” their lectures and write -- as individuals and in groups --their own news stories. In turn, their stories will be critiqued, not only by course faculty, but by the lecturers themselves to see how well students presented complex numeracy in their journalistic representations. The course, useful to students in any major, advances in-depth critical thinking, promotes clear communication, and teaches compelling storytelling about complex topics. Finally, the course aims to help students understand numbers in a way that helps them become more discerning media consumers, more perceptive journalistic critics, and more actively engaged citizens in democratic life.
+
+
+- title: Intro to Digital Humanities
+  org: University of California Los Angeles
+  homepage: http://dh101.humanities.ucla.edu/
+  instructors:
+    - Johanna Drucker
+  time_period: 2012
+  description: |
+    Based on the Introduction to Digital Humanities (DH101) course at UCLA, taught by Johanna Drucker (with David Kim) in 2011 and 2012, this online coursebook (and related collection of resources) is meant to provide introductory materials to digital approaches relevant to a wide range of disciplines. The lessons and tutorials assume no prior knowledge or experience and are meant to introduce fundamental skills and critical issues in digital humanities.
+
+- title: "Digital History: Concepts, Methods, Problems"
+  course_listing: History 205F
+  org: Stanford University
+  time_period: 2014; Fall
+  instructors:
+    - Jason A. Heppler
+  syllabus: http://stanford.edu/~jheppler/stanford.syllabus.hist205f.2014f.pdf
+  description: |
+    This is a hands-on course that introduces students to the use of digital tools and sources to conduct original historical research, analyze and interpret findings, and communicate results. Digital history is an interdisciplinary approach that seeks to bring digital technology into conversation with humanities disciplines and, specifically, seeks to analyze, synthesize, and present knowledge through computational media. Digital historians create digital archival collections, databases, digitize objects, analyze humanistic material in digital form, and addresses scholarly questions often difficult, if not impossible, to ask using non-computational methods.
+
+- title: Data Analysis for Journalists
+  course_listing: J502
+  org: Indiana University
+  time_period: 2015; Fall
+  syllabus: http://archive.is/bWUSj
+  instructors:
+    - Gerry Lanosga @gerrylanosga
+  description: |
+    J502 is concerned with the collection, analysis and interpretation of data in the pursuit of news. As such, this is not just a skills course. Certainly, you will get an overview of lots of digital tools to find stories in data. But more importantly, this course emphasizes how to think about, contextualize and write about the data we encounter all around us. You will generate your own quantitative analyses of data we obtain, but you will also learn to critically evaluate data analysis by others, such as scientists and interest groups. You will gain an understanding of important statistical concepts, perspective on how social science techniques can serve a journalists, and working knowledge of how to obtain data and conduct analyses using tools such as spreadsheets and databases. While this course is aimed at establishing a working journalist’s competency with data, the skills and concepts you learn will be useful in practically any branch of mass communication you choose.
+
+- title: Telling Stories With Data
+  homepage: https://jn430.ua.edu/
+  syllabus: https://jn430.ua.edu/wp-content/uploads/2016/01/JN-430-Spring-2016.pdf
+  org: University of Alabama
+  time_period: 2016; Spring
+  instructors:
+    - Chip Brantley
+  description: |
+    What exactly is data and how does it fit into journalism? How can journalists work with data to find, report and visualize stories? That’s what we’ll explore in this course. (It doesn’t sound fun, but it will be.) We will learn to scrape, compile, clean and critique data and then communicate that data as stories. To do this, we’ll look into and play around with different tools and techniques for analyzing, interpreting and visualizing data. We’ll make maps, diagrams and charts, evaluate them rigorously and think creatively about how to best to tell the underlying story we want them to tell. We’ll also collaborate with Alabama Media Group on class projects, the best of which will be published on AL.com
+
+- title: Digital Scholarship Methods
+  syllabus: https://library.uoregon.edu/node/3920
+  org: University of Oregon
+  instructors:
+    - John Russell
+  time_period: 2014; Winter
+  description: |
+    This course will help graduate students engage with digital tools and approaches, primarily as they pertain to the analysis of texts. While there are no pre-requisites for this course, students need to be willing to try new things, practice new skills, and not be afraid to fail.
+
+- title: Computer-Assisted Reporting
+  org: American University
+  time_period: 2009; Spring
+  instructors:
+    - Wendell Cochran
+  syllabus: http://aladinrc.wrlc.org/handle/1961/6529?show=full
+  description: |
+    The computer gives journalists access to a whole new range and realm of sources. A reporter in Des Moines who needs to gather data on food production in China can do so easily by using a variety of electronic research tools. The San Jose journalist trying to understand her city's budget no longer is bound by the analysis of the city manager's office; with her spreadsheet, she can explore the spending patterns, see which departments consistently gain and which consistently lose in the city's budget politics. By using databases, journalists can connect pieces of information from disparate sources and dig deeper to gain meaning from vast amounts of data.
+
+- title: Investigative Reporting Techniques
+  org: Florida International University
+  course_listing: JOU 6118
+  time_period: 2016; Spring
+  instructors:
+    - Mercedes Vigón
+  syllabus: http://faculty.fiu.edu/~vigonm/JOU6118/index.html
+  description: |
+    This course provides training in investigative reporting, teaching students how to go beyond the day-to-day journalism. The course will emphasize problem solving in developing stories from conception to finished product. The course is practical and., at the same time, directs students to think deeply about the stories they do and why they do them. It will include lectures, discussions, independent work in class, out-of class reporting and writing and conferences with the instructor.
+
+- title: Information Gathering
+  org: University of Oregon
+  course_listing: J-202
+  instructors:
+    - Jim Upshaw
+  time_period: 2000; Spring
+  homepage: http://journalism.uoregon.edu/~jupshaw/j202/index.html
+  syllabus: http://journalism.uoregon.edu/~jupshaw/j202/syllabus.html

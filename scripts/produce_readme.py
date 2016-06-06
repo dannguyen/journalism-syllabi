@@ -3,7 +3,7 @@ from string import Template
 import ruamel_yaml as ryaml
 SRC_PATH = Path('some-syllabi.yaml')
 DEST_PATH = Path('README.md')
-DESC_LENGTH = 200
+DESC_LENGTH = 230
 DEST_START_STR = '<!--tablehere-->'
 
 tbl = Template("""
