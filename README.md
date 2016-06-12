@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>166</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>167</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -2246,10 +2246,22 @@ In the proposal, I wrote...</em></p>
 <a href="https://www.sudandata.org/dataset/Module-1-From-Evidence-to-Stories/jym8-9gir">Syllabus</a>
                 </h5>
                 <p><em>This course teaches you skills to find, analyze, and create narratives with data following an established process used by data journalists. It will also teach you how to critically evaluate public interest stories or reports that ...</em></p>
-                
+                <p>Instructors: Eva Constantaras @evaconstantaras</p>
             </td>
             <td>
                 Sudan Evidence Base Programme
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data and Multimedia Journalism on the MA Online Journalism at Birmingham City University | 2016 <br>
+                    <a href="https://github.com/paulbradshaw/MED7126">Homepage/Syllabus</a>
+                </h5>
+                <p><em>The module explores the possibilities of data and multimedia for gathering news, producing and distributing it. This includes but is not limited to: Computer Assisted Reporting (CAR); data journalism; mapping and geotagging; mashu...</em></p>
+                <p>Instructors: Paul Bradshaw</p>
+            </td>
+            <td>
+                
             </td>
         </tr>
     </tbody>

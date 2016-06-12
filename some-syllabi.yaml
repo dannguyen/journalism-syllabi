@@ -1836,3 +1836,16 @@
       This course teaches you skills to find, analyze, and create narratives with data following an established process used by data journalists. It will also teach you how to critically evaluate public interest stories or reports that reference data.
 
       The materials developed for the Sudan Evidence Base Programme use real-world examples, many of which are based on publicly available data at the time they were developed. These materials are free for public use and we encourage governments, universities, civil society organizations, media organizations, and individuals to download them, change them, and use them.
+
+
+- title: Data and Multimedia Journalism on the MA Online Journalism at Birmingham City University
+  course_listing: MED7126
+  homepage: https://github.com/paulbradshaw/MED7126
+  syllabus: https://github.com/paulbradshaw/MED7126
+  time_period: 2016
+  instructors:
+    - Paul Bradshaw
+  description: |
+    The module explores the possibilities of data and multimedia for gathering news, producing and distributing it. This includes but is not limited to: Computer Assisted Reporting (CAR); data journalism; mapping and geotagging; mashups; audio and podcasts; audio slideshows; online video; interactivity and image maps.
+
+    Students will be introduced to a range of data and multimedia tools and techniques and use these to report on newsworthy stories. The project is student-led and so class time will be increasingly devoted to peer feedback and individual guidance, engaging with guest practitioners and case studies.

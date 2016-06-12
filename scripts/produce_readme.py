@@ -1,6 +1,6 @@
 from pathlib import Path
 from string import Template
-import ruamel_yaml as ryaml
+import rtyaml as ryaml
 SRC_PATH = Path('some-syllabi.yaml')
 DEST_PATH = Path('README.md')
 DESC_LENGTH = 230
