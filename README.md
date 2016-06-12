@@ -2254,14 +2254,14 @@ In the proposal, I wrote...</em></p>
         </tr>
         <tr>
             <td>
-                <h5>Data and Multimedia Journalism on the MA Online Journalism at Birmingham City University | 2016 <br>
+                <h5>Data and Multimedia Journalism | 2016 <br>
                     <a href="https://github.com/paulbradshaw/MED7126">Homepage/Syllabus</a>
                 </h5>
                 <p><em>The module explores the possibilities of data and multimedia for gathering news, producing and distributing it. This includes but is not limited to: Computer Assisted Reporting (CAR); data journalism; mapping and geotagging; mashu...</em></p>
                 <p>Instructors: Paul Bradshaw</p>
             </td>
             <td>
-                
+                Birmingham City University
             </td>
         </tr>
     </tbody>
