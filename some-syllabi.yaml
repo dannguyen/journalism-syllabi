@@ -1872,3 +1872,22 @@
     This course unpacks the phenomenon of big data and how large data sets and sophisticated algorithms are changing society in general and mass communication in particular. The course also enables you acquire and evaluate a large data set for a research paper (although no experience in data or statistics is presumed or required).
   instructors:
     - Norm Lewis
+
+- title: Code4SA Data Journalism School
+  syllabus: http://www.journalism.co.za/blog/data-journalism-school-overview/
+  org: School of Data
+  time_period: 2016; Spring
+  description: |
+    The three-month-long training programme will consist of a combination of theoretical and hands-on practical work. Participants will spend much of their time each day working in a data newsroom.
+
+
+- title: Computer-Assisted Reporting
+  course_listing: J-314
+  org: University of Missouri
+  syllabus: http://www.jenster.com/mu_car_syll.htm
+  time_period: 2001
+  instructors:
+    - Jeff Porter
+    - Jennifer LaFleur
+  description: |
+    “Computer-assisted reporting” refers to the analysis of public records that are stored electronically instead of on paper. This course teaches how to examine computerized records by using a spreadsheet and database manager.

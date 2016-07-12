@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>169</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>171</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -2288,6 +2288,34 @@ In the proposal, I wrote...</em></p>
             </td>
             <td>
                 Florida State University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Code4SA Data Journalism School | 2016; Spring <br>
+                    
+<a href="http://www.journalism.co.za/blog/data-journalism-school-overview/">Syllabus</a>
+                </h5>
+                <p><em>The three-month-long training programme will consist of a combination of theoretical and hands-on practical work. Participants will spend much of their time each day working in a data newsroom.
+</em></p>
+                
+            </td>
+            <td>
+                School of Data
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer-Assisted Reporting | 2001 <br>
+                    
+<a href="http://www.jenster.com/mu_car_syll.htm">Syllabus</a>
+                </h5>
+                <p><em>“Computer-assisted reporting” refers to the analysis of public records that are stored electronically instead of on paper. This course teaches how to examine computerized records by using a spreadsheet and database manager.
+</em></p>
+                <p>Instructors: Jeff Porter, Jennifer LaFleur</p>
+            </td>
+            <td>
+                University of Missouri
             </td>
         </tr>
     </tbody>
