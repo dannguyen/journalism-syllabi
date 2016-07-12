@@ -683,6 +683,18 @@
     - Derek Willis
 
 - title: Data Journalism
+  course_listing: JOU 4930
+  time_period: 2016; Spring
+  org: University of Florida
+  instructors:
+    - Norm Lewis
+  syllabus: https://www.jou.ufl.edu/assets/syllabi/201601/JOU4930%20DataJou-Section%20015A-Lewis-SP16.pdf
+  description: |
+    The day is coming when “data journalism” will be redundant. Once upon a time, reporters could rely mostly on interviews and anecdotes. But today’s digital-savvy audiences expect better evidence. They demand data to know whether the community is safe or what colors are in fashion. Thus, employers now expect journalists to find and use data as a matter of routine. So the purpose of this course is to enable you to be a journalist proficient in data
+
+
+- title: Data Journalism
+  course_listing: JOU 4930
   syllabus: https://www.jou.ufl.edu/assets/syllabi/JOU4930%20DataJou-Section%2003C8s-Lewis-FA14.pdf
   org: University of Florida
   instructors:
@@ -1850,3 +1862,13 @@
     The module explores the possibilities of data and multimedia for gathering news, producing and distributing it. This includes but is not limited to: Computer Assisted Reporting (CAR); data journalism; mapping and geotagging; mashups; audio and podcasts; audio slideshows; online video; interactivity and image maps.
 
     Students will be introduced to a range of data and multimedia tools and techniques and use these to report on newsworthy stories. The project is student-led and so class time will be increasingly devoted to peer feedback and individual guidance, engaging with guest practitioners and case studies.
+
+- title: Big Data Seminar
+  org: Florida State University
+  course_listing: MMC 6936
+  syllabus: http://www.bikeprof.com/uploads/9/0/6/5/9065192/mmc6936-bgdata-section1e86-lewis-sp16.pdf
+  time_period: 2016; Spring
+  description: |
+    This course unpacks the phenomenon of big data and how large data sets and sophisticated algorithms are changing society in general and mass communication in particular. The course also enables you acquire and evaluate a large data set for a research paper (although no experience in data or statistics is presumed or required).
+  instructors:
+    - Norm Lewis

@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>167</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>169</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -786,6 +786,19 @@ There are currently <strong>167</strong> courses listed; see [some-syllabi.yaml]
             </td>
             <td>
                 West Virginia University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data Journalism | 2016; Spring <br>
+                    
+<a href="https://www.jou.ufl.edu/assets/syllabi/201601/JOU4930%20DataJou-Section%20015A-Lewis-SP16.pdf">Syllabus</a>
+                </h5>
+                <p><em>The day is coming when “data journalism” will be redundant. Once upon a time, reporters could rely mostly on interviews and anecdotes. But today’s digital-savvy audiences expect better evidence. They demand data to know whether th...</em></p>
+                <p>Instructors: Norm Lewis</p>
+            </td>
+            <td>
+                University of Florida
             </td>
         </tr>
         <tr>
@@ -2262,6 +2275,19 @@ In the proposal, I wrote...</em></p>
             </td>
             <td>
                 Birmingham City University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Big Data Seminar | 2016; Spring <br>
+                    
+<a href="http://www.bikeprof.com/uploads/9/0/6/5/9065192/mmc6936-bgdata-section1e86-lewis-sp16.pdf">Syllabus</a>
+                </h5>
+                <p><em>This course unpacks the phenomenon of big data and how large data sets and sophisticated algorithms are changing society in general and mass communication in particular. The course also enables you acquire and evaluate a large dat...</em></p>
+                <p>Instructors: Norm Lewis</p>
+            </td>
+            <td>
+                Florida State University
             </td>
         </tr>
     </tbody>
