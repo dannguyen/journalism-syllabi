@@ -1891,3 +1891,11 @@
     - Jennifer LaFleur
   description: |
     “Computer-assisted reporting” refers to the analysis of public records that are stored electronically instead of on paper. This course teaches how to examine computerized records by using a spreadsheet and database manager.
+
+- title: Summer Data Institute
+  org: ProPublica
+  syllabus: http://projects.propublica.org/graphics/data-institute-2016
+  homepage: https://projects.propublica.org/graphics/summer
+  time_period: 2016; June
+  description: |
+    Over 10 days, we'll cover the basics of brainstorming, reporting, designing and building interactive graphics and data-driven news applications. By the end of the course you should be able to:

@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>171</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>172</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -2316,6 +2316,21 @@ In the proposal, I wrote...</em></p>
             </td>
             <td>
                 University of Missouri
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Summer Data Institute | 2016; June <br>
+                    
+<a href="https://projects.propublica.org/graphics/summer">Homepage</a> / 
+<a href="http://projects.propublica.org/graphics/data-institute-2016">Syllabus</a>
+                </h5>
+                <p><em>Over 10 days, we'll cover the basics of brainstorming, reporting, designing and building interactive graphics and data-driven news applications. By the end of the course you should be able to:
+</em></p>
+                
+            </td>
+            <td>
+                ProPublica
             </td>
         </tr>
     </tbody>
