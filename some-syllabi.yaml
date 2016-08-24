@@ -1899,3 +1899,17 @@
   time_period: 2016; June
   description: |
     Over 10 days, we'll cover the basics of brainstorming, reporting, designing and building interactive graphics and data-driven news applications. By the end of the course you should be able to:
+
+
+- title: "Interactive Data Journalism"
+  org: Source OpenNews
+  syllabus: https://source.opennews.org/en-US/learning/interactive-data-journalism-one-semester/
+  time_period: 2016
+  description: |
+    A tested framework for teaching, and a practical guide for learning.
+
+    Data journalism draws on a remarkable array of skills—everything from statistics to graphic design to FOIA requests. It seems impossible to fit everything that aspiring data journalists might need into one semester. And it is. But so many people have asked for it that I tried teaching this course anyway.
+  instructors:
+    - Russell Chun
+    - Yolanda Ma
+    - Jonathan Stray

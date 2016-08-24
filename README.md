@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>172</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>173</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -2331,6 +2331,21 @@ In the proposal, I wrote...</em></p>
             </td>
             <td>
                 ProPublica
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Interactive Data Journalism | 2016 <br>
+                    
+<a href="https://source.opennews.org/en-US/learning/interactive-data-journalism-one-semester/">Syllabus</a>
+                </h5>
+                <p><em>A tested framework for teaching, and a practical guide for learning.
+
+Data journalism draws on a remarkable array of skills—everything from statistics to graphic design to FOIA requests. It seems impossible to fit everything that ...</em></p>
+                <p>Instructors: Russell Chun, Yolanda Ma, Jonathan Stray</p>
+            </td>
+            <td>
+                Source OpenNews
             </td>
         </tr>
     </tbody>
