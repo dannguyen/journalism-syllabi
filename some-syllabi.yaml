@@ -1913,3 +1913,13 @@
     - Russell Chun
     - Yolanda Ma
     - Jonathan Stray
+
+ title: Technologies de l'information appliquées au journalisme
+  org: Université du Québec à Montréal
+  course_listing: EDM5240
+  instructors:
+    - Jean-Hugues Roy
+  time_period: 2016; Fall
+  syllabus: http://jhroy.gitbooks.io/edm5240-a2016/
+  description: |
+    Computational journalism course, in French, for the news getters of the digital age. Dans ce cours, vous apprendrez : les principes fondamentaux de la programmation avec le langage Python; comment analyser d'imposantes bases de données en vous servant de MySQL; à faire des visualisations simples, grâce à différents outils en ligne dont se servent plusieurs médias.
