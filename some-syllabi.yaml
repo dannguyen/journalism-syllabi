@@ -683,6 +683,18 @@
     - Derek Willis
 
 - title: Data Journalism
+  course_listing: JOU 4930
+  time_period: 2016; Spring
+  org: University of Florida
+  instructors:
+    - Norm Lewis
+  syllabus: https://www.jou.ufl.edu/assets/syllabi/201601/JOU4930%20DataJou-Section%20015A-Lewis-SP16.pdf
+  description: |
+    The day is coming when “data journalism” will be redundant. Once upon a time, reporters could rely mostly on interviews and anecdotes. But today’s digital-savvy audiences expect better evidence. They demand data to know whether the community is safe or what colors are in fashion. Thus, employers now expect journalists to find and use data as a matter of routine. So the purpose of this course is to enable you to be a journalist proficient in data
+
+
+- title: Data Journalism
+  course_listing: JOU 4930
   syllabus: https://www.jou.ufl.edu/assets/syllabi/JOU4930%20DataJou-Section%2003C8s-Lewis-FA14.pdf
   org: University of Florida
   instructors:
@@ -1823,3 +1835,81 @@
   syllabus: http://journalism.uoregon.edu/~jupshaw/j202/syllabus.html
   description: |
     This course introduces you to the theory and methods of information gathering and gives you the opportunity to apply what you're learning to an important public policy question.
+
+
+- title: Thinking Like a Data Journalist
+  org: Sudan Evidence Base Programme
+  homepage: https://www.sudandata.org/learning/2
+  time_period: 2016
+  syllabus: https://www.sudandata.org/dataset/Module-1-From-Evidence-to-Stories/jym8-9gir
+  instructors:
+    - Eva Constantaras @evaconstantaras
+  description: |
+      This course teaches you skills to find, analyze, and create narratives with data following an established process used by data journalists. It will also teach you how to critically evaluate public interest stories or reports that reference data.
+
+      The materials developed for the Sudan Evidence Base Programme use real-world examples, many of which are based on publicly available data at the time they were developed. These materials are free for public use and we encourage governments, universities, civil society organizations, media organizations, and individuals to download them, change them, and use them.
+
+
+- title: Data and Multimedia Journalism
+  org: Birmingham City University
+  course_listing: MED7126
+  homepage: https://github.com/paulbradshaw/MED7126
+  syllabus: https://github.com/paulbradshaw/MED7126
+  time_period: 2016
+  instructors:
+    - Paul Bradshaw
+  description: |
+    The module explores the possibilities of data and multimedia for gathering news, producing and distributing it. This includes but is not limited to: Computer Assisted Reporting (CAR); data journalism; mapping and geotagging; mashups; audio and podcasts; audio slideshows; online video; interactivity and image maps.
+
+    Students will be introduced to a range of data and multimedia tools and techniques and use these to report on newsworthy stories. The project is student-led and so class time will be increasingly devoted to peer feedback and individual guidance, engaging with guest practitioners and case studies.
+
+- title: Big Data Seminar
+  org: Florida State University
+  course_listing: MMC 6936
+  syllabus: http://www.bikeprof.com/uploads/9/0/6/5/9065192/mmc6936-bgdata-section1e86-lewis-sp16.pdf
+  time_period: 2016; Spring
+  description: |
+    This course unpacks the phenomenon of big data and how large data sets and sophisticated algorithms are changing society in general and mass communication in particular. The course also enables you acquire and evaluate a large data set for a research paper (although no experience in data or statistics is presumed or required).
+  instructors:
+    - Norm Lewis
+
+- title: Code4SA Data Journalism School
+  syllabus: http://www.journalism.co.za/blog/data-journalism-school-overview/
+  org: School of Data
+  time_period: 2016; Spring
+  description: |
+    The three-month-long training programme will consist of a combination of theoretical and hands-on practical work. Participants will spend much of their time each day working in a data newsroom.
+
+
+- title: Computer-Assisted Reporting
+  course_listing: J-314
+  org: University of Missouri
+  syllabus: http://www.jenster.com/mu_car_syll.htm
+  time_period: 2001
+  instructors:
+    - Jeff Porter
+    - Jennifer LaFleur
+  description: |
+    “Computer-assisted reporting” refers to the analysis of public records that are stored electronically instead of on paper. This course teaches how to examine computerized records by using a spreadsheet and database manager.
+
+- title: Summer Data Institute
+  org: ProPublica
+  syllabus: http://projects.propublica.org/graphics/data-institute-2016
+  homepage: https://projects.propublica.org/graphics/summer
+  time_period: 2016; June
+  description: |
+    Over 10 days, we'll cover the basics of brainstorming, reporting, designing and building interactive graphics and data-driven news applications. By the end of the course you should be able to:
+
+
+- title: "Interactive Data Journalism"
+  org: Source OpenNews
+  syllabus: https://source.opennews.org/en-US/learning/interactive-data-journalism-one-semester/
+  time_period: 2016
+  description: |
+    A tested framework for teaching, and a practical guide for learning.
+
+    Data journalism draws on a remarkable array of skills—everything from statistics to graphic design to FOIA requests. It seems impossible to fit everything that aspiring data journalists might need into one semester. And it is. But so many people have asked for it that I tried teaching this course anyway.
+  instructors:
+    - Russell Chun
+    - Yolanda Ma
+    - Jonathan Stray

@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>165</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>173</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -786,6 +786,19 @@ There are currently <strong>165</strong> courses listed; see [some-syllabi.yaml]
             </td>
             <td>
                 West Virginia University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data Journalism | 2016; Spring <br>
+                    
+<a href="https://www.jou.ufl.edu/assets/syllabi/201601/JOU4930%20DataJou-Section%20015A-Lewis-SP16.pdf">Syllabus</a>
+                </h5>
+                <p><em>The day is coming when “data journalism” will be redundant. Once upon a time, reporters could rely mostly on interviews and anecdotes. But today’s digital-savvy audiences expect better evidence. They demand data to know whether th...</em></p>
+                <p>Instructors: Norm Lewis</p>
+            </td>
+            <td>
+                University of Florida
             </td>
         </tr>
         <tr>
@@ -2236,6 +2249,103 @@ In the proposal, I wrote...</em></p>
             </td>
             <td>
                 University of Oregon
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Thinking Like a Data Journalist | 2016 <br>
+                    
+<a href="https://www.sudandata.org/learning/2">Homepage</a> / 
+<a href="https://www.sudandata.org/dataset/Module-1-From-Evidence-to-Stories/jym8-9gir">Syllabus</a>
+                </h5>
+                <p><em>This course teaches you skills to find, analyze, and create narratives with data following an established process used by data journalists. It will also teach you how to critically evaluate public interest stories or reports that ...</em></p>
+                <p>Instructors: Eva Constantaras @evaconstantaras</p>
+            </td>
+            <td>
+                Sudan Evidence Base Programme
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Data and Multimedia Journalism | 2016 <br>
+                    <a href="https://github.com/paulbradshaw/MED7126">Homepage/Syllabus</a>
+                </h5>
+                <p><em>The module explores the possibilities of data and multimedia for gathering news, producing and distributing it. This includes but is not limited to: Computer Assisted Reporting (CAR); data journalism; mapping and geotagging; mashu...</em></p>
+                <p>Instructors: Paul Bradshaw</p>
+            </td>
+            <td>
+                Birmingham City University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Big Data Seminar | 2016; Spring <br>
+                    
+<a href="http://www.bikeprof.com/uploads/9/0/6/5/9065192/mmc6936-bgdata-section1e86-lewis-sp16.pdf">Syllabus</a>
+                </h5>
+                <p><em>This course unpacks the phenomenon of big data and how large data sets and sophisticated algorithms are changing society in general and mass communication in particular. The course also enables you acquire and evaluate a large dat...</em></p>
+                <p>Instructors: Norm Lewis</p>
+            </td>
+            <td>
+                Florida State University
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Code4SA Data Journalism School | 2016; Spring <br>
+                    
+<a href="http://www.journalism.co.za/blog/data-journalism-school-overview/">Syllabus</a>
+                </h5>
+                <p><em>The three-month-long training programme will consist of a combination of theoretical and hands-on practical work. Participants will spend much of their time each day working in a data newsroom.
+</em></p>
+                
+            </td>
+            <td>
+                School of Data
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Computer-Assisted Reporting | 2001 <br>
+                    
+<a href="http://www.jenster.com/mu_car_syll.htm">Syllabus</a>
+                </h5>
+                <p><em>“Computer-assisted reporting” refers to the analysis of public records that are stored electronically instead of on paper. This course teaches how to examine computerized records by using a spreadsheet and database manager.
+</em></p>
+                <p>Instructors: Jeff Porter, Jennifer LaFleur</p>
+            </td>
+            <td>
+                University of Missouri
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Summer Data Institute | 2016; June <br>
+                    
+<a href="https://projects.propublica.org/graphics/summer">Homepage</a> / 
+<a href="http://projects.propublica.org/graphics/data-institute-2016">Syllabus</a>
+                </h5>
+                <p><em>Over 10 days, we'll cover the basics of brainstorming, reporting, designing and building interactive graphics and data-driven news applications. By the end of the course you should be able to:
+</em></p>
+                
+            </td>
+            <td>
+                ProPublica
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Interactive Data Journalism | 2016 <br>
+                    
+<a href="https://source.opennews.org/en-US/learning/interactive-data-journalism-one-semester/">Syllabus</a>
+                </h5>
+                <p><em>A tested framework for teaching, and a practical guide for learning.
+
+Data journalism draws on a remarkable array of skills—everything from statistics to graphic design to FOIA requests. It seems impossible to fit everything that ...</em></p>
+                <p>Instructors: Russell Chun, Yolanda Ma, Jonathan Stray</p>
+            </td>
+            <td>
+                Source OpenNews
             </td>
         </tr>
     </tbody>
