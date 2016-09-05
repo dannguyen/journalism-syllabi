@@ -58,6 +58,10 @@ for d in data:
                                              links=links, teachers=teachers,
                                              organization=(d['org'] if d.get('org') else '')))
 
+# Let's try reversing things
+tablerows.reverse()
+
+
 tbltxt = tbl.substitute(rows=''.join(tablerows), rowcount=len(tablerows))
 readmetxt = DEST_PATH.read_text().splitlines()
 
