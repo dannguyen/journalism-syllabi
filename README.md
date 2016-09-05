@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>173</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>174</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -2346,6 +2346,19 @@ Data journalism draws on a remarkable array of skills—everything from statisti
             </td>
             <td>
                 Source OpenNews
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Technologies de l'information appliquées au journalisme | 2016; Fall <br>
+                    
+<a href="http://jhroy.gitbooks.io/edm5240-a2016/">Syllabus</a>
+                </h5>
+                <p><em>Computational journalism course, in French, for the news getters of the digital age. Dans ce cours, vous apprendrez : les principes fondamentaux de la programmation avec le langage Python; comment analyser d'imposantes bases de do...</em></p>
+                <p>Instructors: Jean-Hugues Roy</p>
+            </td>
+            <td>
+                Université du Québec à Montréal
             </td>
         </tr>
     </tbody>
