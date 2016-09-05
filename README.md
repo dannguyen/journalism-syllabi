@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>174</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>175</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -38,6 +38,20 @@ There are currently <strong>174</strong> courses listed; see [some-syllabi.yaml]
     </thead>
     <tbody>
        
+        <tr>
+            <td>
+                <h5>Data Journalism | 2016; Spring <br>
+                    
+<a href="https://github.com/mattwaite/JOUR407-Data-Journalism">Homepage</a> / 
+<a href="https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/syllabus.md">Syllabus</a>
+                </h5>
+                <p><em>Every day, more of our lives is being stored in a database somewhere. With that explosion of data, journalists now more than ever need the skills to analyze and understand data to then produce the stories hidden in the information...</em></p>
+                <p>Instructors: Matt Waite</p>
+            </td>
+            <td>
+                University of Nebraska-Lincoln
+            </td>
+        </tr>
         <tr>
             <td>
                 <h5>Technologies de l'information appliquées au journalisme | 2016; Fall <br>
@@ -2312,8 +2326,8 @@ This class containes more applied lessons than its earlier counterpart. There ar
             <td>
                 <h5>Data Journalism | 2014 <br>
                     
-<a href="https://github.com/mattwaite/JOUR407-Data-Journalism">Homepage</a> / 
-<a href="https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/syllabus.md">Syllabus</a>
+<a href="https://github.com/mattwaite/JOUR407-Data-Journalism/tree/601b51dafb0690ff9679861258683d943449312e">Homepage</a> / 
+<a href="https://github.com/mattwaite/JOUR407-Data-Journalism/blob/601b51dafb0690ff9679861258683d943449312e/syllabus.md">Syllabus</a>
                 </h5>
                 <p><em>The best reporters harness the right tools to get the story. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information -- to do investigative reporting. We’re going to ...</em></p>
                 <p>Instructors: Matt Waite</p>

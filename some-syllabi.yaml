@@ -48,8 +48,8 @@
   course_listing: JOUR 407
   org: University of Nebraska-Lincoln
   time_period: 2014
-  homepage: https://github.com/mattwaite/JOUR407-Data-Journalism
-  syllabus: https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/syllabus.md
+  homepage: https://github.com/mattwaite/JOUR407-Data-Journalism/tree/601b51dafb0690ff9679861258683d943449312e
+  syllabus: https://github.com/mattwaite/JOUR407-Data-Journalism/blob/601b51dafb0690ff9679861258683d943449312e/syllabus.md
   description: |
     The best reporters harness the right tools to get the story. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information -- to do investigative reporting. We’re going to get our hands dirty with spreadsheets, databases, maps, some basic stats and, time permitting, some stuff I’ll call “serious future s**t.” And in the end, we’ve got a project to produce. So buckle up and hold on.
   instructors:
@@ -1923,3 +1923,17 @@
   syllabus: http://jhroy.gitbooks.io/edm5240-a2016/
   description: |
     Computational journalism course, in French, for the news getters of the digital age. Dans ce cours, vous apprendrez : les principes fondamentaux de la programmation avec le langage Python; comment analyser d'imposantes bases de données en vous servant de MySQL; à faire des visualisations simples, grâce à différents outils en ligne dont se servent plusieurs médias.
+
+
+- title: Data Journalism
+  course_listing: JOUR 407
+  org: University of Nebraska-Lincoln
+  time_period: 2016; Spring
+  homepage: https://github.com/mattwaite/JOUR407-Data-Journalism
+  syllabus: https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/syllabus.md
+  description: |
+    Every day, more of our lives is being stored in a database somewhere. With that explosion of data, journalists now more than ever need the skills to analyze and understand data to then produce the stories hidden in the information. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information -- to do investigative reporting. We’re going to get our hands dirty with spreadsheets, databases, maps and some basic stats. And we're going to do journalism. So buckle up and hold on.
+  instructors:
+    - Matt Waite
+  buzzwords:
+    - GIS
