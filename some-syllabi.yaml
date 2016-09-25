@@ -1937,3 +1937,38 @@
     - Matt Waite
   buzzwords:
     - GIS
+
+
+
+- title: Introduction to Data Visualization
+  org: University of California at Berkeley
+  time_period: 2016; Fall
+  homepage: http://paldhous.github.io/ucb/2016/dataviz/
+  syllabus: http://paldhous.github.io/ucb/2016/dataviz/
+  description: |
+    This is a course in finding and telling visual stories from data. We will cover fundamental principles of data analysis and visual presentation, chart types and when to use them, and how to acquire, process and “interview” data. We will make interactive and static charts and maps using free software. There will be some coding, but no prior experience is required. The emphasis is on gaining practical skills that students can apply in a newsroom setting.
+
+  instructors:
+    - Peter Aldhous
+
+- title: Introduction to Data Journalism
+  org: University of California at Berkeley
+  time_period: 2016; Fall
+  homepage: http://paldhous.github.io/ucb/2016/intro-data/
+  syllabus: http://paldhous.github.io/ucb/2016/intro-data/
+  description: |
+    Over four weeks, these classes will provide an introduction to data journalism. We will cover principles of data analysis, acquiring and cleaning data, basic spreadsheet skills, plus mapping and other forms of visualization. The emphasis will be on finding and telling stories from data.
+  instructors:
+    - Peter Aldhous
+
+- title: Policy and Investigative Reporting
+  course_listing: 201D
+  org: University of California at Santa Cruz
+  time_period: 2016; Spring
+  homepage: http://paldhous.github.io/ucsc/2016/investigative-policy/
+  syllabus: http://paldhous.github.io/ucsc/2016/investigative-policy/
+  description: |
+    This class focuses on in-depth and investigative reporting, where science and technology meets public policy and society. We will cover essential skills of investigative reporting, including obtaining documents through Public Records Act requests, using online reporting resources, computer-assisted reporting, and ethical and legal issues. After 10 weeks, students will complete an article of ~2000 words, concentrating on an issue of societal/political importance.
+
+  instructors:
+    - Peter Aldhous

@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>175</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>178</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -38,6 +38,42 @@ There are currently <strong>175</strong> courses listed; see [some-syllabi.yaml]
     </thead>
     <tbody>
        
+        <tr>
+            <td>
+                <h5>Policy and Investigative Reporting | 2016; Spring <br>
+                    <a href="http://paldhous.github.io/ucsc/2016/investigative-policy/">Homepage/Syllabus</a>
+                </h5>
+                <p><em>This class focuses on in-depth and investigative reporting, where science and technology meets public policy and society. We will cover essential skills of investigative reporting, including obtaining documents through Public Reco...</em></p>
+                <p>Instructors: Peter Aldhous</p>
+            </td>
+            <td>
+                University of California at Santa Cruz
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Introduction to Data Journalism | 2016; Fall <br>
+                    <a href="http://paldhous.github.io/ucb/2016/intro-data/">Homepage/Syllabus</a>
+                </h5>
+                <p><em>Over four weeks, these classes will provide an introduction to data journalism. We will cover principles of data analysis, acquiring and cleaning data, basic spreadsheet skills, plus mapping and other forms of visualization. The e...</em></p>
+                <p>Instructors: Peter Aldhous</p>
+            </td>
+            <td>
+                University of California at Berkeley
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Introduction to Data Visualization | 2016; Fall <br>
+                    <a href="http://paldhous.github.io/ucb/2016/dataviz/">Homepage/Syllabus</a>
+                </h5>
+                <p><em>This is a course in finding and telling visual stories from data. We will cover fundamental principles of data analysis and visual presentation, chart types and when to use them, and how to acquire, process and “interview” data. W...</em></p>
+                <p>Instructors: Peter Aldhous</p>
+            </td>
+            <td>
+                University of California at Berkeley
+            </td>
+        </tr>
         <tr>
             <td>
                 <h5>Data Journalism | 2016; Spring <br>
