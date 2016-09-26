@@ -1237,7 +1237,7 @@ In the proposal, I wrote...</em></p>
             <td>
                 <h5>Computer Assisted Reporting | 2016; Spring <br>
                     
-<a href="http://sites.tsu.edu/hb2504/syllabi/jour-335-01.pdf">Syllabus</a>
+<a href="http://archive.is/tE20H">Syllabus</a>
                 </h5>
                 <p><em>This is a course in the basic elements of computer--‐assisted reporting. You will learn how computer spreadsheet and database programs can be used to find details, leads and stories in collections of electronic records. With the p...</em></p>
                 <p>Instructors: Ladonia Randle</p>
