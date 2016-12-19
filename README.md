@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>178</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>179</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -38,6 +38,18 @@ There are currently <strong>178</strong> courses listed; see [some-syllabi.yaml]
     </thead>
     <tbody>
        
+        <tr>
+            <td>
+                <h5>Data Exploration and Storytelling: Finding Stories in Data with Exploratory Analysis and Visualization | 2017; January 16 - February 26 <br>
+                    <a href="http://journalismcourses.org/DES17.html">Homepage/Syllabus</a>
+                </h5>
+                <p><em>This is a free course open to anyone from anywhere in the world interested in data-journalism. Instructors Alberto Cairo and Heather Krause will teach how to extract journalistic stories from data using visualization, exploratory ...</em></p>
+                <p>Instructors: Alberto Cairo, Heather Crause</p>
+            </td>
+            <td>
+                Knight Center for Journalism in the Americas
+            </td>
+        </tr>
         <tr>
             <td>
                 <h5>Policy and Investigative Reporting | 2016; Spring <br>

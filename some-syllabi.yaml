@@ -1972,3 +1972,15 @@
 
   instructors:
     - Peter Aldhous
+
+
+- title: "Data Exploration and Storytelling: Finding Stories in Data with Exploratory Analysis and Visualization"
+  org: Knight Center for Journalism in the Americas
+  time_period: 2017; January 16 - February 26
+  homepage: http://journalismcourses.org/DES17.html
+  syllabus: http://journalismcourses.org/DES17.html
+  description: |
+     This is a free course open to anyone from anywhere in the world interested in data-journalism. Instructors Alberto Cairo and Heather Krause will teach how to extract journalistic stories from data using visualization, exploratory data analysis and other techniques.
+  instructors:
+    - Alberto Cairo
+    - Heather Crause
