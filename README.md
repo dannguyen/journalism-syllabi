@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>179</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>180</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -38,6 +38,19 @@ There are currently <strong>179</strong> courses listed; see [some-syllabi.yaml]
     </thead>
     <tbody>
        
+        <tr>
+            <td>
+                <h5>Data Journalism Handbook <br>
+                    <a href="http://www.odecanet.org/data-journalism-handbook/">Homepage/Syllabus</a>
+                </h5>
+                <p><em>A 200-hour undergrad data journalism concentration curriculum for universities in Eastern Europe and Central Asia.
+</em></p>
+                <p>Instructors: Eva Constantaras</p>
+            </td>
+            <td>
+                Open Data in Europe and Central Asia
+            </td>
+        </tr>
         <tr>
             <td>
                 <h5>Data Exploration and Storytelling: Finding Stories in Data with Exploratory Analysis and Visualization | 2017; January 16 - February 26 <br>
