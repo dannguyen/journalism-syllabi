@@ -27,7 +27,7 @@ The following table is auto-generated from running [scripts/produce_courselist.p
 <!--tablehere-->
 
 
-There are currently <strong>180</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>182</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
     <thead>
@@ -38,6 +38,30 @@ There are currently <strong>180</strong> courses listed; see [some-syllabi.yaml]
     </thead>
     <tbody>
        
+        <tr>
+            <td>
+                <h5>Intro to News Apps | 2016; Spring <br>
+                    <a href="https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016">Homepage/Syllabus</a>
+                </h5>
+                <p><em>In this class you’ll learn basic skills and concepts behind interactive news applications. What does that mean? Good question! A “news application” can be a lot of things. It could be a slideshow, an interactive map, a chart or or...</em></p>
+                <p>Instructors: Chris Canipe</p>
+            </td>
+            <td>
+                University of Missouri
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h5>Advanced Interactive Data Visualization | 2015; Spring <br>
+                    <a href="https://github.com/chriscanipe/Data-Vis-Spring-2015">Homepage/Syllabus</a>
+                </h5>
+                <p><em>We’ll be exploring tools and principles that help us visualize data and tell stories online. There are a lot of ways to skin the proverbial cat, but we’re going to focus on basic JavaScript programming, everyday data formatting an...</em></p>
+                <p>Instructors: Chris Canipe, Mike Jenner</p>
+            </td>
+            <td>
+                University of Missouri
+            </td>
+        </tr>
         <tr>
             <td>
                 <h5>Data Journalism Handbook <br>

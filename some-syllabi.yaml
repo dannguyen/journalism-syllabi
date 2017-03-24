@@ -1994,3 +1994,26 @@
     A 200-hour undergrad data journalism concentration curriculum for universities in Eastern Europe and Central Asia.
   instructors:
     - Eva Constantaras
+
+
+- title: Advanced Interactive Data Visualization
+  course_listing: JOUR 4462/7462
+  org: University of Missouri
+  homepage: https://github.com/chriscanipe/Data-Vis-Spring-2015
+  syllabus: https://github.com/chriscanipe/Data-Vis-Spring-2015
+  time_period: 2015; Spring
+  description: |
+    We’ll be exploring tools and principles that help us visualize data and tell stories online. There are a lot of ways to skin the proverbial cat, but we’re going to focus on basic JavaScript programming, everyday data formatting and visualization techniques that leverage the D3.js library. At the end of 8 weeks you’ll produce a reporting project that tells a story with data. The class will meet from 6-8 p.m. Tuesdays beginning Jan. 20 and ending March 10, 2015. Classes will meet in 247 Walter Williams. Students should bring their laptops to every class session. There is no textbook for this class; links to relevant readings will be shared with students.
+  instructors:
+    - Chris Canipe
+    - Mike Jenner
+
+- title: Intro to News Apps
+  org: University of Missouri
+  homepage: https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016
+  syllabus: https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016
+  description: |
+    In this class you’ll learn basic skills and concepts behind interactive news applications. What does that mean? Good question! A “news application” can be a lot of things. It could be a slideshow, an interactive map, a chart or or even just a story layout with interactive elements. We’ll cover all of those things and learn how to write code along the way.
+  instructors:
+    - Chris Canipe
+  time_period: 2016; Spring
