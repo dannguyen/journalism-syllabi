@@ -61,6 +61,7 @@ tablerows.reverse()
 
 
 tbltxt = tbl.substitute(rows=''.join(tablerows), rowcount=len(tablerows))
+tbltxt = tbltxt.replace('\n', ' ')
 readmetxt = DEST_PATH.read_text().splitlines()
 
 try:
