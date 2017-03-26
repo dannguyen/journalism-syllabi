@@ -16,9 +16,7 @@ There are currently <strong>${rowcount}</strong> courses listed; see [some-sylla
             <th>Organization</th>
         </tr>
     </thead>
-    <tbody>
-       ${rows}
-    </tbody>
+    <tbody>${rows}</tbody>
 </table>""")
 
 row_template = Template("""
