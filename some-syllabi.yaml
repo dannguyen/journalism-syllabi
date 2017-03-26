@@ -2011,9 +2011,9 @@
 - title: Intro to News Apps
   org: University of Missouri
   homepage: https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016
+  time_period: 2016; Spring
   syllabus: https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016
   description: |
     In this class you’ll learn basic skills and concepts behind interactive news applications. What does that mean? Good question! A “news application” can be a lot of things. It could be a slideshow, an interactive map, a chart or or even just a story layout with interactive elements. We’ll cover all of those things and learn how to write code along the way.
   instructors:
     - Chris Canipe
-  time_period: 2016; Spring
