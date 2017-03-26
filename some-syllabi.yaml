@@ -2017,3 +2017,46 @@
     In this class you’ll learn basic skills and concepts behind interactive news applications. What does that mean? Good question! A “news application” can be a lot of things. It could be a slideshow, an interactive map, a chart or or even just a story layout with interactive elements. We’ll cover all of those things and learn how to write code along the way.
   instructors:
     - Chris Canipe
+
+
+
+
+- title: Intro to Web Apps
+  homepage: https://introwebapps.wordpress.com/
+  syllabus: https://introwebapps.wordpress.com/sked/
+  time_period: 2016; Fall
+  org: University of Florida
+  instructors:
+    - Mindy McAdams
+  materials:
+    - "Learning Web Design (4th Edition), by Jennifer Niederst Robbins. O’Reilly, 2012 (at Amazon; e-book at O’Reilly)."
+  description: |
+    This is not a course where you “learn to make websites.” (Making websites is so 2005.) It is a course in which you will learn to code, and by “code” I mean write functional programs that run in a Web browser — not just make Web pages.
+
+    It is an introductory course. It has no prerequisites. However, students are expected to be majoring in Journalism, Advertising, Public Relations or Telecommunication at UF.
+
+
+
+- title: Introduction to Web Apps
+  course_listing: JOU 3363
+  org: University of Florida
+  homepage: https://introwebapps.wordpress.com/
+  time_period: 2017; Fall
+  instructors:
+    - Mindy McAdams
+
+
+- title: Advanced Web Apps
+  course_listing: JOU 3363
+  org: University of Florida
+  homepage: https://introwebapps.wordpress.com/
+  syllabus: https://www.scribd.com/document/336092220/Advanced-Web-Apps-Syllabus-2017
+  time_period: 2017; Spring
+  instructors:
+    - Mindy McAdams
+  description: |
+    This course adds server-side (back-end) Web skills to the client-side (front-end) Web skills students have developed in the preceding course, with the goal of developing Web apps that include a server-side component to support presentations of stories and large data sets for media organizations. Web scraping is also covered to enable journalists to gather open data from the Web for analysis and/or informing audiences.
+
+
+
+
