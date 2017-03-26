@@ -36,8 +36,7 @@ There are currently <strong>182</strong> courses listed; see [some-syllabi.yaml]
             <th>Organization</th>
         </tr>
     </thead>
-    <tbody>
-       
+    <tbody>      
         <tr>
             <td>
                 <h5>Intro to News Apps | 2016; Spring <br>
