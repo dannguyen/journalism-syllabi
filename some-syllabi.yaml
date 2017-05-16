@@ -1206,7 +1206,7 @@
 
 - title: Design & Presentation
   org: City University of New York
-  homepage: http://lenagroeger.com/design/
+  homepage: http://lenagroeger.s3.amazonaws.com/cuny-fall15/index.html
   time_period: 2015; Fall
   instructors:
     - Lena Groeger
@@ -2019,6 +2019,16 @@
     - Chris Canipe
 
 
+- title: Data Journalism
+  syllabus: http://archive.is/CEbl1
+  org: University of Texas at Arlington
+  course_listing: Jour 4393-003
+  time_period: 2016; Spring
+  instructors:
+    - Dustin Harp
+  description: |
+    We live in a world of data – from census and crime reports, budgets, election results and sports information, to social media updates on Facebook and Twitter. The rise of personal computing and the Internet along with the economics of digital publishing technology have opened a floodgate of raw data. Journalism has been rapidly transformed by this opening up of information. Data journalism, which has long been a niche in the newsroom, is one of the most visible fields in today’s media landscape. To hold on to their position as brokers of trust and centers of community conversation, journalists must understand how they can use data to improve a shared understanding of an increasingly complex world. Journalists need to know how to find stories in data and shape them in compelling ways. This course teaches students how to gather, analyze and visualize data-driven stories. This emerging discipline touches on information gathering, analysis and visual design, mapping and graphing while keeping at the forefront the storytelling techniques of journalists. Participants are expected to pitch, report and produce informative stories working alone and in teams. You’ll learn to use online Web tools to create compelling stories and you’ll learn how to tell those stories using visualizations (graphs, maps etc.).
+
 
 
 - title: Intro to Web Apps
@@ -2058,5 +2068,71 @@
     This course adds server-side (back-end) Web skills to the client-side (front-end) Web skills students have developed in the preceding course, with the goal of developing Web apps that include a server-side component to support presentations of stories and large data sets for media organizations. Web scraping is also covered to enable journalists to gather open data from the Web for analysis and/or informing audiences.
 
 
+- title: Data Journalism
+  time_period: 2016; Fall
+  homepage: http://tudatajournalism.com/
+  syllabus: http://tudatajournalism.com/wp-content/uploads/2016/09/JOU-3605-Syllabus.pdf
+  course_listing: JOU 3605
+  instructors:
+    - Jillian Bauer
+  description: |
+    In this hands-on course, students will learn practical computer-assisted reporting and data visualization techniques and tools used by data reporters and interactive designers at leading news organizations. By the end of the semester students will comfortably:
 
 
+- title: Data Journalism
+  course_listing: JOUR 322
+  org: USC Annenberg
+  syllabus: http://web-app.usc.edu/soc/syllabus/20163/21176.pdf
+  time_period: 2016; Fall
+  instructors:
+    - Dana Chinn
+  description: |
+    Proficiency with gathering, analyzing and visualizing data is essential in journalism toda as commodity content becomes increasingly ineffective in both serving the public interest and engaging audiences.
+
+
+- title: Data Visualization (Journalism)
+  course_listing: JRN-418
+  time_period: 2017; Spring
+  org: Central Connecticut State University
+  syllabus: http://andrewbatran.com/ccsu-2017/syllabus/
+  homepage: http://andrewbatran.com/ccsu-2017/
+  instructors:
+    - Andrew Ba Tran
+  description: |
+    There are more charts, maps, and interactives on news sites than ever before. But data-driven news stories and graphics have been moving readers, impacting communities, and changing lives for hundreds of years.
+    According to the undergraduate catalog, this course is Data Visualization, but it’s much more than that.
+    This course is about Data Journalism. Data and Journalism. Observations and stories. This class will be both technical and philosophical.
+
+- title: Storytelling with Data + Interactivity
+  homepage: http://lamthuyvo.github.io/cuny2015-interactivejournalism/
+  time_period: 2015; Fall
+  org: City University of New York
+  instructors:
+    - Lam Thuy Vo
+  description: |
+    This three-credit course introduces students to conceptualizing and producing content across multiple platforms--from Web sites to tablets and mobile devices-- by exploring essential concepts, tools and interactive story forms.
+
+    This course explores how the news industry is adapting to new technologies and ways to map or illustrate data and news. Students will also explore ways to add interactivity to audio and visual storytelling.
+
+- title: Intro to Data Journalism
+  homepage: http://lenagroeger.s3.amazonaws.com/nyu-2016/introdatacode.html
+  time_period: 2016
+  org: New York University
+  instructors:
+    - Lena Groeger
+
+
+- title: Visualizing Data
+  course_listing: LLSJ 3505 AX
+  org: New School
+  homepage: http://lenagroeger.s3.amazonaws.com/newschool/VisualizingDataSyllabus.pdf
+  time_period: 2016; Spring
+  instructors:
+    - Lena Groeger
+  description: |
+    While the presentation of data has been part of news since its earliest days, it’s in the midst of a renaissance.
+    Graphics desks that used to be thought of as “the art department,” outside the real work of a newsroom, are quickly
+    becoming a central part of every newsroom’s daily journalism operation. The people who make news graphics are
+    expected to be full-fledged journalists and work alongside reporters and editors.
+    The purpose of this class is to learn how to tell a clear, honest and compelling journalistic story with data. We’ll
+    learn how to think about the visual presentation of data, how and why it works, and how to do it the right way
