@@ -2078,6 +2078,13 @@
   description: |
     In this hands-on course, students will learn practical computer-assisted reporting and data visualization techniques and tools used by data reporters and interactive designers at leading news organizations. By the end of the semester students will comfortably:
 
+- title: Computers and the Open Society
+  org: Stanford University
+  course_listing: CS 47N
+  instructors: |
+    - Terry Winograd
+  syllabus: http://hci.stanford.edu/courses/cs047n/syllabus.html
+
 
 - title: Data Journalism
   course_listing: JOUR 322
@@ -2143,4 +2150,51 @@
   syllabus: https://journalistsresource.org/syllabi/data-journalism-visualization-mapping-ethics-syllabus
   description: |
     The skills required to be a successful data journalist are many, ranging from numeracy and spreadsheet fluency to being able to create visualizations and interpret and perform statistical analyses. In most moderate to large newsrooms, some data tasks are divided among desks and departments, with reporters, editors, designers and coders working in teams. Still, it is important for all team members to have some familiarity with what the others are doing. And the core skills of working with numbers and telling stories in the public interest are fundamental to all newsroom work.
+
+
+- title: Web Development for Media
+  course_listing: MPJO-779-01
+  instructors:
+    - Jeremy Bowers
+  syllabus: https://github.com/jeremyjbowers/MPJO-779-01-FALL2015
+  time_period: 2015; Fall
+  description: |
+    Merely using the web and digital tools is no longer enough for today's media professionals. Journalists and communicators need to have a practical understanding of how websites and applications work. This class does not aim to make you a professional coder or require any previous web development experience. We want you to come away with enough coding skills that you can effectively collaborate with web developers and continue learning on your own.
+
+    You will learn about web development by diving into Git, Python, HTML, CSS and JavaScript. There will be readings and guest speakers, but the major basis for instruction will be hands-on learning activities. You'll learn how web developers work by identifying a project, breaking that project down into features and then building those features. By the end of the class, you won't just have a functional website; you'll be comfortable with the best practices of good development teams.
+
+- title: Digital Frameworks
+  org: Northwestern University (Washington D.C. campus)
+  instructors:
+    - David Eads
+  time_period: 2016; Summer
+  homepage: https://digitalframeworks.github.io/
+  syllabus: https://digitalframeworks.github.io/syllabus/
+  description: |
+    Online data journalism: Finding, analyzing and presenting structured information on the Internet as part of your journalistic work.
+
+- title: Digital Frameworks
+  org: Northwestern University (Washington D.C. campus)
+  instructors:
+    - David Eads
+  time_period: 2017; Spring
+  homepage: https://digitalframeworks-spring2017.github.io/
+  syllabus: https://digitalframeworks-spring2017.github.io/syllabus.html
+  description: |
+    Digital data journalism: Finding, analyzing and presenting structured information on the internet as part of your journalistic work.
+
+- title: "Python for Data Journalists: Analyzing Money in Politics"
+  org: Knight Center for Journalism in the Americas
+  time_period: 2017; June 12 - July 9
+  instructors:
+    - Ben Welsh
+  homepage: http://journalismcourses.org/PDJ0517.html
+  syllabus: http://journalismcourses.org/PDJ0517.html
+  description: |
+    You will learn just enough of the Python computer programming language to work with the pandas library, a popular open-source tool for analyzing data. The course will teach you how to use pandas to read, filter, join, group, aggregate and rank structured data.
+
+    You will also learn how to record, remix and republish your analysis using the Jupyter Notebook, a browser-based application for writing code that is emerging as the standard for sharing reproducible research in the sciences.
+
+    And most important: you will see how these tools can increase the speed and veracity of your journalism.
+
 
