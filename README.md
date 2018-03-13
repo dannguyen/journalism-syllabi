@@ -18,7 +18,7 @@ Feel free to add suggestions in the [issues](https://github.com/dannguyen/journa
 
 
 
-### Coarse collection
+### Course collection
 
 The following table is auto-generated from running [scripts/produce_courselist.py](scripts/produce_courselist.py), which reads from [some-syllabi.yaml](some-syllabi.yaml) and prints things exactly in the order as I entered them in (i.e. with no real order at all -- will export to a proper Github Pages/Jekyll thing later):
 
