@@ -5,38 +5,40 @@ from string import Template
 import re
 import rtyaml as ryaml
 from sys import stderr, stdout
+BOIL_PATH = Path('BOILERPLATE.md')
 SRC_PATH = Path('some-syllabi.yaml')
+
 DEST_PATH = Path('README.md')
 DESC_LENGTH = 300
-DEST_START_STR = '<!--tablehere-->'
+# DEST_START_STR = '<!--tablehere-->'
 SEASON_KEY = {'Spring': '03', 'Summer': '06', 'Fall': '09', 'Winter': '11'}
 
 TABLE_TEMPLATE = Template("""
 There are currently <strong>${rowcount}</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
 <table>
-    <thead>
-        <tr>
-            <th>Course</th>
-            <th>Organization</th>
-        </tr>
-    </thead>
-    <tbody>${rows}</tbody>
-</table>""")
+<thead>
+    <tr>
+        <th>Course</th>
+        <th>Organization</th>
+    </tr>
+</thead>
+<tbody>
+""")
 
 ROW_TEMPLATE = Template("""
-    <tr>
-        <td>
-            <h5>${course} <br>
-                ${links}
-            </h5>
-            ${description}
-            ${teachers}
-        </td>
-        <td>
-            ${organization}
-        </td>
-    </tr>""")
+  <tr>
+    <td>
+        <h5>${course} <br>
+            ${links}
+        </h5>
+        ${description}
+        ${teachers}
+    </td>
+    <td>
+        ${organization}
+    </td>
+  </tr>""")
 
 
 def sortfoo(record):
@@ -46,19 +48,19 @@ def sortfoo(record):
     if tx:
         year, season = tx.groups()
         monthval = SEASON_KEY if season else "01"
-        return f'{year}-{monthval}'
+        return f'{year}-{monthval}-{record["title"]}'
     else:
-        return '9999-' + record.get('title')
+        return '0000-00-' + record['title']
 
 def main():
     rawdata = ryaml.load(SRC_PATH.open())
     # Let's try sorting by time period
-    data = sorted(rawdata, key=lambda r: sortfoo, reverse=True)
+    data = sorted(rawdata, key=sortfoo, reverse=True)
 
 
     tablerows = []
     for d in data:
-        course = '{0} | {1}'.format(d['title'], d['time_period']) if d.get('time_period') else d['title']
+        course = '{0} » {1}'.format(d['title'], d['time_period']) if d.get('time_period') else d['title']
         if d.get('description'):
             desc = '<p><em>{0}</em></p>'.format(d['description'][:DESC_LENGTH] + '...' if len(d['description']) > DESC_LENGTH else d['description'])
         else:
@@ -79,24 +81,17 @@ def main():
                                                  organization=(d['org'] if d.get('org') else '')))
 
 
-    tbltxt = TABLE_TEMPLATE.substitute(rows=''.join(tablerows), rowcount=len(tablerows))
-    tbltxt = tbltxt.replace('\n', ' ')
-    boilerplate_text = DEST_PATH.read_text().splitlines()
+    table_header = TABLE_TEMPLATE.substitute(rowcount=len(tablerows))
+    boilerplate_text = BOIL_PATH.read_text()
 
     try:
         with DEST_PATH.open('w') as f:
-            for line in boilerplate_text:
-                if line != DEST_START_STR:
-                    # print(line)
-                    f.write(line + "\n")
-                else:
-#                    print(DEST_START_STR)
-                    f.write(DEST_START_STR + '\n\n')
-#                    print(tbltxt)
-                    # write all of the course list in one chunk
-                    f.write(tbltxt)
-                    print(f"Success: {len(tablerows)} courses listed")
-                    break
+            f.write(boilerplate_text)
+            f.write(table_header)
+            f.write("\n".join(tablerows))
+            f.write("</tbody></table>")
+            print(f"Success: {len(tablerows)} courses listed")
+
     # worst error-handling code ever:
     except Exception as err:
         stderr.write(f"Aborting...Error: {err}\n")
