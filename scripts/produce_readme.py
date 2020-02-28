@@ -36,8 +36,12 @@ ROW_TEMPLATE = Template("""
     </tr>""")
 
 def main():
-    entries = []
-    data = ryaml.load(SRC_PATH.open())
+    rawdata = ryaml.load(SRC_PATH.open())
+    # Let's try sorting by time period
+    data = sorted(rawdata, key=lambda r: str(r.get('time_period')), reverse=True)
+
+
+    tablerows = []
     for d in data:
         course = '{0} | {1}'.format(d['title'], d['time_period']) if d.get('time_period') else d['title']
         if d.get('description'):
@@ -55,22 +59,10 @@ def main():
         else:
             links = ' / '.join(["""\n<a href="{1}">{0}</a>""".format(n.capitalize(), d[n]) for n in ('homepage', 'syllabus') if d.get(n)])
 
-        entries.append(d)
+        tablerows.append(ROW_TEMPLATE.substitute(course=course, description=desc,
+                                                 links=links, teachers=teachers,
+                                                 organization=(d['org'] if d.get('org') else '')))
 
-    # Let's try sorting by time period
-    tablerows = []
-    for d in sorted(entries, key=lambda r: str(r.get('time_period')), reverse=True):
-
-        try:
-            rowtxt = ROW_TEMPLATE.substitute(course=course, description=desc,
-                                                     links=links, teachers=teachers,
-                                                     organization=(d['org'] if d.get('org') else ''))
-            tablerows.append(rowtxt)
-
-        except Exception as err:
-            stderr.write(f"Aborting due to: {err}\n\n")
-            stderr.write(f"Entry that caused error:\n")
-            stderr.write(d)
 
     tbltxt = TABLE_TEMPLATE.substitute(rows=''.join(tablerows), rowcount=len(tablerows))
     tbltxt = tbltxt.replace('\n', ' ')
