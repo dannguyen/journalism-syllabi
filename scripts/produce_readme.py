@@ -27,22 +27,22 @@ There are currently <strong>${rowcount}</strong> courses listed; see [some-sylla
 """)
 
 ROW_TEMPLATE = Template("""
-  <tr>
-    <td>
-        <h5>${course} <br>
-            ${links}
-        </h5>
+<tr>
+<td>
+<h5>${course} <br>
+    ${links}
+</h5>
 
-        <p><small>
-        ${description}
-        </small></p>
+<p><small>
+${description}
+</small></p>
 
-        ${teachers}
-    </td>
-    <td>
-        <small>${organization}</small>
-    </td>
-  </tr>""")
+${teachers}
+</td>
+<td>
+<small>${organization}</small>
+</td>
+</tr>""")
 
 
 def sortfoo(record):
