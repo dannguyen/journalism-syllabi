@@ -2314,3 +2314,44 @@
 
     3) Develop the ability to shape the information into accurate and compelling stories for all platforms.
 
+
+
+- title: Data Journalism on the MA in Data Journalism
+  course_listing: MED7373
+  time_period: 2019
+  org: Birmingham City University
+  homepage: https://github.com/paulbradshaw/MED7373-Data-Journalism/tree/81230939f235cbdd880c076faf80d3edde123314
+  syllabus: https://github.com/paulbradshaw/MED7373-Data-Journalism/tree/81230939f235cbdd880c076faf80d3edde123314
+  instructors:
+    - Paul Bradshaw
+  description: |
+    Data Journalism aims to facilitate a flexible and adaptable skillset, including the use of ‘computational thinking’ and communities of practice, that provides a basis for students to critically adapt to both new and existing data journalism techniques.
+
+
+
+- title: Information Expositions
+  time_period: 2019
+  course_listing: INFO 3402
+  org: University of Colorado, Boulder
+  homepage: https://medium.com/information-expositions-f2019/information-expositions-fall-2019-f61d884105e
+  syllabus: https://medium.com/information-expositions-f2019/information-expositions-fall-2019-f61d884105e
+  description: |
+    This course prepares students to manipulate and analyze data and to communicate their findings to a lay audience. Students will learn six fundamental data analysis techniques and will demonstrate their mastery of these techniques through self-directed data analyses. Students will also think critically about the ethical and social implications of data analysis through regular writing of public-facing blog posts.
+
+  instructors:
+    - Brian Keegan
+
+
+- title: Data Journalism and Visualization with Free Tools
+  course_listing: DATA0819
+  time_period: 2019; Fall
+  homepage: https://journalismcourses.org/resource/DATA0819.html
+  syllabus: https://journalismcourses.org/courses/DATA0819/Eng/Syllabus_DATA0819.pdf
+  org:  Knight Center for Journalism in the America
+  description: |
+    This resource page features course content from the Knight Center for Journalism in the America's massive open online course (MOOC) titled "Data Journalism and Visualization with Free Tools." The six-week course took place from October 14 to November 24, 2019. We are now making the content free and available to students who took the course and anyone else who's interested in interested in data journalism and visualization.
+
+
+  instructors:
+    - Alberto Cairo
+    - Simon Rogers
