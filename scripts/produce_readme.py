@@ -2,12 +2,15 @@
 
 from pathlib import Path
 from string import Template
+import re
 import rtyaml as ryaml
 from sys import stderr, stdout
 SRC_PATH = Path('some-syllabi.yaml')
 DEST_PATH = Path('README.md')
 DESC_LENGTH = 300
 DEST_START_STR = '<!--tablehere-->'
+SEASON_KEY = {'Spring': '03', 'Summer': '06', 'Fall': '09', 'Winter': '11'}
+
 TABLE_TEMPLATE = Template("""
 There are currently <strong>${rowcount}</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
@@ -35,10 +38,22 @@ ROW_TEMPLATE = Template("""
         </td>
     </tr>""")
 
+
+def sortfoo(record):
+    timeval = str(record.get('time_period'))
+    tx = re.match(r'^(\d{4}).*?(Spring|Summer|Fall|Winter)?\s*$', timeval)
+
+    if tx:
+        year, season = tx.groups()
+        monthval = SEASON_KEY if season else "01"
+        return f'{year}-{monthval}'
+    else:
+        return '9999-' + record.get('title')
+
 def main():
     rawdata = ryaml.load(SRC_PATH.open())
     # Let's try sorting by time period
-    data = sorted(rawdata, key=lambda r: str(r['time_period']) if r.get('time_period') else '0000 ' + r.get('title'), reverse=True)
+    data = sorted(rawdata, key=lambda r: sortfoo, reverse=True)
 
 
     tablerows = []

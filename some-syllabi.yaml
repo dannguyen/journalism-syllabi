@@ -1943,8 +1943,8 @@
 - title: Introduction to Data Visualization
   org: University of California at Berkeley
   time_period: 2016; Fall
-  homepage: http://paldhous.github.io/ucb/2016/dataviz/
-  syllabus: http://paldhous.github.io/ucb/2016/dataviz/
+  homepage: https://paldhous.github.io/ucb/2016/dataviz/
+  syllabus: https://paldhous.github.io/ucb/2016/dataviz/
   description: |
     This is a course in finding and telling visual stories from data. We will cover fundamental principles of data analysis and visual presentation, chart types and when to use them, and how to acquire, process and “interview” data. We will make interactive and static charts and maps using free software. There will be some coding, but no prior experience is required. The emphasis is on gaining practical skills that students can apply in a newsroom setting.
 
@@ -1954,8 +1954,8 @@
 - title: Introduction to Data Journalism
   org: University of California at Berkeley
   time_period: 2016; Fall
-  homepage: http://paldhous.github.io/ucb/2016/intro-data/
-  syllabus: http://paldhous.github.io/ucb/2016/intro-data/
+  homepage: https://paldhous.github.io/ucb/2016/intro-data/
+  syllabus: https://paldhous.github.io/ucb/2016/intro-data/
   description: |
     Over four weeks, these classes will provide an introduction to data journalism. We will cover principles of data analysis, acquiring and cleaning data, basic spreadsheet skills, plus mapping and other forms of visualization. The emphasis will be on finding and telling stories from data.
   instructors:
@@ -1965,8 +1965,8 @@
   course_listing: 201D
   org: University of California at Santa Cruz
   time_period: 2016; Spring
-  homepage: http://paldhous.github.io/ucsc/2016/investigative-policy/
-  syllabus: http://paldhous.github.io/ucsc/2016/investigative-policy/
+  homepage: https://paldhous.github.io/ucsc/2016/investigative-policy/
+  syllabus: https://paldhous.github.io/ucsc/2016/investigative-policy/
   description: |
     This class focuses on in-depth and investigative reporting, where science and technology meets public policy and society. We will cover essential skills of investigative reporting, including obtaining documents through Public Records Act requests, using online reporting resources, computer-assisted reporting, and ethical and legal issues. After 10 weeks, students will complete an article of ~2000 words, concentrating on an issue of societal/political importance.
 
@@ -2355,3 +2355,78 @@
   instructors:
     - Alberto Cairo
     - Simon Rogers
+
+
+- title: Data Immersion Boot Camp
+  course_listing: J200
+  org: University of California, Berkeley
+  time_period: 2018; Fall
+  homepage: https://multimedia.report/classes/data-bootcamp/2018/
+  syllabus: https://multimedia.report/classes/data-bootcamp/2018/
+  description: |
+    Data boot camp is a one-week immersion into how to use data for research, reporting, and expressing stories to readers. Students will learn how to request data from government agencies; how to process and clean the data using software tools; how to interrogate data to find stories hidden in the numbers; and finally visualize the data with charts and graphics to help readers understand the quantitative information that is concomitant with nearly every story.
+
+
+- title: Intro To Coding News Packages
+  course_listing: J220
+  org: University of California, Berkeley
+  time_period: 2020; Spring
+  homepage: https://multimedia.report/classes/intro-to-interactives/2020/
+  syllabus: https://multimedia.report/classes/intro-to-interactives/2020/
+  description: |
+    This is a class that teaches students how to conceive and construct online news packages for both mobile and desktop. Students will work to produce stories in a variety of media (text, photos, video, graphics, and interactives) and construct a website to display the story in an engaging way. Focus will be on design of the project, technical skills for web development, digital reporting skills like scraping data, and understanding workflows and mechanics of online news production.
+  instructors:
+    - Jeremy Rue
+
+- title: Advanced Coding Interactive Stories
+  course_listing: J233
+  org: University of California, Berkeley
+  time_period: 2019; Fall
+  homepage: https://multimedia.report/classes/coding/2019/
+  syllabus: https://multimedia.report/classes/coding/2019/
+  description: |
+    This course teaches students code literacy. Beyond the specific skills they learn, students will have a more well rounded understanding of a crucial technologies that influence the news industry in innumerable ways. They become better decision makers when working with technologists, and will help to forge the future of the journalism industry. This class covers prototypical object oriented programming, an important component in many web coding languages.
+
+    Topics covered include variables, typecasting, arrays, for-loops, conditional statements, comparison operators, functions, enclosures and cross-domain data requesting. This course will also cover popular data libraries like D3 and Pandas.
+  instructors:
+    - Jeremy Rue
+
+
+- title: Data Journalism
+  course_listing: J233
+  org: University of California, Berkeley
+  time_period: 2019; Spring
+  homepage: https://multimedia.report/classes/data-journalism/2019/
+  syllabus: https://multimedia.report/classes/data-journalism/2019/
+  description: |
+    Students in this course will be expected to become familiar with the use of data in order to produce stories with impact, authority and distinction. Data — large sets of information and numbers — are becoming increasingly available from public, private and social media sources. As a result, journalism organizations are looking to make use of this rich pool of information — and to hire those who are able to do so. Fundamentally, you will leave this course with a data mindset — a skill that will help you in journalism and maybe even in life.
+
+
+  instructors:
+    - T. Christian Miller
+
+
+- title: Introduction to Data Visualization
+  org: University of California at Berkeley
+  time_period: 2019; Fall
+  homepage: https://paldhous.github.io/ucb/2019/dataviz/
+  syllabus: https://paldhous.github.io/ucb/2019/dataviz/
+  description: |
+    This is a course in finding and telling visual stories from data. We will cover fundamental principles of data analysis and visual presentation, chart types and when to use them, and how to acquire, process and “interview” data. We will make interactive and static charts and maps using free software. We will make graphics by writing code, as well as using point-and-click software. The emphasis is on gaining practical skills that students can apply in a newsroom setting.
+
+
+  instructors:
+    - Peter Aldhous
+
+
+- title: Algorithms - Lede Program
+  course_listing:
+  org: Columbia Journalism School
+  time_period: 2018; Summer
+  homepage: https://github.com/jstray/lede-algorithms
+  syllabus: https://github.com/jstray/lede-algorithms
+  instructors:
+    - Jonathan Stray
+  description: |
+    A course on algorithms used in journalism, for beginning Python programmers. The major topics are text processing, visualization of high dimensional data, regression, machine learning, algorithmic bias and accountability, monte carlo simulation, and election prediction.
+
