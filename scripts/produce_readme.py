@@ -6,7 +6,7 @@ import rtyaml as ryaml
 from sys import stderr, stdout
 SRC_PATH = Path('some-syllabi.yaml')
 DEST_PATH = Path('README.md')
-DESC_LENGTH = 230
+DESC_LENGTH = 300
 DEST_START_STR = '<!--tablehere-->'
 TABLE_TEMPLATE = Template("""
 There are currently <strong>${rowcount}</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
@@ -36,7 +36,7 @@ ROW_TEMPLATE = Template("""
     </tr>""")
 
 def main():
-    tablerows = []
+    entries = []
     data = ryaml.load(SRC_PATH.open())
     for d in data:
         course = '{0} | {1}'.format(d['title'], d['time_period']) if d.get('time_period') else d['title']
@@ -55,13 +55,22 @@ def main():
         else:
             links = ' / '.join(["""\n<a href="{1}">{0}</a>""".format(n.capitalize(), d[n]) for n in ('homepage', 'syllabus') if d.get(n)])
 
-        tablerows.append(ROW_TEMPLATE.substitute(course=course, description=desc,
-                                                 links=links, teachers=teachers,
-                                                 organization=(d['org'] if d.get('org') else '')))
+        entries.append(d)
 
-    # Let's try reversing things
-    tablerows.reverse()
+    # Let's try sorting by time period
+    tablerows = []
+    for d in sorted(entries, key=lambda r: str(r.get('time_period')), reverse=True):
 
+        try:
+            rowtxt = ROW_TEMPLATE.substitute(course=course, description=desc,
+                                                     links=links, teachers=teachers,
+                                                     organization=(d['org'] if d.get('org') else ''))
+            tablerows.append(rowtxt)
+
+        except Exception as err:
+            stderr.write(f"Aborting due to: {err}\n\n")
+            stderr.write(f"Entry that caused error:\n")
+            stderr.write(d)
 
     tbltxt = TABLE_TEMPLATE.substitute(rows=''.join(tablerows), rowcount=len(tablerows))
     tbltxt = tbltxt.replace('\n', ' ')

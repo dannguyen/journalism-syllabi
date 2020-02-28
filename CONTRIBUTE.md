@@ -18,9 +18,7 @@ homepage: https://the-landing-page-of-the
 syllabus: https://if-the-homepage-is-not-the-syllabus/provide/direct/link/to/syllabus
 
 description: |
-    Descriptive blurb about the course. I usually just copy-paste from the catalog if possible.
-
-    Can have line breaks/separate paragraphs
+    Descriptive blurb about the course. I usually just copy-paste from the catalog if possible. Gets auto-truncated to 300 characters.
 
 instructors:
     - FirstName LastName

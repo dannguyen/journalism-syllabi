@@ -2129,6 +2129,25 @@
     - Lena Groeger
 
 
+- title: Data Journalism
+  course_listing: JRN-418-70
+  org: Central Connecticut State University
+  homepage: http://andrewbtran.github.io/JRN-418/
+  syllabus: http://andrewbtran.github.io/JRN-418/
+  time_period: 2015; Fall
+  instructors:
+    - Andrew Ba Tran
+
+  description: |
+    This course is about Data Journalism. Data and Journalism. Observations and stories. This class will be both technical and philosophical.
+
+    Students will learn to apply the process of a data scientist to journalism.
+
+    Data is just another source for reporters to research, interview, and glean answers from. Students will be introduced to communicating stories through visualizations like charts and maps. But more importantly, this course will also build on the skills necessary to find and tell stories using data and the knowledge required to understand the data itself.
+
+
+
+
 - title: Visualizing Data
   course_listing: LLSJ 3505 AX
   org: New School
@@ -2283,6 +2302,7 @@
 - title: Reporting Methods
   org: Carleton University
   time_period: 2020; Winter
+  course_listing: JOUR 5206
   instructors:
     - David McKie
     - Jim Bronskill
@@ -2293,3 +2313,4 @@
     2) Acquire skills needed to make sense of the information gathered.
 
     3) Develop the ability to shape the information into accurate and compelling stories for all platforms.
+
