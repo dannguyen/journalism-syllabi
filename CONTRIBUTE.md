@@ -47,9 +47,9 @@ Again, you can create an issue and just paste the YAML you've written, and I'll 
 
 If you feel the need to do the full open-source thing, I won't stop you from cloning the repo and submitting a pull request.
 
-To have your course entry show up on the main [course listing](README.md#table-courses), make a new YAML entry as previously above and add it to the bottom of [some-syllabi.yaml](some-syllabi.yaml). 
+To have your course entry show up on the main [course listing](README.md#the-course-list), make a new YAML entry as previously above and add it to the bottom of [some-syllabi.yaml](some-syllabi.yaml). 
 
-How do the YAML entries get added to the [course listing](README.md#table-courses)? Via the crude Python script in: [scripts/produce_courselist.py](scripts/produce_courselist.py)
+How do the YAML entries get added to the [course listing](README.md#the-course-list)? Via the crude Python script in: [scripts/produce_courselist.py](scripts/produce_courselist.py)
 
 To run that script, you can use the following `make` command:
 
