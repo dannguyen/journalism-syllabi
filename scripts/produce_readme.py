@@ -21,7 +21,6 @@ There are currently <strong>${rowcount}</strong> courses listed.
 <thead>
     <tr>
         <th>Course</th>
-        <th>Organization</th>
     </tr>
 </thead>
 <tbody>
@@ -30,6 +29,7 @@ There are currently <strong>${rowcount}</strong> courses listed.
 ROW_TEMPLATE = Template("""
 <tr>
 <td>
+<h6>${organization}<h6>
 <h5>${course} <br>
     ${links}
 </h5>
@@ -37,9 +37,7 @@ ROW_TEMPLATE = Template("""
 <p>${description}</p>
 
 ${teachers}
-</td>
-<td>
-${organization}
+
 </td>
 </tr>""")
 
