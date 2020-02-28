@@ -9,31 +9,31 @@ DEST_PATH = Path('README.md')
 DESC_LENGTH = 230
 DEST_START_STR = '<!--tablehere-->'
 TABLE_TEMPLATE = Template("""
-    There are currently <strong>${rowcount}</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+There are currently <strong>${rowcount}</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
 
-    <table>
-        <thead>
-            <tr>
-                <th>Course</th>
-                <th>Organization</th>
-            </tr>
-        </thead>
-        <tbody>${rows}</tbody>
-    </table>""")
+<table>
+    <thead>
+        <tr>
+            <th>Course</th>
+            <th>Organization</th>
+        </tr>
+    </thead>
+    <tbody>${rows}</tbody>
+</table>""")
 
 ROW_TEMPLATE = Template("""
-        <tr>
-            <td>
-                <h5>${course} <br>
-                    ${links}
-                </h5>
-                ${description}
-                ${teachers}
-            </td>
-            <td>
-                ${organization}
-            </td>
-        </tr>""")
+    <tr>
+        <td>
+            <h5>${course} <br>
+                ${links}
+            </h5>
+            ${description}
+            ${teachers}
+        </td>
+        <td>
+            ${organization}
+        </td>
+    </tr>""")
 
 def main():
     tablerows = []
