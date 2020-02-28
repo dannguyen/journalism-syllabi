@@ -48,3892 +48,3462 @@ There are currently <strong>215</strong> courses listed; see [some-syllabi.yaml]
 </thead>
 <tbody>
 
-  <tr>
-    <td>
-        <h5>Reporting Methods » 2020; Winter <br>
-            
+<tr>
+<td>
+<h5>Reporting Methods » 2020; Winter <br>
+    
 <a href="http://www.davidmckie.com/jour-5206-reporting-methods-2020-winter-term-carleton-school-of-journalism-and-communication/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        1) Obtain a thorough grounding in journalistic research methods. 2) Acquire skills needed to make sense of the information gathered. 3) Develop the ability to shape the information into accurate and compelling stories for all platforms. 
-        </small></p>
+<p><small>1) Obtain a thorough grounding in journalistic research methods. 2) Acquire skills needed to make sense of the information gathered. 3) Develop the ability to shape the information into accurate and compelling stories for all platforms. </small></p>
 
-        <p>Instructors: David McKie, Jim Bronskill</p>
-    </td>
-    <td>
-        <small>Carleton University</small>
-    </td>
-  </tr>
+<p>Instructors: David McKie, Jim Bronskill</p>
+</td>
+<td>
+<small>Carleton University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Programming in Journalism » 2020; Winter <br>
-            
+<tr>
+<td>
+<h5>Programming in Journalism » 2020; Winter <br>
+    
 <a href="https://github.com/stanfordjournalism/stanford-progj-2020">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course introduces general purpose programming skills commonly used in the news. Students will gain basic proficiency in the Unix shell and Python programming while practicing skills such as web scraping, acquiring data from public APIs, cleaning and transforming data, and working with spreadshe
-        </small></p>
+<p><small>This course introduces general purpose programming skills commonly used in the news. Students will gain basic proficiency in the Unix shell and Python programming while practicing skills such as web scraping, acquiring data from public APIs, cleaning and transforming data, and working with spreadshe...</small></p>
 
-        <p>Instructors: Serdar Tumgoren</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Serdar Tumgoren</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Intro To Coding News Packages » 2020; Spring <br>
-            <a href="https://multimedia.report/classes/intro-to-interactives/2020/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Intro To Coding News Packages » 2020; Spring <br>
+    <a href="https://multimedia.report/classes/intro-to-interactives/2020/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This is a class that teaches students how to conceive and construct online news packages for both mobile and desktop. Students will work to produce stories in a variety of media (text, photos, video, graphics, and interactives) and construct a website to display the story in an engaging way. Focus w
-        </small></p>
+<p><small>This is a class that teaches students how to conceive and construct online news packages for both mobile and desktop. Students will work to produce stories in a variety of media (text, photos, video, graphics, and interactives) and construct a website to display the story in an engaging way. Focus w...</small></p>
 
-        <p>Instructors: Jeremy Rue</p>
-    </td>
-    <td>
-        <small>University of California, Berkeley</small>
-    </td>
-  </tr>
+<p>Instructors: Jeremy Rue</p>
+</td>
+<td>
+<small>University of California, Berkeley</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism with R and the Tidyverse » 2020 <br>
-            
+<tr>
+<td>
+<h5>Data Journalism with R and the Tidyverse » 2020 <br>
+    
 <a href="https://github.com/mattwaite/datajournalismbook">Homepage</a> / 
 <a href="https://mattwaite.github.io/datajournalism/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In this book, you’ll get a taste of modern data journalism through programming in R, a statistics language. You’ll be challenged to think programmatically while thinking about a story you can tell to readers in a way that they’ll want to read. They might seem like two different sides of the brain – 
-        </small></p>
+<p><small>In this book, you’ll get a taste of modern data journalism through programming in R, a statistics language. You’ll be challenged to think programmatically while thinking about a story you can tell to readers in a way that they’ll want to read. They might seem like two different sides of the brain – ...</small></p>
 
-        <p>Instructors: Matt Waite</p>
-    </td>
-    <td>
-        <small>University of Nebraska-Lincoln</small>
-    </td>
-  </tr>
+<p>Instructors: Matt Waite</p>
+</td>
+<td>
+<small>University of Nebraska-Lincoln</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Sports Data Analysis and Visualization » 2019; Summer <br>
-            
+<tr>
+<td>
+<h5>Sports Data Analysis and Visualization » 2019; Summer <br>
+    
 <a href="https://github.com/mattwaite/sportsdatabook">Homepage</a> / 
 <a href="http://mattwaite.github.io/sports/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The entire course is in R and promotes replicable methods for data analysis to students who likely have done no programmatic data analysis and have zero experience working with code. The course philosophy, given those realities, is to have lots of small assignments that build on each other step by s
-        </small></p>
+<p><small>The entire course is in R and promotes replicable methods for data analysis to students who likely have done no programmatic data analysis and have zero experience working with code. The course philosophy, given those realities, is to have lots of small assignments that build on each other step by s...</small></p>
 
-        <p>Instructors: Matt Waite</p>
-    </td>
-    <td>
-        <small>University of Nebraska-Lincoln</small>
-    </td>
-  </tr>
+<p>Instructors: Matt Waite</p>
+</td>
+<td>
+<small>University of Nebraska-Lincoln</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Introduction to Data Visualization » 2019; Fall <br>
-            <a href="https://paldhous.github.io/ucb/2019/dataviz/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Introduction to Data Visualization » 2019; Fall <br>
+    <a href="https://paldhous.github.io/ucb/2019/dataviz/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This is a course in finding and telling visual stories from data. We will cover fundamental principles of data analysis and visual presentation, chart types and when to use them, and how to acquire, process and “interview” data. We will make interactive and static charts and maps using free software
-        </small></p>
+<p><small>This is a course in finding and telling visual stories from data. We will cover fundamental principles of data analysis and visual presentation, chart types and when to use them, and how to acquire, process and “interview” data. We will make interactive and static charts and maps using free software...</small></p>
 
-        <p>Instructors: Peter Aldhous</p>
-    </td>
-    <td>
-        <small>University of California at Berkeley</small>
-    </td>
-  </tr>
+<p>Instructors: Peter Aldhous</p>
+</td>
+<td>
+<small>University of California at Berkeley</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism and Visualization with Free Tools » 2019; Fall <br>
-            
+<tr>
+<td>
+<h5>Data Journalism and Visualization with Free Tools » 2019; Fall <br>
+    
 <a href="https://journalismcourses.org/resource/DATA0819.html">Homepage</a> / 
 <a href="https://journalismcourses.org/courses/DATA0819/Eng/Syllabus_DATA0819.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This resource page features course content from the Knight Center for Journalism in the America's massive open online course (MOOC) titled "Data Journalism and Visualization with Free Tools." The six-week course took place from October 14 to November 24, 2019. We are now making the content free and 
-        </small></p>
+<p><small>This resource page features course content from the Knight Center for Journalism in the America's massive open online course (MOOC) titled "Data Journalism and Visualization with Free Tools." The six-week course took place from October 14 to November 24, 2019. We are now making the content free and ...</small></p>
 
-        <p>Instructors: Alberto Cairo, Simon Rogers</p>
-    </td>
-    <td>
-        <small>Knight Center for Journalism in the America</small>
-    </td>
-  </tr>
+<p>Instructors: Alberto Cairo, Simon Rogers</p>
+</td>
+<td>
+<small>Knight Center for Journalism in the America</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2019; Spring <br>
-            <a href="https://multimedia.report/classes/data-journalism/2019/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Data Journalism » 2019; Spring <br>
+    <a href="https://multimedia.report/classes/data-journalism/2019/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        Students in this course will be expected to become familiar with the use of data in order to produce stories with impact, authority and distinction. Data — large sets of information and numbers — are becoming increasingly available from public, private and social media sources. As a result, journali
-        </small></p>
+<p><small>Students in this course will be expected to become familiar with the use of data in order to produce stories with impact, authority and distinction. Data — large sets of information and numbers — are becoming increasingly available from public, private and social media sources. As a result, journali...</small></p>
 
-        <p>Instructors: T. Christian Miller</p>
-    </td>
-    <td>
-        <small>University of California, Berkeley</small>
-    </td>
-  </tr>
+<p>Instructors: T. Christian Miller</p>
+</td>
+<td>
+<small>University of California, Berkeley</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Coding Interactive Stories » 2019; Fall <br>
-            <a href="https://multimedia.report/classes/coding/2019/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Advanced Coding Interactive Stories » 2019; Fall <br>
+    <a href="https://multimedia.report/classes/coding/2019/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This course teaches students code literacy. Beyond the specific skills they learn, students will have a more well rounded understanding of a crucial technologies that influence the news industry in innumerable ways. They become better decision makers when working with technologists, and will help to
-        </small></p>
+<p><small>This course teaches students code literacy. Beyond the specific skills they learn, students will have a more well rounded understanding of a crucial technologies that influence the news industry in innumerable ways. They become better decision makers when working with technologists, and will help to...</small></p>
 
-        <p>Instructors: Jeremy Rue</p>
-    </td>
-    <td>
-        <small>University of California, Berkeley</small>
-    </td>
-  </tr>
+<p>Instructors: Jeremy Rue</p>
+</td>
+<td>
+<small>University of California, Berkeley</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>The Data Institute 2019 » 2019 <br>
-            
+<tr>
+<td>
+<h5>The Data Institute 2019 » 2019 <br>
+    
 <a href="https://projects.propublica.org/graphics/data-institute-2019">Homepage</a> / 
 <a href="https://github.com/propublica/data-institute-2019">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        An intensive workshop from The Ida B. Wells Society for Investigative Reporting and ProPublica on how to use data, design and code for journalism. From July 22 to Aug 2 in New York City. 
-        </small></p>
+<p><small>An intensive workshop from The Ida B. Wells Society for Investigative Reporting and ProPublica on how to use data, design and code for journalism. From July 22 to Aug 2 in New York City. </small></p>
 
-        
-    </td>
-    <td>
-        <small>ProPublica</small>
-    </td>
-  </tr>
 
-  <tr>
-    <td>
-        <h5>Information Expositions » 2019 <br>
-            <a href="https://medium.com/information-expositions-f2019/information-expositions-fall-2019-f61d884105e">Homepage/Syllabus</a>
-        </h5>
+</td>
+<td>
+<small>ProPublica</small>
+</td>
+</tr>
 
-        <p><small>
-        This course prepares students to manipulate and analyze data and to communicate their findings to a lay audience. Students will learn six fundamental data analysis techniques and will demonstrate their mastery of these techniques through self-directed data analyses. Students will also think critical
-        </small></p>
+<tr>
+<td>
+<h5>Information Expositions » 2019 <br>
+    <a href="https://medium.com/information-expositions-f2019/information-expositions-fall-2019-f61d884105e">Homepage/Syllabus</a>
+</h5>
 
-        <p>Instructors: Brian Keegan</p>
-    </td>
-    <td>
-        <small>University of Colorado, Boulder</small>
-    </td>
-  </tr>
+<p><small>This course prepares students to manipulate and analyze data and to communicate their findings to a lay audience. Students will learn six fundamental data analysis techniques and will demonstrate their mastery of these techniques through self-directed data analyses. Students will also think critical...</small></p>
 
-  <tr>
-    <td>
-        <h5>Data Journalism on the MA in Data Journalism » 2019 <br>
-            <a href="https://github.com/paulbradshaw/MED7373-Data-Journalism/tree/81230939f235cbdd880c076faf80d3edde123314">Homepage/Syllabus</a>
-        </h5>
+<p>Instructors: Brian Keegan</p>
+</td>
+<td>
+<small>University of Colorado, Boulder</small>
+</td>
+</tr>
 
-        <p><small>
-        Data Journalism aims to facilitate a flexible and adaptable skillset, including the use of ‘computational thinking’ and communities of practice, that provides a basis for students to critically adapt to both new and existing data journalism techniques. 
-        </small></p>
+<tr>
+<td>
+<h5>Data Journalism on the MA in Data Journalism » 2019 <br>
+    <a href="https://github.com/paulbradshaw/MED7373-Data-Journalism/tree/81230939f235cbdd880c076faf80d3edde123314">Homepage/Syllabus</a>
+</h5>
 
-        <p>Instructors: Paul Bradshaw</p>
-    </td>
-    <td>
-        <small>Birmingham City University</small>
-    </td>
-  </tr>
+<p><small>Data Journalism aims to facilitate a flexible and adaptable skillset, including the use of ‘computational thinking’ and communities of practice, that provides a basis for students to critically adapt to both new and existing data journalism techniques. </small></p>
 
-  <tr>
-    <td>
-        <h5>Data Journalism, Spring 2018 » 2018; Spring <br>
-            <a href="https://ucb-dataj.github.io/2018/">Homepage/Syllabus</a>
-        </h5>
+<p>Instructors: Paul Bradshaw</p>
+</td>
+<td>
+<small>Birmingham City University</small>
+</td>
+</tr>
 
-        <p><small>
-        This course is for students who want to make finding and reporting stories from data part of their toolkit. It will be useful for anyone interested in investigative journalism, which nowadays is often heavily data-driven, or those keen to use data to provide context and ground-truth for regular beat
-        </small></p>
+<tr>
+<td>
+<h5>Data Journalism, Spring 2018 » 2018; Spring <br>
+    <a href="https://ucb-dataj.github.io/2018/">Homepage/Syllabus</a>
+</h5>
 
-        <p>Instructors: Peter Aldhous, Amanda Hickman</p>
-    </td>
-    <td>
-        <small>University of California at Berkeley</small>
-    </td>
-  </tr>
+<p><small>This course is for students who want to make finding and reporting stories from data part of their toolkit. It will be useful for anyone interested in investigative journalism, which nowadays is often heavily data-driven, or those keen to use data to provide context and ground-truth for regular beat...</small></p>
 
-  <tr>
-    <td>
-        <h5>Data Immersion Boot Camp » 2018; Fall <br>
-            <a href="https://multimedia.report/classes/data-bootcamp/2018/">Homepage/Syllabus</a>
-        </h5>
+<p>Instructors: Peter Aldhous, Amanda Hickman</p>
+</td>
+<td>
+<small>University of California at Berkeley</small>
+</td>
+</tr>
 
-        <p><small>
-        Data boot camp is a one-week immersion into how to use data for research, reporting, and expressing stories to readers. Students will learn how to request data from government agencies; how to process and clean the data using software tools; how to interrogate data to find stories hidden in the numb
-        </small></p>
+<tr>
+<td>
+<h5>Data Immersion Boot Camp » 2018; Fall <br>
+    <a href="https://multimedia.report/classes/data-bootcamp/2018/">Homepage/Syllabus</a>
+</h5>
 
-        
-    </td>
-    <td>
-        <small>University of California, Berkeley</small>
-    </td>
-  </tr>
+<p><small>Data boot camp is a one-week immersion into how to use data for research, reporting, and expressing stories to readers. Students will learn how to request data from government agencies; how to process and clean the data using software tools; how to interrogate data to find stories hidden in the numb...</small></p>
 
-  <tr>
-    <td>
-        <h5>Algorithms - Lede Program » 2018; Summer <br>
-            <a href="https://github.com/jstray/lede-algorithms">Homepage/Syllabus</a>
-        </h5>
 
-        <p><small>
-        A course on algorithms used in journalism, for beginning Python programmers. The major topics are text processing, visualization of high dimensional data, regression, machine learning, algorithmic bias and accountability, monte carlo simulation, and election prediction. 
-        </small></p>
+</td>
+<td>
+<small>University of California, Berkeley</small>
+</td>
+</tr>
 
-        <p>Instructors: Jonathan Stray</p>
-    </td>
-    <td>
-        <small>Columbia Journalism School</small>
-    </td>
-  </tr>
+<tr>
+<td>
+<h5>Algorithms - Lede Program » 2018; Summer <br>
+    <a href="https://github.com/jstray/lede-algorithms">Homepage/Syllabus</a>
+</h5>
 
-  <tr>
-    <td>
-        <h5>Introduction to Web Apps » 2017; Fall <br>
-            
+<p><small>A course on algorithms used in journalism, for beginning Python programmers. The major topics are text processing, visualization of high dimensional data, regression, machine learning, algorithmic bias and accountability, monte carlo simulation, and election prediction. </small></p>
+
+<p>Instructors: Jonathan Stray</p>
+</td>
+<td>
+<small>Columbia Journalism School</small>
+</td>
+</tr>
+
+<tr>
+<td>
+<h5>Introduction to Web Apps » 2017; Fall <br>
+    
 <a href="https://introwebapps.wordpress.com/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Mindy McAdams</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Mindy McAdams</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Exploring Computation Journalism » 2017; Winter <br>
-            <a href="http://web.archive.org/web/20170913171730/http://cjlab.stanford.edu/exploring-computational-journalism/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Exploring Computation Journalism » 2017; Winter <br>
+    <a href="http://web.archive.org/web/20170913171730/http://cjlab.stanford.edu/exploring-computational-journalism/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This course will explore the evolving field of computational journalism. Students will research and discuss the state of the field, and do projects in areas such as understanding the media ecosystem, stimulating media creation and assessing media impact. 
-        </small></p>
+<p><small>This course will explore the evolving field of computational journalism. Students will research and discuss the state of the field, and do projects in areas such as understanding the media ecosystem, stimulating media creation and assessing media impact. </small></p>
 
-        <p>Instructors: Maneesh Agrawala, Krishna Bharat, Dawn Garcia, Jay Hamilton</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Maneesh Agrawala, Krishna Bharat, Dawn Garcia, Jay Hamilton</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Digital Frameworks » 2017; Spring <br>
-            
+<tr>
+<td>
+<h5>Digital Frameworks » 2017; Spring <br>
+    
 <a href="https://digitalframeworks-spring2017.github.io/">Homepage</a> / 
 <a href="https://digitalframeworks-spring2017.github.io/syllabus.html">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Digital data journalism: Finding, analyzing and presenting structured information on the internet as part of your journalistic work. 
-        </small></p>
+<p><small>Digital data journalism: Finding, analyzing and presenting structured information on the internet as part of your journalistic work. </small></p>
 
-        <p>Instructors: David Eads</p>
-    </td>
-    <td>
-        <small>Northwestern University (Washington D.C. campus)</small>
-    </td>
-  </tr>
+<p>Instructors: David Eads</p>
+</td>
+<td>
+<small>Northwestern University (Washington D.C. campus)</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Visualization (Journalism) » 2017; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Visualization (Journalism) » 2017; Spring <br>
+    
 <a href="http://andrewbatran.com/ccsu-2017/">Homepage</a> / 
 <a href="http://andrewbatran.com/ccsu-2017/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        There are more charts, maps, and interactives on news sites than ever before. But data-driven news stories and graphics have been moving readers, impacting communities, and changing lives for hundreds of years. According to the undergraduate catalog, this course is Data Visualization, but it’s much 
-        </small></p>
+<p><small>There are more charts, maps, and interactives on news sites than ever before. But data-driven news stories and graphics have been moving readers, impacting communities, and changing lives for hundreds of years. According to the undergraduate catalog, this course is Data Visualization, but it’s much ...</small></p>
 
-        <p>Instructors: Andrew Ba Tran</p>
-    </td>
-    <td>
-        <small>Central Connecticut State University</small>
-    </td>
-  </tr>
+<p>Instructors: Andrew Ba Tran</p>
+</td>
+<td>
+<small>Central Connecticut State University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Web Apps » 2017; Spring <br>
-            
+<tr>
+<td>
+<h5>Advanced Web Apps » 2017; Spring <br>
+    
 <a href="https://introwebapps.wordpress.com/">Homepage</a> / 
 <a href="https://www.scribd.com/document/336092220/Advanced-Web-Apps-Syllabus-2017">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course adds server-side (back-end) Web skills to the client-side (front-end) Web skills students have developed in the preceding course, with the goal of developing Web apps that include a server-side component to support presentations of stories and large data sets for media organizations. Web
-        </small></p>
+<p><small>This course adds server-side (back-end) Web skills to the client-side (front-end) Web skills students have developed in the preceding course, with the goal of developing Web apps that include a server-side component to support presentations of stories and large data sets for media organizations. Web...</small></p>
 
-        <p>Instructors: Mindy McAdams</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Mindy McAdams</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Python for Data Journalists: Analyzing Money in Politics » 2017; June 12 - July 9 <br>
-            <a href="http://journalismcourses.org/PDJ0517.html">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Python for Data Journalists: Analyzing Money in Politics » 2017; June 12 - July 9 <br>
+    <a href="http://journalismcourses.org/PDJ0517.html">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        You will learn just enough of the Python computer programming language to work with the pandas library, a popular open-source tool for analyzing data. The course will teach you how to use pandas to read, filter, join, group, aggregate and rank structured data. You will also learn how to record, remi
-        </small></p>
+<p><small>You will learn just enough of the Python computer programming language to work with the pandas library, a popular open-source tool for analyzing data. The course will teach you how to use pandas to read, filter, join, group, aggregate and rank structured data. You will also learn how to record, remi...</small></p>
 
-        <p>Instructors: Ben Welsh</p>
-    </td>
-    <td>
-        <small>Knight Center for Journalism in the Americas</small>
-    </td>
-  </tr>
+<p>Instructors: Ben Welsh</p>
+</td>
+<td>
+<small>Knight Center for Journalism in the Americas</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Exploration and Storytelling: Finding Stories in Data with Exploratory Analysis and Visualization » 2017; January 16 - February 26 <br>
-            <a href="http://journalismcourses.org/DES17.html">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Data Exploration and Storytelling: Finding Stories in Data with Exploratory Analysis and Visualization » 2017; January 16 - February 26 <br>
+    <a href="http://journalismcourses.org/DES17.html">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This is a free course open to anyone from anywhere in the world interested in data-journalism. Instructors Alberto Cairo and Heather Krause will teach how to extract journalistic stories from data using visualization, exploratory data analysis and other techniques. 
-        </small></p>
+<p><small>This is a free course open to anyone from anywhere in the world interested in data-journalism. Instructors Alberto Cairo and Heather Krause will teach how to extract journalistic stories from data using visualization, exploratory data analysis and other techniques. </small></p>
 
-        <p>Instructors: Alberto Cairo, Heather Crause</p>
-    </td>
-    <td>
-        <small>Knight Center for Journalism in the Americas</small>
-    </td>
-  </tr>
+<p>Instructors: Alberto Cairo, Heather Crause</p>
+</td>
+<td>
+<small>Knight Center for Journalism in the Americas</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Visualizing Data » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Visualizing Data » 2016; Spring <br>
+    
 <a href="http://lenagroeger.s3.amazonaws.com/newschool/VisualizingDataSyllabus.pdf">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        While the presentation of data has been part of news since its earliest days, it’s in the midst of a renaissance. Graphics desks that used to be thought of as “the art department,” outside the real work of a newsroom, are quickly becoming a central part of every newsroom’s daily journalism operation
-        </small></p>
+<p><small>While the presentation of data has been part of news since its earliest days, it’s in the midst of a renaissance. Graphics desks that used to be thought of as “the art department,” outside the real work of a newsroom, are quickly becoming a central part of every newsroom’s daily journalism operation...</small></p>
 
-        <p>Instructors: Lena Groeger</p>
-    </td>
-    <td>
-        <small>New School</small>
-    </td>
-  </tr>
+<p>Instructors: Lena Groeger</p>
+</td>
+<td>
+<small>New School</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Telling Stories With Data » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Telling Stories With Data » 2016; Spring <br>
+    
 <a href="https://jn430.ua.edu/">Homepage</a> / 
 <a href="https://jn430.ua.edu/wp-content/uploads/2016/01/JN-430-Spring-2016.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        What exactly is data and how does it fit into journalism? How can journalists work with data to find, report and visualize stories? That’s what we’ll explore in this course. (It doesn’t sound fun, but it will be.) We will learn to scrape, compile, clean and critique data and then communicate that da
-        </small></p>
+<p><small>What exactly is data and how does it fit into journalism? How can journalists work with data to find, report and visualize stories? That’s what we’ll explore in this course. (It doesn’t sound fun, but it will be.) We will learn to scrape, compile, clean and critique data and then communicate that da...</small></p>
 
-        <p>Instructors: Chip Brantley</p>
-    </td>
-    <td>
-        <small>University of Alabama</small>
-    </td>
-  </tr>
+<p>Instructors: Chip Brantley</p>
+</td>
+<td>
+<small>University of Alabama</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Technologies de l'information appliquées au journalisme » 2016; Fall <br>
-            
+<tr>
+<td>
+<h5>Technologies de l'information appliquées au journalisme » 2016; Fall <br>
+    
 <a href="http://jhroy.gitbooks.io/edm5240-a2016/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Computational journalism course, in French, for the news getters of the digital age. Dans ce cours, vous apprendrez : les principes fondamentaux de la programmation avec le langage Python; comment analyser d'imposantes bases de données en vous servant de MySQL; à faire des visualisations simples, gr
-        </small></p>
+<p><small>Computational journalism course, in French, for the news getters of the digital age. Dans ce cours, vous apprendrez : les principes fondamentaux de la programmation avec le langage Python; comment analyser d'imposantes bases de données en vous servant de MySQL; à faire des visualisations simples, gr...</small></p>
 
-        <p>Instructors: Jean-Hugues Roy</p>
-    </td>
-    <td>
-        <small>Université du Québec à Montréal</small>
-    </td>
-  </tr>
+<p>Instructors: Jean-Hugues Roy</p>
+</td>
+<td>
+<small>Université du Québec à Montréal</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Reporting Methods » 2016; Winter <br>
-            
+<tr>
+<td>
+<h5>Reporting Methods » 2016; Winter <br>
+    
 <a href="http://www.davidmckie.com/reporting-methods-carleton-university-journalism-5206-winter-2016/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Obtain a thorough grounding in journalistic research methods. Acquire skills, such as data-journalism reporting techniques, needed to make sense of the information gathered and filing access-to-information requests. Develop the ability to shape the information into accurate and compelling stories. 
-        </small></p>
+<p><small>Obtain a thorough grounding in journalistic research methods. Acquire skills, such as data-journalism reporting techniques, needed to make sense of the information gathered and filing access-to-information requests. Develop the ability to shape the information into accurate and compelling stories. </small></p>
 
-        <p>Instructors: David McKie, Jim Bronskill</p>
-    </td>
-    <td>
-        <small>Carleton University</small>
-    </td>
-  </tr>
+<p>Instructors: David McKie, Jim Bronskill</p>
+</td>
+<td>
+<small>Carleton University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Public Affairs Data Journalism II » 2016; Winter <br>
-            
+<tr>
+<td>
+<h5>Public Affairs Data Journalism II » 2016; Winter <br>
+    
 <a href="http://cephillips.webfactional.com/blog/?page_id=1320">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Cheryl Phillips</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Cheryl Phillips</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Policy and Investigative Reporting » 2016; Spring <br>
-            <a href="https://paldhous.github.io/ucsc/2016/investigative-policy/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Policy and Investigative Reporting » 2016; Spring <br>
+    <a href="https://paldhous.github.io/ucsc/2016/investigative-policy/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This class focuses on in-depth and investigative reporting, where science and technology meets public policy and society. We will cover essential skills of investigative reporting, including obtaining documents through Public Records Act requests, using online reporting resources, computer-assisted 
-        </small></p>
+<p><small>This class focuses on in-depth and investigative reporting, where science and technology meets public policy and society. We will cover essential skills of investigative reporting, including obtaining documents through Public Records Act requests, using online reporting resources, computer-assisted ...</small></p>
 
-        <p>Instructors: Peter Aldhous</p>
-    </td>
-    <td>
-        <small>University of California at Santa Cruz</small>
-    </td>
-  </tr>
+<p>Instructors: Peter Aldhous</p>
+</td>
+<td>
+<small>University of California at Santa Cruz</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Law, Order & Algorithms » 2016; Winter <br>
-            <a href="https://5harad.com/mse330/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Law, Order & Algorithms » 2016; Winter <br>
+    <a href="https://5harad.com/mse330/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        Data and algorithms are rapidly transforming law enforcement and criminal justice, including how police officers are deployed, how discrimination is detected, and how sentencing, probation, and parole terms are set. Modern computational and statistical methods offer the promise of greater efficiency
-        </small></p>
+<p><small>Data and algorithms are rapidly transforming law enforcement and criminal justice, including how police officers are deployed, how discrimination is detected, and how sentencing, probation, and parole terms are set. Modern computational and statistical methods offer the promise of greater efficiency...</small></p>
 
-        <p>Instructors: Sharad Goel, Maya Perelman, Ravi Shroff</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Sharad Goel, Maya Perelman, Ravi Shroff</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Journalism Research » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Journalism Research » 2016; Spring <br>
+    
 <a href="https://journalismandresearch.com/">Homepage</a> / 
 <a href="https://journalismandresearch.com/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Christopher Harper</p>
-    </td>
-    <td>
-        <small>Temple University</small>
-    </td>
-  </tr>
+<p>Instructors: Christopher Harper</p>
+</td>
+<td>
+<small>Temple University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Investigative Reporting Techniques » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Investigative Reporting Techniques » 2016; Spring <br>
+    
 <a href="http://faculty.fiu.edu/~vigonm/JOU6118/index.html">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course provides training in investigative reporting, teaching students how to go beyond the day-to-day journalism. The course will emphasize problem solving in developing stories from conception to finished product. The course is practical and., at the same time, directs students to think deepl
-        </small></p>
+<p><small>This course provides training in investigative reporting, teaching students how to go beyond the day-to-day journalism. The course will emphasize problem solving in developing stories from conception to finished product. The course is practical and., at the same time, directs students to think deepl...</small></p>
 
-        <p>Instructors: Mercedes Vigón</p>
-    </td>
-    <td>
-        <small>Florida International University</small>
-    </td>
-  </tr>
+<p>Instructors: Mercedes Vigón</p>
+</td>
+<td>
+<small>Florida International University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Introduction to Data Visualization » 2016; Fall <br>
-            <a href="https://paldhous.github.io/ucb/2016/dataviz/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Introduction to Data Visualization » 2016; Fall <br>
+    <a href="https://paldhous.github.io/ucb/2016/dataviz/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This is a course in finding and telling visual stories from data. We will cover fundamental principles of data analysis and visual presentation, chart types and when to use them, and how to acquire, process and “interview” data. We will make interactive and static charts and maps using free software
-        </small></p>
+<p><small>This is a course in finding and telling visual stories from data. We will cover fundamental principles of data analysis and visual presentation, chart types and when to use them, and how to acquire, process and “interview” data. We will make interactive and static charts and maps using free software...</small></p>
 
-        <p>Instructors: Peter Aldhous</p>
-    </td>
-    <td>
-        <small>University of California at Berkeley</small>
-    </td>
-  </tr>
+<p>Instructors: Peter Aldhous</p>
+</td>
+<td>
+<small>University of California at Berkeley</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Introduction to Data Journalism » 2016; Fall <br>
-            <a href="https://paldhous.github.io/ucb/2016/intro-data/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Introduction to Data Journalism » 2016; Fall <br>
+    <a href="https://paldhous.github.io/ucb/2016/intro-data/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        Over four weeks, these classes will provide an introduction to data journalism. We will cover principles of data analysis, acquiring and cleaning data, basic spreadsheet skills, plus mapping and other forms of visualization. The emphasis will be on finding and telling stories from data. 
-        </small></p>
+<p><small>Over four weeks, these classes will provide an introduction to data journalism. We will cover principles of data analysis, acquiring and cleaning data, basic spreadsheet skills, plus mapping and other forms of visualization. The emphasis will be on finding and telling stories from data. </small></p>
 
-        <p>Instructors: Peter Aldhous</p>
-    </td>
-    <td>
-        <small>University of California at Berkeley</small>
-    </td>
-  </tr>
+<p>Instructors: Peter Aldhous</p>
+</td>
+<td>
+<small>University of California at Berkeley</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Intro to Web Apps » 2016; Fall <br>
-            
+<tr>
+<td>
+<h5>Intro to Web Apps » 2016; Fall <br>
+    
 <a href="https://introwebapps.wordpress.com/">Homepage</a> / 
 <a href="https://introwebapps.wordpress.com/sked/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This is not a course where you “learn to make websites.” (Making websites is so 2005.) It is a course in which you will learn to code, and by “code” I mean write functional programs that run in a Web browser — not just make Web pages. It is an introductory course. It has no prerequisites. However, s
-        </small></p>
+<p><small>This is not a course where you “learn to make websites.” (Making websites is so 2005.) It is a course in which you will learn to code, and by “code” I mean write functional programs that run in a Web browser — not just make Web pages. It is an introductory course. It has no prerequisites. However, s...</small></p>
 
-        <p>Instructors: Mindy McAdams</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Mindy McAdams</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Intro to News Apps » 2016; Spring <br>
-            <a href="https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Intro to News Apps » 2016; Spring <br>
+    <a href="https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        In this class you’ll learn basic skills and concepts behind interactive news applications. What does that mean? Good question! A “news application” can be a lot of things. It could be a slideshow, an interactive map, a chart or or even just a story layout with interactive elements. We’ll cover all o
-        </small></p>
+<p><small>In this class you’ll learn basic skills and concepts behind interactive news applications. What does that mean? Good question! A “news application” can be a lot of things. It could be a slideshow, an interactive map, a chart or or even just a story layout with interactive elements. We’ll cover all o...</small></p>
 
-        <p>Instructors: Chris Canipe</p>
-    </td>
-    <td>
-        <small>University of Missouri</small>
-    </td>
-  </tr>
+<p>Instructors: Chris Canipe</p>
+</td>
+<td>
+<small>University of Missouri</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>GeoData Journalism » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>GeoData Journalism » 2016; Spring <br>
+    
 <a href="https://cos.gmu.edu/ggs/wp-content/uploads/sites/5/2015/12/Spring_2016_GGS590_004_Pfoser.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Today, the world is awash in unprecedented amounts of data and an expanding network of sources for news. Media organizations today must be able to put data to work quickly. This need was amply demonstrated during Hurricane Sandy, when public, open government data feeds became critical infrastructure
-        </small></p>
+<p><small>Today, the world is awash in unprecedented amounts of data and an expanding network of sources for news. Media organizations today must be able to put data to work quickly. This need was amply demonstrated during Hurricane Sandy, when public, open government data feeds became critical infrastructure...</small></p>
 
-        <p>Instructors: Dieter Pfoser</p>
-    </td>
-    <td>
-        <small>George Mason University</small>
-    </td>
-  </tr>
+<p>Instructors: Dieter Pfoser</p>
+</td>
+<td>
+<small>George Mason University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Digital Frameworks » 2016; Summer <br>
-            
+<tr>
+<td>
+<h5>Digital Frameworks » 2016; Summer <br>
+    
 <a href="https://digitalframeworks.github.io/">Homepage</a> / 
 <a href="https://digitalframeworks.github.io/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Online data journalism: Finding, analyzing and presenting structured information on the Internet as part of your journalistic work. 
-        </small></p>
+<p><small>Online data journalism: Finding, analyzing and presenting structured information on the Internet as part of your journalistic work. </small></p>
 
-        <p>Instructors: David Eads</p>
-    </td>
-    <td>
-        <small>Northwestern University (Washington D.C. campus)</small>
-    </td>
-  </tr>
+<p>Instructors: David Eads</p>
+</td>
+<td>
+<small>Northwestern University (Washington D.C. campus)</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Visualization » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Visualization » 2016; Spring <br>
+    
 <a href="http://courses.cs.washington.edu/courses/cse512/16sp/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The world is awash with increasing amounts of data, and we must keep afloat with our relatively constant perceptual and cognitive abilities. Visualization provides one means of combating information overload, as a well-designed visual encoding can supplant cognitive calculations with simpler percept
-        </small></p>
+<p><small>The world is awash with increasing amounts of data, and we must keep afloat with our relatively constant perceptual and cognitive abilities. Visualization provides one means of combating information overload, as a well-designed visual encoding can supplant cognitive calculations with simpler percept...</small></p>
 
-        <p>Instructors: Jeremy Heer</p>
-    </td>
-    <td>
-        <small>University of Washington</small>
-    </td>
-  </tr>
+<p>Instructors: Jeremy Heer</p>
+</td>
+<td>
+<small>University of Washington</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Visualization » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Visualization » 2016; Spring <br>
+    
 <a href="https://word.emerson.edu/dataviz/">Homepage</a> / 
 <a href="https://docs.google.com/document/d/1wTMXJpejmCX7itXDdhGSa3XSl4-8VxuYb-gbH8eUuLI/edit">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course introduces concepts, methods and practices of data visualization and data storytelling for journalism majors. Data journalism is an emerging field of practice that ranges from the dazzling interactive graphics of the New York Times to the consistent, watchful reporting of sites like Homi
-        </small></p>
+<p><small>This course introduces concepts, methods and practices of data visualization and data storytelling for journalism majors. Data journalism is an emerging field of practice that ranges from the dazzling interactive graphics of the New York Times to the consistent, watchful reporting of sites like Homi...</small></p>
 
-        <p>Instructors: Catherine D'Ignazio</p>
-    </td>
-    <td>
-        <small>Emerson College</small>
-    </td>
-  </tr>
+<p>Instructors: Catherine D'Ignazio</p>
+</td>
+<td>
+<small>Emerson College</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Storytelling Studio - Civic Data » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Storytelling Studio - Civic Data » 2016; Spring <br>
+    
 <a href="http://datastudio2016.datatherapy.org/">Homepage</a> / 
 <a href="https://docs.google.com/document/d/1S-21ufcAsdwFq3ltYpKEpIhiu-Dy_8cYTRbztopyc3k/edit#heading=h.v0vzwhn3fizl">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        We are swimming in data - "Big" and small, global and personal. And we are also facing complicated problems like Climate Change and inequality whose stories can only be told with data. The need for public understanding of data-driven issues is higher than ever before. But raw data doesn't make a goo
-        </small></p>
+<p><small>We are swimming in data - "Big" and small, global and personal. And we are also facing complicated problems like Climate Change and inequality whose stories can only be told with data. The need for public understanding of data-driven issues is higher than ever before. But raw data doesn't make a goo...</small></p>
 
-        <p>Instructors: Rahul Bhargava</p>
-    </td>
-    <td>
-        <small>Massachusetts Institute of Technology</small>
-    </td>
-  </tr>
+<p>Instructors: Rahul Bhargava</p>
+</td>
+<td>
+<small>Massachusetts Institute of Technology</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism in Enterprise Reporting » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Journalism in Enterprise Reporting » 2016; Spring <br>
+    
 <a href="https://comm.osu.edu/sites/comm.osu.edu/files/SP16%20Comm%204221%20Syllabus%20Hunt.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In this class, we will practice data journalism, a technique that is also called computer-assisted reporting. Also called precision journalism, this reporting strategy uses computers to analyze the ever-increasing amount of publicly available data to create unique and compelling stories. This course
-        </small></p>
+<p><small>In this class, we will practice data journalism, a technique that is also called computer-assisted reporting. Also called precision journalism, this reporting strategy uses computers to analyze the ever-increasing amount of publicly available data to create unique and compelling stories. This course...</small></p>
 
-        <p>Instructors: Spencer Hunt @spencerhuntosu</p>
-    </td>
-    <td>
-        <small>Ohio State University</small>
-    </td>
-  </tr>
+<p>Instructors: Spencer Hunt @spencerhuntosu</p>
+</td>
+<td>
+<small>Ohio State University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2016; Spring <br>
+    
 <a href="https://www.jou.ufl.edu/assets/syllabi/201601/JOU4930%20DataJou-Section%20015A-Lewis-SP16.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The day is coming when “data journalism” will be redundant. Once upon a time, reporters could rely mostly on interviews and anecdotes. But today’s digital-savvy audiences expect better evidence. They demand data to know whether the community is safe or what colors are in fashion. Thus, employers now
-        </small></p>
+<p><small>The day is coming when “data journalism” will be redundant. Once upon a time, reporters could rely mostly on interviews and anecdotes. But today’s digital-savvy audiences expect better evidence. They demand data to know whether the community is safe or what colors are in fashion. Thus, employers now...</small></p>
 
-        <p>Instructors: Norm Lewis</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Norm Lewis</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2016; Spring <br>
+    
 <a href="http://journalism.nyu.edu/wp-content/uploads/Broussard-Data-Journalism.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In this introductory class, students will learn the skills needed to create visually exciting and thought-provoking online journalism. Topics include data journalism, data analysis, computer-assisted reporting, [painless] coding for journalists, and data visualization. The class is designed for an i
-        </small></p>
+<p><small>In this introductory class, students will learn the skills needed to create visually exciting and thought-provoking online journalism. Topics include data journalism, data analysis, computer-assisted reporting, [painless] coding for journalists, and data visualization. The class is designed for an i...</small></p>
 
-        <p>Instructors: Meredith Broussard</p>
-    </td>
-    <td>
-        <small>New York University</small>
-    </td>
-  </tr>
+<p>Instructors: Meredith Broussard</p>
+</td>
+<td>
+<small>New York University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2016; Spring <br>
+    
 <a href="https://github.com/mattwaite/JOUR407-Data-Journalism">Homepage</a> / 
 <a href="https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/syllabus.md">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Every day, more of our lives is being stored in a database somewhere. With that explosion of data, journalists now more than ever need the skills to analyze and understand data to then produce the stories hidden in the information. In this class, we’ll use brainpower and software to look at raw data
-        </small></p>
+<p><small>Every day, more of our lives is being stored in a database somewhere. With that explosion of data, journalists now more than ever need the skills to analyze and understand data to then produce the stories hidden in the information. In this class, we’ll use brainpower and software to look at raw data...</small></p>
 
-        <p>Instructors: Matt Waite</p>
-    </td>
-    <td>
-        <small>University of Nebraska-Lincoln</small>
-    </td>
-  </tr>
+<p>Instructors: Matt Waite</p>
+</td>
+<td>
+<small>University of Nebraska-Lincoln</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2016; Spring <br>
+    
 <a href="http://archive.is/CEbl1">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        We live in a world of data – from census and crime reports, budgets, election results and sports information, to social media updates on Facebook and Twitter. The rise of personal computing and the Internet along with the economics of digital publishing technology have opened a floodgate of raw data
-        </small></p>
+<p><small>We live in a world of data – from census and crime reports, budgets, election results and sports information, to social media updates on Facebook and Twitter. The rise of personal computing and the Internet along with the economics of digital publishing technology have opened a floodgate of raw data...</small></p>
 
-        <p>Instructors: Dustin Harp</p>
-    </td>
-    <td>
-        <small>University of Texas at Arlington</small>
-    </td>
-  </tr>
+<p>Instructors: Dustin Harp</p>
+</td>
+<td>
+<small>University of Texas at Arlington</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2016; Fall <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2016; Fall <br>
+    
 <a href="http://tudatajournalism.com/">Homepage</a> / 
 <a href="http://tudatajournalism.com/wp-content/uploads/2016/09/JOU-3605-Syllabus.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In this hands-on course, students will learn practical computer-assisted reporting and data visualization techniques and tools used by data reporters and interactive designers at leading news organizations. By the end of the semester students will comfortably: 
-        </small></p>
+<p><small>In this hands-on course, students will learn practical computer-assisted reporting and data visualization techniques and tools used by data reporters and interactive designers at leading news organizations. By the end of the semester students will comfortably: </small></p>
 
-        <p>Instructors: Jillian Bauer</p>
-    </td>
-    <td>
-        <small></small>
-    </td>
-  </tr>
+<p>Instructors: Jillian Bauer</p>
+</td>
+<td>
+<small></small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2016; Fall <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2016; Fall <br>
+    
 <a href="http://web-app.usc.edu/soc/syllabus/20163/21176.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Proficiency with gathering, analyzing and visualizing data is essential in journalism toda as commodity content becomes increasingly ineffective in both serving the public interest and engaging audiences. 
-        </small></p>
+<p><small>Proficiency with gathering, analyzing and visualizing data is essential in journalism toda as commodity content becomes increasingly ineffective in both serving the public interest and engaging audiences. </small></p>
 
-        <p>Instructors: Dana Chinn</p>
-    </td>
-    <td>
-        <small>USC Annenberg</small>
-    </td>
-  </tr>
+<p>Instructors: Dana Chinn</p>
+</td>
+<td>
+<small>USC Annenberg</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Driven Journalism » 2016; Spring <br>
-            <a href="http://ryanthornburg.com/about-contact/my-classes/syllabus-data-driven-journalism-jomc-390/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Data Driven Journalism » 2016; Spring <br>
+    <a href="http://ryanthornburg.com/about-contact/my-classes/syllabus-data-driven-journalism-jomc-390/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        The economics of digital publishing has opened a floodgate of raw data, and journalism is just one of many fields that are being rapidly transformed by this tsunami of data. In law, medicine, business, politics, and ecology, people are using data to understand the social and natural worlds. They are
-        </small></p>
+<p><small>The economics of digital publishing has opened a floodgate of raw data, and journalism is just one of many fields that are being rapidly transformed by this tsunami of data. In law, medicine, business, politics, and ecology, people are using data to understand the social and natural worlds. They are...</small></p>
 
-        <p>Instructors: Ryan Thornburg</p>
-    </td>
-    <td>
-        <small>University of North Carolina at Chapel Hill</small>
-    </td>
-  </tr>
+<p>Instructors: Ryan Thornburg</p>
+</td>
+<td>
+<small>University of North Carolina at Chapel Hill</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2016; Spring <br>
+    
 <a href="http://dherzog.com/category/car-class/">Homepage</a> / 
 <a href="http://dherzog.com/wp-content/uploads/2016/01/herzog_spring_2016_syllabus-1.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This is largely a skills course with a heavy hands-on component. By successfully completing this course, you will be able to identify, obtain, evaluate, clean, analyze and visualize data. You will be expected to think like a journalist by evaluating data critically and applying what you learn to new
-        </small></p>
+<p><small>This is largely a skills course with a heavy hands-on component. By successfully completing this course, you will be able to identify, obtain, evaluate, clean, analyze and visualize data. You will be expected to think like a journalist by evaluating data critically and applying what you learn to new...</small></p>
 
-        <p>Instructors: David Herzog</p>
-    </td>
-    <td>
-        <small>University of Missouri</small>
-    </td>
-  </tr>
+<p>Instructors: David Herzog</p>
+</td>
+<td>
+<small>University of Missouri</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer Assisted Reporting » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Computer Assisted Reporting » 2016; Spring <br>
+    
 <a href="http://archive.is/tE20H">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This is a course in the basic elements of computer--‐assisted reporting. You will learn how computer spreadsheet and database programs can be used to find details, leads and stories in collections of electronic records. With the proper training and inclination, journalists who are comfortable with t
-        </small></p>
+<p><small>This is a course in the basic elements of computer--‐assisted reporting. You will learn how computer spreadsheet and database programs can be used to find details, leads and stories in collections of electronic records. With the proper training and inclination, journalists who are comfortable with t...</small></p>
 
-        <p>Instructors: Ladonia Randle</p>
-    </td>
-    <td>
-        <small>Texas Southern University</small>
-    </td>
-  </tr>
+<p>Instructors: Ladonia Randle</p>
+</td>
+<td>
+<small>Texas Southern University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computational Methods in the Civic Sphere » 2016; Winter <br>
-            
+<tr>
+<td>
+<h5>Computational Methods in the Civic Sphere » 2016; Winter <br>
+    
 <a href="http://2016.compciv.org/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Dan Nguyen</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Dan Nguyen</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computational Journalism » 2016; Spring <br>
-            <a href="https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Computational Journalism » 2016; Spring <br>
+    <a href="https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This course explores the conceptualization and application of computational and data-driven approaches to journalism practice. Students will examine how computational techniques are changing journalistic data gathering, curation, sensemaking, presentation, dissemination, and analytics of content. Me
-        </small></p>
+<p><small>This course explores the conceptualization and application of computational and data-driven approaches to journalism practice. Students will examine how computational techniques are changing journalistic data gathering, curation, sensemaking, presentation, dissemination, and analytics of content. Me...</small></p>
 
-        <p>Instructors: Nicholas Diakopoulos @ndiakopoulos</p>
-    </td>
-    <td>
-        <small>University of Maryland</small>
-    </td>
-  </tr>
+<p>Instructors: Nicholas Diakopoulos @ndiakopoulos</p>
+</td>
+<td>
+<small>University of Maryland</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Code4SA Data Journalism School » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Code4SA Data Journalism School » 2016; Spring <br>
+    
 <a href="http://www.journalism.co.za/blog/data-journalism-school-overview/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The three-month-long training programme will consist of a combination of theoretical and hands-on practical work. Participants will spend much of their time each day working in a data newsroom. 
-        </small></p>
+<p><small>The three-month-long training programme will consist of a combination of theoretical and hands-on practical work. Participants will spend much of their time each day working in a data newsroom. </small></p>
 
-        
-    </td>
-    <td>
-        <small>School of Data</small>
-    </td>
-  </tr>
 
-  <tr>
-    <td>
-        <h5>Building Systems for Reporting » 2016; Fall <br>
-            
+</td>
+<td>
+<small>School of Data</small>
+</td>
+</tr>
+
+<tr>
+<td>
+<h5>Building Systems for Reporting » 2016; Fall <br>
+    
 <a href="https://github.com/dwillis/systems-for-reporting">Homepage</a> / 
 <a href="https://github.com/dwillis/systems-for-reporting/blob/master/syllabus.md">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course will teach students how to use data and technology to craft a systematic approach to beat reporting, or to build what you could call a reporter’s exoskeleton. Such a system would make it easier for a journalist to place news in context or spot interesting and potentially newsworthy event
-        </small></p>
+<p><small>This course will teach students how to use data and technology to craft a systematic approach to beat reporting, or to build what you could call a reporter’s exoskeleton. Such a system would make it easier for a journalist to place news in context or spot interesting and potentially newsworthy event...</small></p>
 
-        <p>Instructors: Derek Willis</p>
-    </td>
-    <td>
-        <small>University of Maryland</small>
-    </td>
-  </tr>
+<p>Instructors: Derek Willis</p>
+</td>
+<td>
+<small>University of Maryland</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Big Data Seminar » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Big Data Seminar » 2016; Spring <br>
+    
 <a href="http://www.bikeprof.com/uploads/9/0/6/5/9065192/mmc6936-bgdata-section1e86-lewis-sp16.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course unpacks the phenomenon of big data and how large data sets and sophisticated algorithms are changing society in general and mass communication in particular. The course also enables you acquire and evaluate a large data set for a research paper (although no experience in data or statisti
-        </small></p>
+<p><small>This course unpacks the phenomenon of big data and how large data sets and sophisticated algorithms are changing society in general and mass communication in particular. The course also enables you acquire and evaluate a large data set for a research paper (although no experience in data or statisti...</small></p>
 
-        <p>Instructors: Norm Lewis</p>
-    </td>
-    <td>
-        <small>Florida State University</small>
-    </td>
-  </tr>
+<p>Instructors: Norm Lewis</p>
+</td>
+<td>
+<small>Florida State University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Applied Fact Finding » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Applied Fact Finding » 2016; Spring <br>
+    
 <a href="https://www.jou.ufl.edu/assets/syllabi/201601/jou3110section3335mannspring2016.pdf">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Fact Finding is designed to give student journalists the skills to locate, interpret and analyze a broad variety of informational resources crucial to your success. Students will learn to retrieve data from Florida public records, federal public records, and other sources. 
-        </small></p>
+<p><small>Fact Finding is designed to give student journalists the skills to locate, interpret and analyze a broad variety of informational resources crucial to your success. Students will learn to retrieve data from Florida public records, federal public records, and other sources. </small></p>
 
-        <p>Instructors: Spencer Mann</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Spencer Mann</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Web Apps » 2016; Spring <br>
-            
+<tr>
+<td>
+<h5>Advanced Web Apps » 2016; Spring <br>
+    
 <a href="https://webappsplus.wordpress.com/">Homepage</a> / 
 <a href="https://www.scribd.com/doc/294050877/Web-Apps-2-Syllabus-2016">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course adds server-side (back-end) skills to the client-side (front-end) skills you’ve already developed. This means you can save information generated from a Web page (you can require users to log in, for example), and you can run scripts on the server that will affect what the user sees, amon
-        </small></p>
+<p><small>This course adds server-side (back-end) skills to the client-side (front-end) skills you’ve already developed. This means you can save information generated from a Web page (you can require users to log in, for example), and you can run scripts on the server that will affect what the user sees, amon...</small></p>
 
-        <p>Instructors: Mindy McAdams</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Mindy McAdams</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Thinking Like a Data Journalist » 2016 <br>
-            
+<tr>
+<td>
+<h5>Thinking Like a Data Journalist » 2016 <br>
+    
 <a href="https://www.sudandata.org/learning/2">Homepage</a> / 
 <a href="https://www.sudandata.org/dataset/Module-1-From-Evidence-to-Stories/jym8-9gir">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course teaches you skills to find, analyze, and create narratives with data following an established process used by data journalists. It will also teach you how to critically evaluate public interest stories or reports that reference data. The materials developed for the Sudan Evidence Base Pr
-        </small></p>
+<p><small>This course teaches you skills to find, analyze, and create narratives with data following an established process used by data journalists. It will also teach you how to critically evaluate public interest stories or reports that reference data. The materials developed for the Sudan Evidence Base Pr...</small></p>
 
-        <p>Instructors: Eva Constantaras @evaconstantaras</p>
-    </td>
-    <td>
-        <small>Sudan Evidence Base Programme</small>
-    </td>
-  </tr>
+<p>Instructors: Eva Constantaras @evaconstantaras</p>
+</td>
+<td>
+<small>Sudan Evidence Base Programme</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Summer Data Institute » 2016; June <br>
-            
+<tr>
+<td>
+<h5>Summer Data Institute » 2016; June <br>
+    
 <a href="https://projects.propublica.org/graphics/summer">Homepage</a> / 
 <a href="http://projects.propublica.org/graphics/data-institute-2016">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Over 10 days, we'll cover the basics of brainstorming, reporting, designing and building interactive graphics and data-driven news applications. By the end of the course you should be able to: 
-        </small></p>
+<p><small>Over 10 days, we'll cover the basics of brainstorming, reporting, designing and building interactive graphics and data-driven news applications. By the end of the course you should be able to: </small></p>
 
-        
-    </td>
-    <td>
-        <small>ProPublica</small>
-    </td>
-  </tr>
 
-  <tr>
-    <td>
-        <h5>Intro to Data Journalism » 2016 <br>
-            
+</td>
+<td>
+<small>ProPublica</small>
+</td>
+</tr>
+
+<tr>
+<td>
+<h5>Intro to Data Journalism » 2016 <br>
+    
 <a href="http://lenagroeger.s3.amazonaws.com/nyu-2016/introdatacode.html">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Lena Groeger</p>
-    </td>
-    <td>
-        <small>New York University</small>
-    </td>
-  </tr>
+<p>Instructors: Lena Groeger</p>
+</td>
+<td>
+<small>New York University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Interactive Data Journalism » 2016 <br>
-            
+<tr>
+<td>
+<h5>Interactive Data Journalism » 2016 <br>
+    
 <a href="https://source.opennews.org/en-US/learning/interactive-data-journalism-one-semester/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        A tested framework for teaching, and a practical guide for learning. Data journalism draws on a remarkable array of skills—everything from statistics to graphic design to FOIA requests. It seems impossible to fit everything that aspiring data journalists might need into one semester. And it is. But 
-        </small></p>
+<p><small>A tested framework for teaching, and a practical guide for learning. Data journalism draws on a remarkable array of skills—everything from statistics to graphic design to FOIA requests. It seems impossible to fit everything that aspiring data journalists might need into one semester. And it is. But ...</small></p>
 
-        <p>Instructors: Russell Chun, Yolanda Ma, Jonathan Stray</p>
-    </td>
-    <td>
-        <small>Source OpenNews</small>
-    </td>
-  </tr>
+<p>Instructors: Russell Chun, Yolanda Ma, Jonathan Stray</p>
+</td>
+<td>
+<small>Source OpenNews</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data and Multimedia Journalism » 2016 <br>
-            <a href="https://github.com/paulbradshaw/MED7126">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Data and Multimedia Journalism » 2016 <br>
+    <a href="https://github.com/paulbradshaw/MED7126">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        The module explores the possibilities of data and multimedia for gathering news, producing and distributing it. This includes but is not limited to: Computer Assisted Reporting (CAR); data journalism; mapping and geotagging; mashups; audio and podcasts; audio slideshows; online video; interactivity 
-        </small></p>
+<p><small>The module explores the possibilities of data and multimedia for gathering news, producing and distributing it. This includes but is not limited to: Computer Assisted Reporting (CAR); data journalism; mapping and geotagging; mashups; audio and podcasts; audio slideshows; online video; interactivity ...</small></p>
 
-        <p>Instructors: Paul Bradshaw</p>
-    </td>
-    <td>
-        <small>Birmingham City University</small>
-    </td>
-  </tr>
+<p>Instructors: Paul Bradshaw</p>
+</td>
+<td>
+<small>Birmingham City University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computational Journalism » 2016 <br>
-            
+<tr>
+<td>
+<h5>Computational Journalism » 2016 <br>
+    
 <a href="https://github.com/jacobeisenstein/gt-compj-class">Homepage</a> / 
 <a href="https://docs.google.com/spreadsheets/d/1hefbuuYoYV7dxzdWgUrepVHhN9LrQtTJXh8i9carKuo/edit">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Jacob Eisenstein</p>
-    </td>
-    <td>
-        <small>Georgia Tech</small>
-    </td>
-  </tr>
+<p>Instructors: Jacob Eisenstein</p>
+</td>
+<td>
+<small>Georgia Tech</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Big Data and Global Media » 2016 <br>
-            
+<tr>
+<td>
+<h5>Big Data and Global Media » 2016 <br>
+    
 <a href="https://valeriebelairgagnon.com/2016/02/09/big-data-and-global-media-syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In this reading group, we examine the legal challenges posed by big data in media production, distribution, and consumption. We are looking at relevant markets, government institutions, debates specific to the media under FCC jurisdiction, the challenges of law- and policy-making in a period of tech
-        </small></p>
+<p><small>In this reading group, we examine the legal challenges posed by big data in media production, distribution, and consumption. We are looking at relevant markets, government institutions, debates specific to the media under FCC jurisdiction, the challenges of law- and policy-making in a period of tech...</small></p>
 
-        
-    </td>
-    <td>
-        <small>Yale University</small>
-    </td>
-  </tr>
 
-  <tr>
-    <td>
-        <h5>Web Development for Media » 2015; Fall <br>
-            
+</td>
+<td>
+<small>Yale University</small>
+</td>
+</tr>
+
+<tr>
+<td>
+<h5>Web Development for Media » 2015; Fall <br>
+    
 <a href="https://github.com/jeremyjbowers/MPJO-779-01-FALL2015">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Merely using the web and digital tools is no longer enough for today's media professionals. Journalists and communicators need to have a practical understanding of how websites and applications work. This class does not aim to make you a professional coder or require any previous web development exp
-        </small></p>
+<p><small>Merely using the web and digital tools is no longer enough for today's media professionals. Journalists and communicators need to have a practical understanding of how websites and applications work. This class does not aim to make you a professional coder or require any previous web development exp...</small></p>
 
-        <p>Instructors: Jeremy Bowers</p>
-    </td>
-    <td>
-        <small></small>
-    </td>
-  </tr>
+<p>Instructors: Jeremy Bowers</p>
+</td>
+<td>
+<small></small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Web Coding for Interactive Design » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>Web Coding for Interactive Design » 2015; Fall <br>
+    
 <a href="https://github.com/auremoser/web-coding">Homepage</a> / 
 <a href="https://github.com/auremoser/web-coding/blob/master/syllabus.md">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Interactives and news apps are changing the way we process media, and the expectations for media producers in newsrooms globally. Data journalism departments and newsrooms like Vox, the NYTimes, ProPublica, and 538 build narrative and newsworthy tools around code; and the participatory nature of the
-        </small></p>
+<p><small>Interactives and news apps are changing the way we process media, and the expectations for media producers in newsrooms globally. Data journalism departments and newsrooms like Vox, the NYTimes, ProPublica, and 538 build narrative and newsworthy tools around code; and the participatory nature of the...</small></p>
 
-        <p>Instructors: Aurelia Moser</p>
-    </td>
-    <td>
-        <small>The New School</small>
-    </td>
-  </tr>
+<p>Instructors: Aurelia Moser</p>
+</td>
+<td>
+<small>The New School</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Visualizing Data in Journalism » 2015; Spring <br>
-            
+<tr>
+<td>
+<h5>Visualizing Data in Journalism » 2015; Spring <br>
+    
 <a href="http://joshmeltzer.com/teaching/jour241/">Homepage</a> / 
 <a href="http://joshmeltzer.com/teaching/jour241/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This is a introductory level course designed for students in all areas of journalism, where you will learn how to find, examine and visually display data in the forms of maps, charts, diagrams and illustrations for a sophisticated audience. You will also learn how to critically read examples of thes
-        </small></p>
+<p><small>This is a introductory level course designed for students in all areas of journalism, where you will learn how to find, examine and visually display data in the forms of maps, charts, diagrams and illustrations for a sophisticated audience. You will also learn how to critically read examples of thes...</small></p>
 
-        <p>Instructors: Josh Meltzer @joshmeltzer</p>
-    </td>
-    <td>
-        <small>Western Kentucky University</small>
-    </td>
-  </tr>
+<p>Instructors: Josh Meltzer @joshmeltzer</p>
+</td>
+<td>
+<small>Western Kentucky University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Visualization » 2015; Spring <br>
-            
+<tr>
+<td>
+<h5>Visualization » 2015; Spring <br>
+    
 <a href="http://www.cs171.org/2015/">Homepage</a> / 
 <a href="http://www.cs171.org/2015/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The amount and complexity of information produced in science, engineering, business, and everyday human activity is increasing at staggering rates. The goal of this course is to expose you to visual representation methods and techniques that increase the understanding of complex data. Good visualiza
-        </small></p>
+<p><small>The amount and complexity of information produced in science, engineering, business, and everyday human activity is increasing at staggering rates. The goal of this course is to expose you to visual representation methods and techniques that increase the understanding of complex data. Good visualiza...</small></p>
 
-        <p>Instructors: Alexander Lex</p>
-    </td>
-    <td>
-        <small>Harvard University</small>
-    </td>
-  </tr>
+<p>Instructors: Alexander Lex</p>
+</td>
+<td>
+<small>Harvard University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Storytelling with Data Visualization » 2015; Fall <br>
-            <a href="https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Storytelling with Data Visualization » 2015; Fall <br>
+    <a href="https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This course covers the use of data visualization as a method to communicate news stories (narrative visualization) and as a way to explore and analyze data as a method to find new news stories (visual analytics) in a journalism context. Students will learn to apply core principles of visualization r
-        </small></p>
+<p><small>This course covers the use of data visualization as a method to communicate news stories (narrative visualization) and as a way to explore and analyze data as a method to find new news stories (visual analytics) in a journalism context. Students will learn to apply core principles of visualization r...</small></p>
 
-        <p>Instructors: Nicholas Diakopoulos @ndiakopoulos</p>
-    </td>
-    <td>
-        <small>University of Maryland</small>
-    </td>
-  </tr>
+<p>Instructors: Nicholas Diakopoulos @ndiakopoulos</p>
+</td>
+<td>
+<small>University of Maryland</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Storytelling with Data + Interactivity » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>Storytelling with Data + Interactivity » 2015; Fall <br>
+    
 <a href="http://lamthuyvo.github.io/cuny2015-interactivejournalism/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This three-credit course introduces students to conceptualizing and producing content across multiple platforms--from Web sites to tablets and mobile devices-- by exploring essential concepts, tools and interactive story forms. This course explores how the news industry is adapting to new technologi
-        </small></p>
+<p><small>This three-credit course introduces students to conceptualizing and producing content across multiple platforms--from Web sites to tablets and mobile devices-- by exploring essential concepts, tools and interactive story forms. This course explores how the news industry is adapting to new technologi...</small></p>
 
-        <p>Instructors: Lam Thuy Vo</p>
-    </td>
-    <td>
-        <small>City University of New York</small>
-    </td>
-  </tr>
+<p>Instructors: Lam Thuy Vo</p>
+</td>
+<td>
+<small>City University of New York</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Scraping for Journalists » 2015; Spring <br>
-            
+<tr>
+<td>
+<h5>Scraping for Journalists » 2015; Spring <br>
+    
 <a href="https://github.com/sisiwei/2015-spring-cuny-web-scraping">Homepage</a> / 
 <a href="https://medium.com/@sisiwei/breaking-the-html-enigma-machine-cc4013c37532">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This is a skills class. I will be teaching you why web scraping is one of the most important tools available to journalists, but in only five weeks, I will primarily be teaching you the technical skill of how to scrape data from a website. Know that as a journalist, this is not enough. The real key 
-        </small></p>
+<p><small>This is a skills class. I will be teaching you why web scraping is one of the most important tools available to journalists, but in only five weeks, I will primarily be teaching you the technical skill of how to scrape data from a website. Know that as a journalist, this is not enough. The real key ...</small></p>
 
-        <p>Instructors: Sisi Wei</p>
-    </td>
-    <td>
-        <small>City University of New York</small>
-    </td>
-  </tr>
+<p>Instructors: Sisi Wei</p>
+</td>
+<td>
+<small>City University of New York</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Public Affairs Data Journalism II » 2015; Winter <br>
-            
+<tr>
+<td>
+<h5>Public Affairs Data Journalism II » 2015; Winter <br>
+    
 <a href="http://cephillips.webfactional.com/blog/?page_id=1564">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Cheryl Phillips</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Cheryl Phillips</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Public Affairs Data Journalism I » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>Public Affairs Data Journalism I » 2015; Fall <br>
+    
 <a href="http://2015.padjo.org/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Dan Nguyen</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Dan Nguyen</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>News Gathering and Investigation » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>News Gathering and Investigation » 2015; Fall <br>
+    
 <a href="http://libguides.utep.edu/c.php?g=430443&p=2935380">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        To master basic investigative tools and techniques, as well as how to apply them to everyday reporting and major enterprise stories. We will explore how to take advantage of two main sources of information – documents and people – and discuss when and how to use data to both enhance a story or provi
-        </small></p>
+<p><small>To master basic investigative tools and techniques, as well as how to apply them to everyday reporting and major enterprise stories. We will explore how to take advantage of two main sources of information – documents and people – and discuss when and how to use data to both enhance a story or provi...</small></p>
 
-        <p>Instructors: Kate Gannon @kategannon</p>
-    </td>
-    <td>
-        <small>University of Texas at El Paso</small>
-    </td>
-  </tr>
+<p>Instructors: Kate Gannon @kategannon</p>
+</td>
+<td>
+<small>University of Texas at El Paso</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Journalism Research » 2015 Spring <br>
-            
+<tr>
+<td>
+<h5>Journalism Research » 2015 Spring <br>
+    
 <a href="http://smc.temple.edu/journalism/wp-content/uploads/sites/7/2015/03/Journalism_Research_Spring_2015_Syllabus_Clean.docx">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This is an introductory course that focuses on research methods and techniques used in journalism and reporting. Quality writing and thorough research are two fundamentals of good journalism. This research-intensive course is geared toward identifying, understanding and applying your abilities to se
-        </small></p>
+<p><small>This is an introductory course that focuses on research methods and techniques used in journalism and reporting. Quality writing and thorough research are two fundamentals of good journalism. This research-intensive course is geared toward identifying, understanding and applying your abilities to se...</small></p>
 
-        <p>Instructors: Michael Panzer</p>
-    </td>
-    <td>
-        <small>Temple University</small>
-    </td>
-  </tr>
+<p>Instructors: Michael Panzer</p>
+</td>
+<td>
+<small>Temple University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Intro to Web Apps » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>Intro to Web Apps » 2015; Fall <br>
+    
 <a href="https://introwebapps.wordpress.com/">Homepage</a> / 
 <a href="https://www.scribd.com/doc/274776275/Intro-to-Web-Apps-Syllabus-2015">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course has two broad goals: 1. Enable journalism students to find out if they like and/or have an aptitude for creating Web apps and coding/programming. 2. Provide journalism students with sufficient understanding of how Web apps are created and how coding problems are solved so that they, as j
-        </small></p>
+<p><small>This course has two broad goals: 1. Enable journalism students to find out if they like and/or have an aptitude for creating Web apps and coding/programming. 2. Provide journalism students with sufficient understanding of how Web apps are created and how coding problems are solved so that they, as j...</small></p>
 
-        <p>Instructors: Mindy McAdams</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Mindy McAdams</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Digital Journalism: Sensor Journalism in San Diego » 2015; Spring <br>
-            
+<tr>
+<td>
+<h5>Digital Journalism: Sensor Journalism in San Diego » 2015; Spring <br>
+    
 <a href="https://sensorjournalism.wordpress.com/sensor-journalism-101/">Homepage</a> / 
 <a href="https://sensorjournalism.files.wordpress.com/2015/02/sensorjournalismsyllabus.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The course is designed to promote learning through working in interdisciplinary teams (journalism and geology) along with a nonprofit news organization, inewsource to examine air quality in San Diego using electronic, cutting-edge sensors. Students will work together to create a series of digital ne
-        </small></p>
+<p><small>The course is designed to promote learning through working in interdisciplinary teams (journalism and geology) along with a nonprofit news organization, inewsource to examine air quality in San Diego using electronic, cutting-edge sensors. Students will work together to create a series of digital ne...</small></p>
 
-        <p>Instructors: Schmitz Weiss, Kevin Robinson</p>
-    </td>
-    <td>
-        <small>San Diego State University</small>
-    </td>
-  </tr>
+<p>Instructors: Schmitz Weiss, Kevin Robinson</p>
+</td>
+<td>
+<small>San Diego State University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Design & Presentation » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>Design & Presentation » 2015; Fall <br>
+    
 <a href="http://lenagroeger.s3.amazonaws.com/cuny-fall15/index.html">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course will cover the fundamentals of good presentation, layout, and design for print and the web. We ll cover basic typography, color theory, page layout, information design as well as navigation and usability. We ll explore a variety of online tools, get comfortable with Adobe Photoshop and I
-        </small></p>
+<p><small>This course will cover the fundamentals of good presentation, layout, and design for print and the web. We ll cover basic typography, color theory, page layout, information design as well as navigation and usability. We ll explore a variety of online tools, get comfortable with Adobe Photoshop and I...</small></p>
 
-        <p>Instructors: Lena Groeger</p>
-    </td>
-    <td>
-        <small>City University of New York</small>
-    </td>
-  </tr>
+<p>Instructors: Lena Groeger</p>
+</td>
+<td>
+<small>City University of New York</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data-Driven Reporting » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>Data-Driven Reporting » 2015; Fall <br>
+    
 <a href="https://journalism.utexas.edu/sites/journalism.utexas.edu/files/attachments/graduate/08140-McDonald.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course will cover the basics of computer­assisted reporting, using electronic records for the basis of news reporting. Students will learn how to request data from public and governmental sources, to clean up and analyze that data using tools such as Excel and SQL, and use simple statistical mo
-        </small></p>
+<p><small>This course will cover the basics of computer­assisted reporting, using electronic records for the basis of news reporting. Students will learn how to request data from public and governmental sources, to clean up and analyze that data using tools such as Excel and SQL, and use simple statistical mo...</small></p>
 
-        <p>Instructors: Christian McDonald</p>
-    </td>
-    <td>
-        <small>University of Texas at Austin</small>
-    </td>
-  </tr>
+<p>Instructors: Christian McDonald</p>
+</td>
+<td>
+<small>University of Texas at Austin</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data and Databases » 2015; Summer <br>
-            <a href="https://github.com/ledeprogram/courses/tree/master/databases-2015">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Data and Databases » 2015; Summer <br>
+    <a href="https://github.com/ledeprogram/courses/tree/master/databases-2015">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        Consideration of both the scientific and social implications of counting, of turning the world into bits. Through the process of gaining fluency in the use of Python, students will spend some time thinking through representations of core "data types" like time, location, text, image, sound and relat
-        </small></p>
+<p><small>Consideration of both the scientific and social implications of counting, of turning the world into bits. Through the process of gaining fluency in the use of Python, students will spend some time thinking through representations of core "data types" like time, location, text, image, sound and relat...</small></p>
 
-        <p>Instructors: Allison Parrish, Matthew Jones</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Allison Parrish, Matthew Jones</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Visualization » 2015; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Visualization » 2015; Spring <br>
+    
 <a href="http://journalism.utexas.edu/sites/journalism.utexas.edu/files/07915-McDonald.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        As the era of Open Government and Open Data evolves, more stories are being told through data and data visualization than ever before. In this course, you’ll learn how to acquire compelling data sets, clean them, analyze the contents using visualization techniques to find storylines, and then presen
-        </small></p>
+<p><small>As the era of Open Government and Open Data evolves, more stories are being told through data and data visualization than ever before. In this course, you’ll learn how to acquire compelling data sets, clean them, analyze the contents using visualization techniques to find storylines, and then presen...</small></p>
 
-        <p>Instructors: Christian McDonald</p>
-    </td>
-    <td>
-        <small>University of Texas at Austin</small>
-    </td>
-  </tr>
+<p>Instructors: Christian McDonald</p>
+</td>
+<td>
+<small>University of Texas at Austin</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Skills » 2015; Spring <br>
-            <a href="http://amandabee.github.io/CUNY-data-skills/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Data Skills » 2015; Spring <br>
+    <a href="http://amandabee.github.io/CUNY-data-skills/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This semester we will work together to gather, analyze and visualize numbers you need to understand your audience and to tell interactive data-driven stories. 
-        </small></p>
+<p><small>This semester we will work together to gather, analyze and visualize numbers you need to understand your audience and to tell interactive data-driven stories. </small></p>
 
-        <p>Instructors: Amanda Hickman</p>
-    </td>
-    <td>
-        <small>City University of New York</small>
-    </td>
-  </tr>
+<p>Instructors: Amanda Hickman</p>
+</td>
+<td>
+<small>City University of New York</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism: The Basics » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>Data Journalism: The Basics » 2015; Fall <br>
+    
 <a href="http://www.verigazeteciligi.com/syllabus2015-2016-autumn-semestre-data-journalism-khas/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The data journalism course will present fundamentals of open /data collecting, gathering, cleaning, analysis, visualisation process and understanding FOIA. Data skills are getting more important to affect data driven works for media industry. In the developing Internet world; to understand and figur
-        </small></p>
+<p><small>The data journalism course will present fundamentals of open /data collecting, gathering, cleaning, analysis, visualisation process and understanding FOIA. Data skills are getting more important to affect data driven works for media industry. In the developing Internet world; to understand and figur...</small></p>
 
-        <p>Instructors: Pınar Dağ @pinardag</p>
-    </td>
-    <td>
-        <small>Kardi Has University</small>
-    </td>
-  </tr>
+<p>Instructors: Pınar Dağ @pinardag</p>
+</td>
+<td>
+<small>Kardi Has University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism and Visualization » 2015; Summer <br>
-            
+<tr>
+<td>
+<h5>Data Journalism and Visualization » 2015; Summer <br>
+    
 <a href="http://rampages.us/xiamen/wp-content/uploads/sites/7573/2015/06/Syllabus-Data-Journalism-Xiamen.doc">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Jeff South</p>
-    </td>
-    <td>
-        <small>Xiamen University</small>
-    </td>
-  </tr>
+<p>Instructors: Jeff South</p>
+</td>
+<td>
+<small>Xiamen University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2015; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2015; Spring <br>
+    
 <a href="http://kpq.github.io/spring-2015/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course teaches some of the skills and techniques necessary for obtaining, analyzing and communicating structured information effectively. Students will scrutinize techniques used in previously published projects and will also analyze data on their own, primarily using Excel, HTML, CSS and Javas
-        </small></p>
+<p><small>This course teaches some of the skills and techniques necessary for obtaining, analyzing and communicating structured information effectively. Students will scrutinize techniques used in previously published projects and will also analyze data on their own, primarily using Excel, HTML, CSS and Javas...</small></p>
 
-        <p>Instructors: Amanda Cox, Kevin Quealy</p>
-    </td>
-    <td>
-        <small>New York University</small>
-    </td>
-  </tr>
+<p>Instructors: Amanda Cox, Kevin Quealy</p>
+</td>
+<td>
+<small>New York University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2015; Fall <br>
-            <a href="http://bahareh.net/nuigddj15.html">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Data Journalism » 2015; Fall <br>
+    <a href="http://bahareh.net/nuigddj15.html">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This course is part of MA in Journalism at the National University of Ireland, Galway, and will introduce journalistm students to the practise of data journalism and showcase a set of tools and technicques for data driven analysis, investigation and storytelling. 
-        </small></p>
+<p><small>This course is part of MA in Journalism at the National University of Ireland, Galway, and will introduce journalistm students to the practise of data journalism and showcase a set of tools and technicques for data driven analysis, investigation and storytelling. </small></p>
 
-        <p>Instructors: Bahareh Heravi @Bahareh360</p>
-    </td>
-    <td>
-        <small>National University of Ireland Galway</small>
-    </td>
-  </tr>
+<p>Instructors: Bahareh Heravi @Bahareh360</p>
+</td>
+<td>
+<small>National University of Ireland Galway</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2015; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2015; Spring <br>
+    
 <a href="https://smc.temple.edu/journalism/wp-content/uploads/sites/7/2015/01/DataJournalismS15.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Meredith Broussard</p>
-    </td>
-    <td>
-        <small>Temple University</small>
-    </td>
-  </tr>
+<p>Instructors: Meredith Broussard</p>
+</td>
+<td>
+<small>Temple University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2015; Fall <br>
-            <a href="http://andrewbtran.github.io/JRN-418/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Data Journalism » 2015; Fall <br>
+    <a href="http://andrewbtran.github.io/JRN-418/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This course is about Data Journalism. Data and Journalism. Observations and stories. This class will be both technical and philosophical. Students will learn to apply the process of a data scientist to journalism. Data is just another source for reporters to research, interview, and glean answers fr
-        </small></p>
+<p><small>This course is about Data Journalism. Data and Journalism. Observations and stories. This class will be both technical and philosophical. Students will learn to apply the process of a data scientist to journalism. Data is just another source for reporters to research, interview, and glean answers fr...</small></p>
 
-        <p>Instructors: Andrew Ba Tran</p>
-    </td>
-    <td>
-        <small>Central Connecticut State University</small>
-    </td>
-  </tr>
+<p>Instructors: Andrew Ba Tran</p>
+</td>
+<td>
+<small>Central Connecticut State University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Analysis for Journalists » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>Data Analysis for Journalists » 2015; Fall <br>
+    
 <a href="http://archive.is/bWUSj">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        J502 is concerned with the collection, analysis and interpretation of data in the pursuit of news. As such, this is not just a skills course. Certainly, you will get an overview of lots of digital tools to find stories in data. But more importantly, this course emphasizes how to think about, context
-        </small></p>
+<p><small>J502 is concerned with the collection, analysis and interpretation of data in the pursuit of news. As such, this is not just a skills course. Certainly, you will get an overview of lots of digital tools to find stories in data. But more importantly, this course emphasizes how to think about, context...</small></p>
 
-        <p>Instructors: Gerry Lanosga @gerrylanosga</p>
-    </td>
-    <td>
-        <small>Indiana University</small>
-    </td>
-  </tr>
+<p>Instructors: Gerry Lanosga @gerrylanosga</p>
+</td>
+<td>
+<small>Indiana University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data 1 » 2015; Fall <br>
-            <a href="https://github.com/tommeagher/data1-fall2015">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Data 1 » 2015; Fall <br>
+    <a href="https://github.com/tommeagher/data1-fall2015">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        In this seven-week introduction to data journalism, you'll be exposed to the history of the craft of numerate reporting. You'll develop and finetune your bullshit detector for bad data reporting and writing. You'll be introduced to modern data practices, including software for examining spreadsheets
-        </small></p>
+<p><small>In this seven-week introduction to data journalism, you'll be exposed to the history of the craft of numerate reporting. You'll develop and finetune your bullshit detector for bad data reporting and writing. You'll be introduced to modern data practices, including software for examining spreadsheets...</small></p>
 
-        <p>Instructors: Tom Meagher</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Tom Meagher</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer Assisted Reporting » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>Computer Assisted Reporting » 2015; Fall <br>
+    
 <a href="http://www.davidmckie.com/jou-1526_-computer-assisted-reporting-2015/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        To teach students how to find information on the Internet and government hard drives using advanced search techniques and tools such as Excel, MySQL, Google Fusion Tables and ArcGIS Online to make sense of the information and render it more accessible readers, viewers and listeners through multi-med
-        </small></p>
+<p><small>To teach students how to find information on the Internet and government hard drives using advanced search techniques and tools such as Excel, MySQL, Google Fusion Tables and ArcGIS Online to make sense of the information and render it more accessible readers, viewers and listeners through multi-med...</small></p>
 
-        <p>Instructors: David McKie</p>
-    </td>
-    <td>
-        <small>Carleton University</small>
-    </td>
-  </tr>
+<p>Instructors: David McKie</p>
+</td>
+<td>
+<small>Carleton University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer Assisted Reporting » 2015; Spring <br>
-            
+<tr>
+<td>
+<h5>Computer Assisted Reporting » 2015; Spring <br>
+    
 <a href="http://www.pointloma.edu/sites/default/files/filemanager/Literature_Journalism__Modern_Languages/WRI313_SP15_Syllabus.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Introduces students to investigative journalism through hands-on laboratory work, including advanced Web research, public records requests, statistical analysis, databases, mapping, visual aids and data interactives. 
-        </small></p>
+<p><small>Introduces students to investigative journalism through hands-on laboratory work, including advanced Web research, public records requests, statistical analysis, databases, mapping, visual aids and data interactives. </small></p>
 
-        <p>Instructors: Danielle Cervantes Stephens @sddatadiva</p>
-    </td>
-    <td>
-        <small>Point Loma Nazarene University</small>
-    </td>
-  </tr>
+<p>Instructors: Danielle Cervantes Stephens @sddatadiva</p>
+</td>
+<td>
+<small>Point Loma Nazarene University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computational Social Science » 2015; Fall <br>
-            <a href="https://5harad.com/mse231/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Computational Social Science » 2015; Fall <br>
+    <a href="https://5harad.com/mse231/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        With a vast amount of information now collected on our online and offline actions — from what we buy, to where we travel, to who we interact with — we have an unprecedented opportunity to study complex social systems. This opportunity, however, comes with scientific, engineering, and ethical challen
-        </small></p>
+<p><small>With a vast amount of information now collected on our online and offline actions — from what we buy, to where we travel, to who we interact with — we have an unprecedented opportunity to study complex social systems. This opportunity, however, comes with scientific, engineering, and ethical challen...</small></p>
 
-        <p>Instructors: Sharad Goel</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Sharad Goel</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computational Methods in the Civic Sphere » 2015; Winter <br>
-            
+<tr>
+<td>
+<h5>Computational Methods in the Civic Sphere » 2015; Winter <br>
+    
 <a href="http://2015.compciv.org/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Dan Nguyen</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Dan Nguyen</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computational Journalism » 2015; Spring <br>
-            
+<tr>
+<td>
+<h5>Computational Journalism » 2015; Spring <br>
+    
 <a href="http://2015.compjour.org">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Dan Nguyen</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Dan Nguyen</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computational Journalism » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>Computational Journalism » 2015; Fall <br>
+    
 <a href="http://www.compjournalism.com/">Homepage</a> / 
 <a href="http://www.compjournalism.com/?p=133">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The course is a hands-on introduction to the areas of computer science that have a direct relevance to journalism, and the broader project of producing an informed and engaged public. We will touch on many different technical and social topics: information recommendation systems but also filter bubb
-        </small></p>
+<p><small>The course is a hands-on introduction to the areas of computer science that have a direct relevance to journalism, and the broader project of producing an informed and engaged public. We will touch on many different technical and social topics: information recommendation systems but also filter bubb...</small></p>
 
-        <p>Instructors: Jonathan Stray</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Jonathan Stray</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Applied Fact Finding » 2015; Summer <br>
-            
+<tr>
+<td>
+<h5>Applied Fact Finding » 2015; Summer <br>
+    
 <a href="https://www.jou.ufl.edu/assets/syllabi/JOU%203110%20Applied%20Fact%20Finding-Section0863-Shumate-SU15.pdf">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course is designed to teach students how to use a wide variety of public records, reference materials and Internet resources to gather information as a reporter. Students will also learn how to analyze, interpret, present and apply such data. This course combines lecture and discussion with han
-        </small></p>
+<p><small>This course is designed to teach students how to use a wide variety of public records, reference materials and Internet resources to gather information as a reporter. Students will also learn how to analyze, interpret, present and apply such data. This course combines lecture and discussion with han...</small></p>
 
-        <p>Instructors: Rich Shumate</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Rich Shumate</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Online Media Production » 2015; Spring <br>
-            
+<tr>
+<td>
+<h5>Advanced Online Media Production » 2015; Spring <br>
+    
 <a href="https://mmc4341.wordpress.com/">Homepage</a> / 
 <a href="https://www.scribd.com/doc/251544285/Syllabus-MMC4341-2015-v2">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Mindy McAdams</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Mindy McAdams</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Interactive Data Visualization » 2015; Spring <br>
-            <a href="https://github.com/chriscanipe/Data-Vis-Spring-2015">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Advanced Interactive Data Visualization » 2015; Spring <br>
+    <a href="https://github.com/chriscanipe/Data-Vis-Spring-2015">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        We’ll be exploring tools and principles that help us visualize data and tell stories online. There are a lot of ways to skin the proverbial cat, but we’re going to focus on basic JavaScript programming, everyday data formatting and visualization techniques that leverage the D3.js library. At the end
-        </small></p>
+<p><small>We’ll be exploring tools and principles that help us visualize data and tell stories online. There are a lot of ways to skin the proverbial cat, but we’re going to focus on basic JavaScript programming, everyday data formatting and visualization techniques that leverage the D3.js library. At the end...</small></p>
 
-        <p>Instructors: Chris Canipe, Mike Jenner</p>
-    </td>
-    <td>
-        <small>University of Missouri</small>
-    </td>
-  </tr>
+<p>Instructors: Chris Canipe, Mike Jenner</p>
+</td>
+<td>
+<small>University of Missouri</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Data Journalism » 2015; Fall <br>
-            
+<tr>
+<td>
+<h5>Advanced Data Journalism » 2015; Fall <br>
+    
 <a href="https://github.com/cjdd3b/advanced-data-journalism/tree/fall-2015">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Chase Davis</p>
-    </td>
-    <td>
-        <small>University of Missouri</small>
-    </td>
-  </tr>
+<p>Instructors: Chase Davis</p>
+</td>
+<td>
+<small>University of Missouri</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Data Journalism » 2015; Spring <br>
-            
+<tr>
+<td>
+<h5>Advanced Data Journalism » 2015; Spring <br>
+    
 <a href="https://github.com/cjdd3b/advanced-data-journalism/tree/old/spring-2015">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Chase Davis</p>
-    </td>
-    <td>
-        <small>University of Missouri</small>
-    </td>
-  </tr>
+<p>Instructors: Chase Davis</p>
+</td>
+<td>
+<small>University of Missouri</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Data Journalism » 2015; Winter <br>
-            
+<tr>
+<td>
+<h5>Advanced Data Journalism » 2015; Winter <br>
+    
 <a href="https://simonrogers.github.io/datajournalism/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The course will introduce reporters to the practice of data journalism in a busy newsroom, showcasing the importance of telling a story and how tools can help you do it. 
-        </small></p>
+<p><small>The course will introduce reporters to the practice of data journalism in a busy newsroom, showcasing the importance of telling a story and how tools can help you do it. </small></p>
 
-        <p>Instructors: Simon Rogers</p>
-    </td>
-    <td>
-        <small>University of California at Berkeley</small>
-    </td>
-  </tr>
+<p>Instructors: Simon Rogers</p>
+</td>
+<td>
+<small>University of California at Berkeley</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Math for Journalists Made Easy: Understanding and Using Numbers and Statistics » 2015; June <br>
-            
+<tr>
+<td>
+<h5>Math for Journalists Made Easy: Understanding and Using Numbers and Statistics » 2015; June <br>
+    
 <a href="http://journalismcourses.org/MJME2015.html">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course aims to provide journalists, media practitioners and the general public with knowledge about how to be critical about numbers, statistics and research and to avoid being improperly swayed by biased researchers. 
-        </small></p>
+<p><small>This course aims to provide journalists, media practitioners and the general public with knowledge about how to be critical about numbers, statistics and research and to avoid being improperly swayed by biased researchers. </small></p>
 
-        <p>Instructors: Brant Houston, Jennifer LaFleur, Greg Ferenstein</p>
-    </td>
-    <td>
-        <small>Knight Center for Journalism in the Americas</small>
-    </td>
-  </tr>
+<p>Instructors: Brant Houston, Jennifer LaFleur, Greg Ferenstein</p>
+</td>
+<td>
+<small>Knight Center for Journalism in the Americas</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Visualization and Infographics with D3.js » 2015; March 16 - April 26 <br>
-            
+<tr>
+<td>
+<h5>Data Visualization and Infographics with D3.js » 2015; March 16 - April 26 <br>
+    
 <a href="http://journalismcourses.org/D3syllabus.html">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course consists of an in-depth discussion about the principles of infographics and data visualization, and how they apply to the real world. Students will learn how to display information using charts, maps, diagrams, and visual narratives, and how to bring them to life using d3.js, a Javascrip
-        </small></p>
+<p><small>This course consists of an in-depth discussion about the principles of infographics and data visualization, and how they apply to the real world. Students will learn how to display information using charts, maps, diagrams, and visual narratives, and how to bring them to life using d3.js, a Javascrip...</small></p>
 
-        <p>Instructors: Alberto Cairo, Scott Murray</p>
-    </td>
-    <td>
-        <small>Knight Center for Journalism in the Americas</small>
-    </td>
-  </tr>
+<p>Instructors: Alberto Cairo, Scott Murray</p>
+</td>
+<td>
+<small>Knight Center for Journalism in the Americas</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Driven Journalism » 2015; Maymester <br>
-            
+<tr>
+<td>
+<h5>Data Driven Journalism » 2015; Maymester <br>
+    
 <a href="http://ryanthornburg.com/about-contact/my-classes/2015-maymester-data-journalism-class/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Ryan Thornburg</p>
-    </td>
-    <td>
-        <small>University of North Carolina at Chapel Hill</small>
-    </td>
-  </tr>
+<p>Instructors: Ryan Thornburg</p>
+</td>
+<td>
+<small>University of North Carolina at Chapel Hill</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Coding for Journalists » 2015 <br>
-            
+<tr>
+<td>
+<h5>Advanced Coding for Journalists » 2015 <br>
+    
 <a href="http://jrue.github.io/advancedcoding/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course is a continuation of the Coding For Journalists class, and will include intermediary lessons in computational literacy. This class containes more applied lessons than its earlier counterpart. There are some lectures depending on the story subject matter that arises. 
-        </small></p>
+<p><small>This course is a continuation of the Coding For Journalists class, and will include intermediary lessons in computational literacy. This class containes more applied lessons than its earlier counterpart. There are some lectures depending on the story subject matter that arises. </small></p>
 
-        <p>Instructors: Jeremy Rue</p>
-    </td>
-    <td>
-        <small>University of California at Berkeley</small>
-    </td>
-  </tr>
+<p>Instructors: Jeremy Rue</p>
+</td>
+<td>
+<small>University of California at Berkeley</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>West Virginia Election Reporting » 2014; Fall <br>
-            
+<tr>
+<td>
+<h5>West Virginia Election Reporting » 2014; Fall <br>
+    
 <a href="http://dwillis.github.io/wv_elections/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Derek Willis</p>
-    </td>
-    <td>
-        <small>West Virginia University</small>
-    </td>
-  </tr>
+<p>Instructors: Derek Willis</p>
+</td>
+<td>
+<small>West Virginia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Web Programming for Multimedia Journalism » 2014; Fall <br>
-            
+<tr>
+<td>
+<h5>Web Programming for Multimedia Journalism » 2014; Fall <br>
+    
 <a href="http://jamesraber.com/course_materials/WPMJ-Syllabus-Fall14.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Students in this class are journalists, programmers, web developers or designers, or they consider themselves some combination of the above. They are taking this class because they want to create something new and meaningful on the web. This course is designed as a capstone for students in the Schoo
-        </small></p>
+<p><small>Students in this class are journalists, programmers, web developers or designers, or they consider themselves some combination of the above. They are taking this class because they want to create something new and meaningful on the web. This course is designed as a capstone for students in the Schoo...</small></p>
 
-        <p>Instructors: Jacqueline Marino, James Raber</p>
-    </td>
-    <td>
-        <small>Kent State University</small>
-    </td>
-  </tr>
+<p>Instructors: Jacqueline Marino, James Raber</p>
+</td>
+<td>
+<small>Kent State University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Visualization » 2014; Spring <br>
-            
+<tr>
+<td>
+<h5>Visualization » 2014; Spring <br>
+    
 <a href="http://www.cs171.org/2014/#!index.md">Homepage</a> / 
 <a href="http://www.cs171.org/2014/#!syllabus.md">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Hanspeter Pfister</p>
-    </td>
-    <td>
-        <small>Harvard University</small>
-    </td>
-  </tr>
+<p>Instructors: Hanspeter Pfister</p>
+</td>
+<td>
+<small>Harvard University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>The Platform » 2014; Summer <br>
-            
+<tr>
+<td>
+<h5>The Platform » 2014; Summer <br>
+    
 <a href="https://github.com/ledeprogram/courses/tree/master/platforms">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course begins with the idea that computing tools are the products of human ingenuity and effort. They are never neutral and carry with them the biases of their designers and their design process. Platform studies is a new term used to describe investigations into these relationships between com
-        </small></p>
+<p><small>This course begins with the idea that computing tools are the products of human ingenuity and effort. They are never neutral and carry with them the biases of their designers and their design process. Platform studies is a new term used to describe investigations into these relationships between com...</small></p>
 
-        <p>Instructors: Cathy O Neil @mathbabedotorg</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Cathy O Neil @mathbabedotorg</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Storytelling with Data + Interactivity » 2014; Fall <br>
-            
+<tr>
+<td>
+<h5>Storytelling with Data + Interactivity » 2014; Fall <br>
+    
 <a href="http://sisiwei.github.io/cuny-interactive-fall-2014/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The Data/Interactivity 10-week portion of this course introduces students to the essential concepts, tools, and story forms in multimedia storytelling. Students learn the basics of HTML/CSS/JavaScript, leverage existing frameworks and libraries (Bootstrap, jQuery), and pitch, report, produce, and cr
-        </small></p>
+<p><small>The Data/Interactivity 10-week portion of this course introduces students to the essential concepts, tools, and story forms in multimedia storytelling. Students learn the basics of HTML/CSS/JavaScript, leverage existing frameworks and libraries (Bootstrap, jQuery), and pitch, report, produce, and cr...</small></p>
 
-        <p>Instructors: Sisi Wei</p>
-    </td>
-    <td>
-        <small>City University of New York</small>
-    </td>
-  </tr>
+<p>Instructors: Sisi Wei</p>
+</td>
+<td>
+<small>City University of New York</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Story Bots » 2014; Fall <br>
-            
+<tr>
+<td>
+<h5>Story Bots » 2014; Fall <br>
+    
 <a href="https://github.com/mattwaite/JOUR491-Storybots">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Welcome to the dawning days of storybots: programs that write stories so humans don t have to. Bots now write simple stories about softball games, corporate earnings reports, the weather and, yes, earthquakes. Some of them are extraordinarily simple -- basic programming knowledge is all that s requi
-        </small></p>
+<p><small>Welcome to the dawning days of storybots: programs that write stories so humans don t have to. Bots now write simple stories about softball games, corporate earnings reports, the weather and, yes, earthquakes. Some of them are extraordinarily simple -- basic programming knowledge is all that s requi...</small></p>
 
-        <p>Instructors: Matt Waite</p>
-    </td>
-    <td>
-        <small>University of Nebraska-Lincoln</small>
-    </td>
-  </tr>
+<p>Instructors: Matt Waite</p>
+</td>
+<td>
+<small>University of Nebraska-Lincoln</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Stabile Seminar: The empirical spine of investigative reporting » 2014; Spring <br>
-            
+<tr>
+<td>
+<h5>Stabile Seminar: The empirical spine of investigative reporting » 2014; Spring <br>
+    
 <a href="http://sarahcnyt.github.io/stabile/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This is a class in computer-assisted reporting, a branch of the data journalism movement. In previous incarnations of the class, Maurice Tamman of Reuters dubbed it the “empirical spine” of journalism in the tradition of Philip Meyer’s Precision Journalism. Whatever the name, the idea is the same: o
-        </small></p>
+<p><small>This is a class in computer-assisted reporting, a branch of the data journalism movement. In previous incarnations of the class, Maurice Tamman of Reuters dubbed it the “empirical spine” of journalism in the tradition of Philip Meyer’s Precision Journalism. Whatever the name, the idea is the same: o...</small></p>
 
-        <p>Instructors: Sarah Cohen</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Sarah Cohen</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Reporting Methods » 2014; Winter <br>
-            
+<tr>
+<td>
+<h5>Reporting Methods » 2014; Winter <br>
+    
 <a href="http://www.davidmckie.com/syllabus/reporting-methods-carleton-university-journalism-5206-2/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: David McKie, Jim Bronskill</p>
-    </td>
-    <td>
-        <small>Carleton University</small>
-    </td>
-  </tr>
+<p>Instructors: David McKie, Jim Bronskill</p>
+</td>
+<td>
+<small>Carleton University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Public Affairs Data Journalism I » 2014; Fall <br>
-            
+<tr>
+<td>
+<h5>Public Affairs Data Journalism I » 2014; Fall <br>
+    
 <a href="http://fall2014.padjo.org/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Dan Nguyen</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Dan Nguyen</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>News Applications » 2014; Spring <br>
-            
+<tr>
+<td>
+<h5>News Applications » 2014; Spring <br>
+    
 <a href="https://github.com/mattwaite/JOUR491-News-Applications">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        How we communicate is changing rapidly and fundamentally. Because the delivery of journalism has been largely unchanged for lengthy periods of time – newspapers for hundreds of years, television and radio for less – there’s been little experimentation with the fundamental delivery of news and inform
-        </small></p>
+<p><small>How we communicate is changing rapidly and fundamentally. Because the delivery of journalism has been largely unchanged for lengthy periods of time – newspapers for hundreds of years, television and radio for less – there’s been little experimentation with the fundamental delivery of news and inform...</small></p>
 
-        <p>Instructors: Matt Waite</p>
-    </td>
-    <td>
-        <small>University of Nebraska-Lincoln</small>
-    </td>
-  </tr>
+<p>Instructors: Matt Waite</p>
+</td>
+<td>
+<small>University of Nebraska-Lincoln</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Interactive Design » 2014; Spring <br>
-            
+<tr>
+<td>
+<h5>Interactive Design » 2014; Spring <br>
+    
 <a href="https://github.com/tysone/2014-columbia">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In this course, students will learn how to design and build news Web sites from the ground up. The course will be a mix of concept and practical application of digital news design, including user research. Students will learn to develop prototypes, iterate design concepts and code the HTML, CSS and 
-        </small></p>
+<p><small>In this course, students will learn how to design and build news Web sites from the ground up. The course will be a mix of concept and practical application of digital news design, including user research. Students will learn to develop prototypes, iterate design concepts and code the HTML, CSS and ...</small></p>
 
-        <p>Instructors: Tyson Evans @tysone, Josh Keller @josh_keller</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Tyson Evans @tysone, Josh Keller @josh_keller</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Foundations of Computing » 2014; Summer <br>
-            <a href="https://github.com/ledeprogram/courses/tree/master/foundations">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Foundations of Computing » 2014; Summer <br>
+    <a href="https://github.com/ledeprogram/courses/tree/master/foundations">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        "An introduction to the ways in which the computer and data technologies can be partners in creative practices. We will emphasize writing code over point-and-click interfaces, presenting the computer as a programmable object. Through a series of projects, students will move from exploratory sessions
-        </small></p>
+<p><small>"An introduction to the ways in which the computer and data technologies can be partners in creative practices. We will emphasize writing code over point-and-click interfaces, presenting the computer as a programmable object. Through a series of projects, students will move from exploratory sessions...</small></p>
 
-        <p>Instructors: Jonathan Soma</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Jonathan Soma</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Digital Scholarship Methods » 2014; Winter <br>
-            
+<tr>
+<td>
+<h5>Digital Scholarship Methods » 2014; Winter <br>
+    
 <a href="https://library.uoregon.edu/node/3920">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course will help graduate students engage with digital tools and approaches, primarily as they pertain to the analysis of texts. While there are no pre-requisites for this course, students need to be willing to try new things, practice new skills, and not be afraid to fail. 
-        </small></p>
+<p><small>This course will help graduate students engage with digital tools and approaches, primarily as they pertain to the analysis of texts. While there are no pre-requisites for this course, students need to be willing to try new things, practice new skills, and not be afraid to fail. </small></p>
 
-        <p>Instructors: John Russell</p>
-    </td>
-    <td>
-        <small>University of Oregon</small>
-    </td>
-  </tr>
+<p>Instructors: John Russell</p>
+</td>
+<td>
+<small>University of Oregon</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Digital Journalism » 2014; Winter <br>
-            
+<tr>
+<td>
+<h5>Digital Journalism » 2014; Winter <br>
+    
 <a href="http://comm217.stanford.edu/syllabus/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In “legacy” media, newspaper and magazine journalists had no need to learn how to operate the printing presses, or to understand strategies the marketing and circulation departments used to promote and distribute their work. Their interactions with readers were one-sided at best, antisocial at worst
-        </small></p>
+<p><small>In “legacy” media, newspaper and magazine journalists had no need to learn how to operate the printing presses, or to understand strategies the marketing and circulation departments used to promote and distribute their work. Their interactions with readers were one-sided at best, antisocial at worst...</small></p>
 
-        <p>Instructors: R.B. Brenner, Drake Martinet</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: R.B. Brenner, Drake Martinet</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Digital History: Concepts, Methods, Problems » 2014; Fall <br>
-            
+<tr>
+<td>
+<h5>Digital History: Concepts, Methods, Problems » 2014; Fall <br>
+    
 <a href="http://stanford.edu/~jheppler/stanford.syllabus.hist205f.2014f.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This is a hands-on course that introduces students to the use of digital tools and sources to conduct original historical research, analyze and interpret findings, and communicate results. Digital history is an interdisciplinary approach that seeks to bring digital technology into conversation with 
-        </small></p>
+<p><small>This is a hands-on course that introduces students to the use of digital tools and sources to conduct original historical research, analyze and interpret findings, and communicate results. Digital history is an interdisciplinary approach that seeks to bring digital technology into conversation with ...</small></p>
 
-        <p>Instructors: Jason A. Heppler</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Jason A. Heppler</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Dealing with Data » 2014; Summer <br>
-            
+<tr>
+<td>
+<h5>Dealing with Data » 2014; Summer <br>
+    
 <a href="http://ipeirotis.github.io/DwD/">Homepage</a> / 
 <a href="http://ipeirotis.github.io/DwD/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The volume of data being generated every day continues to grow exponentially. We capture and store data about pretty much every aspect of our lives. Being able to handle and analyze the available data is now a fundamental skill for everyone. The objective of this course is to challenge and teach stu
-        </small></p>
+<p><small>The volume of data being generated every day continues to grow exponentially. We capture and store data about pretty much every aspect of our lives. Being able to handle and analyze the available data is now a fundamental skill for everyone. The objective of this course is to challenge and teach stu...</small></p>
 
-        <p>Instructors: Panos Ipeirotis</p>
-    </td>
-    <td>
-        <small>New York University</small>
-    </td>
-  </tr>
+<p>Instructors: Panos Ipeirotis</p>
+</td>
+<td>
+<small>New York University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data and Databases » 2014; Summer <br>
-            <a href="https://github.com/ledeprogram/courses/tree/master/databases">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Data and Databases » 2014; Summer <br>
+    <a href="https://github.com/ledeprogram/courses/tree/master/databases">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This course considers both the scientific and social implications of counting, turning the world into bits. Students will learn human protocols (census and survey, interview, crowdsourcing, and experiments) and computer- or computer-assisted strategies and tools for collecting data. These distinctio
-        </small></p>
+<p><small>This course considers both the scientific and social implications of counting, turning the world into bits. Students will learn human protocols (census and survey, interview, crowdsourcing, and experiments) and computer- or computer-assisted strategies and tools for collecting data. These distinctio...</small></p>
 
-        <p>Instructors: Allison Parrish, Matthew Jones</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Allison Parrish, Matthew Jones</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2014; Fall <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2014; Fall <br>
+    
 <a href="http://kpq.github.io/nyu-data-journalism-fall-2014/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Amanda Cox, Kevin Quealy</p>
-    </td>
-    <td>
-        <small>New York University</small>
-    </td>
-  </tr>
+<p>Instructors: Amanda Cox, Kevin Quealy</p>
+</td>
+<td>
+<small>New York University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2014; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2014; Spring <br>
+    
 <a href="http://kpq.github.io/nyu-data-journalism-2014/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Amanda Cox, Kevin Quealy</p>
-    </td>
-    <td>
-        <small>New York University</small>
-    </td>
-  </tr>
+<p>Instructors: Amanda Cox, Kevin Quealy</p>
+</td>
+<td>
+<small>New York University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2014; Fall <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2014; Fall <br>
+    
 <a href="https://www.jou.ufl.edu/assets/syllabi/JOU4930%20DataJou-Section%2003C8s-Lewis-FA14.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Students will develop a “data frame of mind” by demonstrating proficiency in: - Finding stories in data and finding data to report stories. - Evaluating the strengths and weaknesses of data sources and methods. - Acquiring data through public sources and by scraping websites and PDFs. - Cleaning (fi
-        </small></p>
+<p><small>Students will develop a “data frame of mind” by demonstrating proficiency in: - Finding stories in data and finding data to report stories. - Evaluating the strengths and weaknesses of data sources and methods. - Acquiring data through public sources and by scraping websites and PDFs. - Cleaning (fi...</small></p>
 
-        <p>Instructors: Norm Lewis</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Norm Lewis</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2014; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2014; Spring <br>
+    
 <a href="http://wp.vcu.edu/nenudata/">Homepage</a> / 
 <a href="http://wp.vcu.edu/nenudata/wp-content/uploads/sites/4058/2014/02/Syllabus-Data-Journalism1.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In our Data Journalism and Visualization course, you will learn how to use the Internet and other digital technology to find ideas, information and sources for your stories. In particular, you will learn how to obtain and analyze data – about health, crime, education, economics and other topics. You
-        </small></p>
+<p><small>In our Data Journalism and Visualization course, you will learn how to use the Internet and other digital technology to find ideas, information and sources for your stories. In particular, you will learn how to obtain and analyze data – about health, crime, education, economics and other topics. You...</small></p>
 
-        <p>Instructors: Jeff South</p>
-    </td>
-    <td>
-        <small>Northeast Normal University</small>
-    </td>
-  </tr>
+<p>Instructors: Jeff South</p>
+</td>
+<td>
+<small>Northeast Normal University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Craft of Research » 2014; Fall <br>
-            
+<tr>
+<td>
+<h5>Craft of Research » 2014; Fall <br>
+    
 <a href="http://craftresearch-day.2014.journalism.cuny.edu/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Liz Day</p>
-    </td>
-    <td>
-        <small>City University of New York</small>
-    </td>
-  </tr>
+<p>Instructors: Liz Day</p>
+</td>
+<td>
+<small>City University of New York</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computational Journalism » 2014; Fall <br>
-            
+<tr>
+<td>
+<h5>Computational Journalism » 2014; Fall <br>
+    
 <a href="http://www.compjournalism.com/?p=113">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Jonathan Stray</p>
-    </td>
-    <td>
-        <small>New York University</small>
-    </td>
-  </tr>
+<p>Instructors: Jonathan Stray</p>
+</td>
+<td>
+<small>New York University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computation + Journalism » 2014; Spring <br>
-            
+<tr>
+<td>
+<h5>Computation + Journalism » 2014; Spring <br>
+    
 <a href="http://compjournalism.wordpress.com/sp2014/">Homepage</a> / 
 <a href="http://compjournalism.wordpress.com/schedule/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information. 
-        </small></p>
+<p><small>A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information. </small></p>
 
-        <p>Instructors: Irfan Essa</p>
-    </td>
-    <td>
-        <small>Georgia Tech</small>
-    </td>
-  </tr>
+<p>Instructors: Irfan Essa</p>
+</td>
+<td>
+<small>Georgia Tech</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computation + Journalism » 2014; Spring <br>
-            
+<tr>
+<td>
+<h5>Computation + Journalism » 2014; Spring <br>
+    
 <a href="http://compjournalism.wordpress.com/sp2014/">Homepage</a> / 
 <a href="https://docs.google.com/spreadsheet/pub?key=0AqyqgGWSjCbpdHcta1FBR0hzVVN4RmlKZGZoYW9KdkE">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information. Technology is rapidly affecting how news information is gathered, reported, visualized, aggregated, summarized, distributed
-        </small></p>
+<p><small>A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information. Technology is rapidly affecting how news information is gathered, reported, visualized, aggregated, summarized, distributed...</small></p>
 
-        <p>Instructors: Irfan Essa</p>
-    </td>
-    <td>
-        <small>Georgia Tech</small>
-    </td>
-  </tr>
+<p>Instructors: Irfan Essa</p>
+</td>
+<td>
+<small>Georgia Tech</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Algorithms » 2014; Summer <br>
-            <a href="https://github.com/ledeprogram/courses/tree/master/algorithms">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Algorithms » 2014; Summer <br>
+    <a href="https://github.com/ledeprogram/courses/tree/master/algorithms">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        Algorithms are at the heart of computer processing - they are descriptions of computation. We will present a basic taxonomy of algorithms based on their purpose and discuss complexity (will an algorithm take a lot of time or require significant system resources?). Classes will be anchored around sev
-        </small></p>
+<p><small>Algorithms are at the heart of computer processing - they are descriptions of computation. We will present a basic taxonomy of algorithms based on their purpose and discuss complexity (will an algorithm take a lot of time or require significant system resources?). Classes will be anchored around sev...</small></p>
 
-        <p>Instructors: Jonathan Soma, Chris Wiggins</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Jonathan Soma, Chris Wiggins</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Data Journalism » 2014; Spring <br>
-            
+<tr>
+<td>
+<h5>Advanced Data Journalism » 2014; Spring <br>
+    
 <a href="https://github.com/cjdd3b/advanced-data-journalism/tree/old/spring-2014">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Chase Davis</p>
-    </td>
-    <td>
-        <small>University of Missouri</small>
-    </td>
-  </tr>
+<p>Instructors: Chase Davis</p>
+</td>
+<td>
+<small>University of Missouri</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Math for Beginning Reporters » 2014 <br>
-            
+<tr>
+<td>
+<h5>Math for Beginning Reporters » 2014 <br>
+    
 <a href="https://github.com/mattwaite/MathForBeginningReporters">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This module is designed to solve a particular problem: How do you get basic data journalism into a beginning reporting class that many feel is packed as it is? My answer is to combine the basic math for reporters with instructions on how to apply those concepts in a spreadsheet using real data, all 
-        </small></p>
+<p><small>This module is designed to solve a particular problem: How do you get basic data journalism into a beginning reporting class that many feel is packed as it is? My answer is to combine the basic math for reporters with instructions on how to apply those concepts in a spreadsheet using real data, all ...</small></p>
 
-        <p>Instructors: Matt Waite</p>
-    </td>
-    <td>
-        <small>University of Nebraska-Lincoln</small>
-    </td>
-  </tr>
+<p>Instructors: Matt Waite</p>
+</td>
+<td>
+<small>University of Nebraska-Lincoln</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Intro to Multimedia Web Skills » 2014 <br>
-            
+<tr>
+<td>
+<h5>Intro to Multimedia Web Skills » 2014 <br>
+    
 <a href="http://jrue.github.io/webskills/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This five-week mini-course is a follow-up to the Intro to Multimedia Reporting Bootcamp workshop, and is required for all first-year journalism graduate students in the Fall. The objective of the class is to teach every student the foundational skills needed to create an online website, such as a pe
-        </small></p>
+<p><small>This five-week mini-course is a follow-up to the Intro to Multimedia Reporting Bootcamp workshop, and is required for all first-year journalism graduate students in the Fall. The objective of the class is to teach every student the foundational skills needed to create an online website, such as a pe...</small></p>
 
-        <p>Instructors: Jeremy Rue</p>
-    </td>
-    <td>
-        <small>University of California at Berkeley</small>
-    </td>
-  </tr>
+<p>Instructors: Jeremy Rue</p>
+</td>
+<td>
+<small>University of California at Berkeley</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Doing Journalism with Data: First Steps, Skills and Tools » 2014; May 6 - June 6 <br>
-            
+<tr>
+<td>
+<h5>Doing Journalism with Data: First Steps, Skills and Tools » 2014; May 6 - June 6 <br>
+    
 <a href="http://datajournalismcourse.net/index.php">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        A free online data journalism course with 5 leading experts. 
-        </small></p>
+<p><small>A free online data journalism course with 5 leading experts. </small></p>
 
-        <p>Instructors: Simon Rogers, Paul Bradshaw, Stephen Doig, Nicolas Kayser-Bril, Albert Cairo</p>
-    </td>
-    <td>
-        <small>European Journalism Centre</small>
-    </td>
-  </tr>
+<p>Instructors: Simon Rogers, Paul Bradshaw, Stephen Doig, Nicolas Kayser-Bril, Albert Cairo</p>
+</td>
+<td>
+<small>European Journalism Centre</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism » 2014 <br>
-            
+<tr>
+<td>
+<h5>Data Journalism » 2014 <br>
+    
 <a href="https://github.com/mattwaite/JOUR407-Data-Journalism/tree/601b51dafb0690ff9679861258683d943449312e">Homepage</a> / 
 <a href="https://github.com/mattwaite/JOUR407-Data-Journalism/blob/601b51dafb0690ff9679861258683d943449312e/syllabus.md">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The best reporters harness the right tools to get the story. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information -- to do investigative reporting. We’re going to get our hands dirty with spreadsheets, databases, maps, some basic sta
-        </small></p>
+<p><small>The best reporters harness the right tools to get the story. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information -- to do investigative reporting. We’re going to get our hands dirty with spreadsheets, databases, maps, some basic sta...</small></p>
 
-        <p>Instructors: Matt Waite</p>
-    </td>
-    <td>
-        <small>University of Nebraska-Lincoln</small>
-    </td>
-  </tr>
+<p>Instructors: Matt Waite</p>
+</td>
+<td>
+<small>University of Nebraska-Lincoln</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Small Data Journalism » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Small Data Journalism » 2013; Fall <br>
+    
 <a href="http://www.smalldatajournalism.com">Homepage</a> / 
 <a href="http://www.smalldatajournalism.com/class/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course aims to examine data journalism at its core, through case studies and hands-on practice of modern data skills. Because the course is only five weeks, we focus on the practical concepts and tools needed to explore unfamiliar datasets to find worthwhile stories. 
-        </small></p>
+<p><small>This course aims to examine data journalism at its core, through case studies and hands-on practice of modern data skills. Because the course is only five weeks, we focus on the practical concepts and tools needed to explore unfamiliar datasets to find worthwhile stories. </small></p>
 
-        <p>Instructors: Dan Nguyen</p>
-    </td>
-    <td>
-        <small>New York University SCPS</small>
-    </td>
-  </tr>
+<p>Instructors: Dan Nguyen</p>
+</td>
+<td>
+<small>New York University SCPS</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Research, Analysis and Insight » 2013; Spring <br>
-            
+<tr>
+<td>
+<h5>Research, Analysis and Insight » 2013; Spring <br>
+    
 <a href="http://web-app.usc.edu/soc/syllabus/20131/21380.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        A major component of the public relations practitioner’s work is to find and utilize facts, figures and opinions in a thoughtful and productive manner. Successful practitioners can observe and examine an array of information ranging from consumer perceptions to voting trends and spending habits and,
-        </small></p>
+<p><small>A major component of the public relations practitioner’s work is to find and utilize facts, figures and opinions in a thoughtful and productive manner. Successful practitioners can observe and examine an array of information ranging from consumer perceptions to voting trends and spending habits and,...</small></p>
 
-        <p>Instructors: Dave Quast</p>
-    </td>
-    <td>
-        <small>University of Southern California</small>
-    </td>
-  </tr>
+<p>Instructors: Dave Quast</p>
+</td>
+<td>
+<small>University of Southern California</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Programming R (Proposed) » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Programming R (Proposed) » 2013; Fall <br>
+    
 <a href="https://gist.github.com/hadley/6734639">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        My first stab at a basic R programming curriculum. I think teaching just these topics without overall motivating examples would be extremely boring, but if you're a self-taught R user, this might be useful to help spot your gaps. 
-        </small></p>
+<p><small>My first stab at a basic R programming curriculum. I think teaching just these topics without overall motivating examples would be extremely boring, but if you're a self-taught R user, this might be useful to help spot your gaps. </small></p>
 
-        <p>Instructors: Hadley Wickham</p>
-    </td>
-    <td>
-        <small></small>
-    </td>
-  </tr>
+<p>Instructors: Hadley Wickham</p>
+</td>
+<td>
+<small></small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Patricia Elliott » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Patricia Elliott » 2013; Fall <br>
+    
 <a href="http://www.patriciaelliott.ca/wp-content/uploads/2015/07/Reseach-syllabus-2013.docx">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The course is designed to give students practical and theoretical experience in journalistic research methods, including interviewing, observation, data collection, archival research and retrieval of public documents. Major projects will be centred around a university-community collaboration with th
-        </small></p>
+<p><small>The course is designed to give students practical and theoretical experience in journalistic research methods, including interviewing, observation, data collection, archival research and retrieval of public documents. Major projects will be centred around a university-community collaboration with th...</small></p>
 
-        
-    </td>
-    <td>
-        <small>University of Regina</small>
-    </td>
-  </tr>
 
-  <tr>
-    <td>
-        <h5>Making Sense of Data » 2013; Winter <br>
-            
+</td>
+<td>
+<small>University of Regina</small>
+</td>
+</tr>
+
+<tr>
+<td>
+<h5>Making Sense of Data » 2013; Winter <br>
+    
 <a href="https://datasense.withgoogle.com/course">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Do you work with surveys, demographic information, evaluation data, test scores or observation data? What questions are you looking to answer, and what story are you trying to tell with your data? This self-paced, online course is intended for anyone who wants to learn more about how to structure, v
-        </small></p>
+<p><small>Do you work with surveys, demographic information, evaluation data, test scores or observation data? What questions are you looking to answer, and what story are you trying to tell with your data? This self-paced, online course is intended for anyone who wants to learn more about how to structure, v...</small></p>
 
-        <p>Instructors: Amit Deutsch, Joe Hellerstein</p>
-    </td>
-    <td>
-        <small>Google</small>
-    </td>
-  </tr>
+<p>Instructors: Amit Deutsch, Joe Hellerstein</p>
+</td>
+<td>
+<small>Google</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Journalists Toolkit » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Journalists Toolkit » 2013; Fall <br>
+    
 <a href="https://jtoolkit.wordpress.com/">Homepage</a> / 
 <a href="http://www.scribd.com/doc/161146413/Syllabus-JOU6344-Fall-2013">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Mindy McAdams</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Mindy McAdams</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Introduction to Data Science » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Introduction to Data Science » 2013; Fall <br>
+    
 <a href="http://columbiadatascience.com/about-the-class/about-the-course-2013/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course serves as an introduction to the interdisciplinary and emerging field of data science. Students will learn to combine tools and techniques from statistics, computer science, data visualization and the social sciences to solve problems using data. Central threads include: (1) the data sci
-        </small></p>
+<p><small>This course serves as an introduction to the interdisciplinary and emerging field of data science. Students will learn to combine tools and techniques from statistics, computer science, data visualization and the social sciences to solve problems using data. Central threads include: (1) the data sci...</small></p>
 
-        <p>Instructors: Rachel Schutt, Kayur Patel</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Rachel Schutt, Kayur Patel</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data-driven Interactive Journalism » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Data-driven Interactive Journalism » 2013; Fall <br>
+    
 <a href="http://datadrivenjournalism.fall.2013.journalism.cuny.edu/syllabus-fall-2013/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        We swim in a world of data – from election results, budgets and census reports, to Facebook updates and image uploads. Journalists need to know how to find stories in data and shape them in compelling ways. This hands-on course teaches reporters and editors to gather, analyze, and visualize interact
-        </small></p>
+<p><small>We swim in a world of data – from election results, budgets and census reports, to Facebook updates and image uploads. Journalists need to know how to find stories in data and shape them in compelling ways. This hands-on course teaches reporters and editors to gather, analyze, and visualize interact...</small></p>
 
-        <p>Instructors: Russell Chun, Amanda Hickman</p>
-    </td>
-    <td>
-        <small>City University of New York</small>
-    </td>
-  </tr>
+<p>Instructors: Russell Chun, Amanda Hickman</p>
+</td>
+<td>
+<small>City University of New York</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data-driven Interactive Journalism » 2013; Spring <br>
-            
+<tr>
+<td>
+<h5>Data-driven Interactive Journalism » 2013; Spring <br>
+    
 <a href="http://datadrivenjournalism.2013.journalism.cuny.edu/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Russell Chun, Amanda Hickman</p>
-    </td>
-    <td>
-        <small>City University of New York</small>
-    </td>
-  </tr>
+<p>Instructors: Russell Chun, Amanda Hickman</p>
+</td>
+<td>
+<small>City University of New York</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Visualization » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Data Visualization » 2013; Fall <br>
+    
 <a href="https://github.com/mattwaite/JOUR491-Data-Visualization">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Welcome to data visualization, where you ll learn to use storytelling, analysis and visualization techniques to inform people with data. In this class, you ll learn what makes for good visualizations and how you can develop deeper understanding of a topic through a combination of words and graphics,
-        </small></p>
+<p><small>Welcome to data visualization, where you ll learn to use storytelling, analysis and visualization techniques to inform people with data. In this class, you ll learn what makes for good visualizations and how you can develop deeper understanding of a topic through a combination of words and graphics,...</small></p>
 
-        <p>Instructors: Matt Waite</p>
-    </td>
-    <td>
-        <small>University of Nebraska-Lincoln</small>
-    </td>
-  </tr>
+<p>Instructors: Matt Waite</p>
+</td>
+<td>
+<small>University of Nebraska-Lincoln</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Visualization » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Data Visualization » 2013; Fall <br>
+    
 <a href="http://shancarter.github.io/ucb-dataviz-fall-2013/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course teaches some of the skills and techniques necessary for displaying statistical information effectively in journalism. Students will scrutinize techniques used in previously published projects and will also analyze data on their own, evaluating and producing static and interactive visuali
-        </small></p>
+<p><small>This course teaches some of the skills and techniques necessary for displaying statistical information effectively in journalism. Students will scrutinize techniques used in previously published projects and will also analyze data on their own, evaluating and producing static and interactive visuali...</small></p>
 
-        <p>Instructors: Shan Carter, Kevin Quealy</p>
-    </td>
-    <td>
-        <small>University of California at Berkeley</small>
-    </td>
-  </tr>
+<p>Instructors: Shan Carter, Kevin Quealy</p>
+</td>
+<td>
+<small>University of California at Berkeley</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Science Storytelling » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Data Science Storytelling » 2013; Fall <br>
+    
 <a href="http://hmason.github.io/datastorytelling/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This short course is an exploration of the line between data analysis and storytelling. How do we find the interesting stories in data, and how do we communicate them in a compelling way, with respect to the data? 
-        </small></p>
+<p><small>This short course is an exploration of the line between data analysis and storytelling. How do we find the interesting stories in data, and how do we communicate them in a compelling way, with respect to the data? </small></p>
 
-        <p>Instructors: Hilary Mason</p>
-    </td>
-    <td>
-        <small>New York University</small>
-    </td>
-  </tr>
+<p>Instructors: Hilary Mason</p>
+</td>
+<td>
+<small>New York University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Reporting » 2013; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Reporting » 2013; Spring <br>
+    
 <a href="https://github.com/dwillis/data-reporting">Homepage</a> / 
 <a href="https://github.com/dwillis/data-reporting/blob/master/outline.md">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The world that we live in and report on is increasingly influenced by data. This course will help you use data to find and develop stories that can’t be found in other ways. Data can be anything: spreadsheets full of numbers, the text of speeches or the measured observations of daily life. Reporters
-        </small></p>
+<p><small>The world that we live in and report on is increasingly influenced by data. This course will help you use data to find and develop stories that can’t be found in other ways. Data can be anything: spreadsheets full of numbers, the text of speeches or the measured observations of daily life. Reporters...</small></p>
 
-        <p>Instructors: Derek Willis</p>
-    </td>
-    <td>
-        <small>Georgetown University</small>
-    </td>
-  </tr>
+<p>Instructors: Derek Willis</p>
+</td>
+<td>
+<small>Georgetown University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Driven Journalism » 2013; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Driven Journalism » 2013; Spring <br>
+    
 <a href="http://parklibrary.jomc.unc.edu/sites/parklibrary.jomc.unc.edu/files/491.7-Thornburg-Spring2013.pdf">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The economics of digital publishing technology have opened a floodgate of raw data, and journalism is just one of many fields that are being rapidly transformed by that floodgate. In law, medicine, business, politics, and ecology, people are using data to understand the social and natural worlds. Th
-        </small></p>
+<p><small>The economics of digital publishing technology have opened a floodgate of raw data, and journalism is just one of many fields that are being rapidly transformed by that floodgate. In law, medicine, business, politics, and ecology, people are using data to understand the social and natural worlds. Th...</small></p>
 
-        <p>Instructors: Ryan Thornburg</p>
-    </td>
-    <td>
-        <small>University of North Carolina, Chapel Hill</small>
-    </td>
-  </tr>
+<p>Instructors: Ryan Thornburg</p>
+</td>
+<td>
+<small>University of North Carolina, Chapel Hill</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computation + Journalism » 2013; Spring <br>
-            
+<tr>
+<td>
+<h5>Computation + Journalism » 2013; Spring <br>
+    
 <a href="https://compjournalism.wordpress.com/2013bcn/">Homepage</a> / 
 <a href="https://docs.google.com/spreadsheets/d/1RElywzOZwm3xFxfJrS4mPlvRIw7HpkbX59irG5PDP8k">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Irfan Essa</p>
-    </td>
-    <td>
-        <small>Georgia Tech</small>
-    </td>
-  </tr>
+<p>Instructors: Irfan Essa</p>
+</td>
+<td>
+<small>Georgia Tech</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Coding for Journalists » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Coding for Journalists » 2013; Fall <br>
+    
 <a href="http://jrue.github.io/coding/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course is an introduction to programming concepts as they relate to the journalism industry. The goal of this course is to equip students with a foundational technical literacy to construct interactive online stories such as data visualizations, infographics, maps, multimedia packages, games or
-        </small></p>
+<p><small>This course is an introduction to programming concepts as they relate to the journalism industry. The goal of this course is to equip students with a foundational technical literacy to construct interactive online stories such as data visualizations, infographics, maps, multimedia packages, games or...</small></p>
 
-        <p>Instructors: Jeremy Rue</p>
-    </td>
-    <td>
-        <small>University of California at Berkeley</small>
-    </td>
-  </tr>
+<p>Instructors: Jeremy Rue</p>
+</td>
+<td>
+<small>University of California at Berkeley</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Applied Fact Finding » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Applied Fact Finding » 2013; Fall <br>
+    
 <a href="http://www.jou.ufl.edu/assets/syllabi/JOU%203110%20fall2013.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Fact Finding is designed to give student journalists the skills to locate, interpret and analyze a broad variety of informational resources crucial to your success as a working journalist, including standard reference materials, public records, and Internet resources. You will learn and practice inv
-        </small></p>
+<p><small>Fact Finding is designed to give student journalists the skills to locate, interpret and analyze a broad variety of informational resources crucial to your success as a working journalist, including standard reference materials, public records, and Internet resources. You will learn and practice inv...</small></p>
 
-        <p>Instructors: Cory L. Armstrong</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Cory L. Armstrong</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Analytics and Data Visualization for Journalism » 2013; Fall <br>
-            
+<tr>
+<td>
+<h5>Analytics and Data Visualization for Journalism » 2013; Fall <br>
+    
 <a href="http://www.jsvine.com/WRIT1-CE9741/">Homepage</a> / 
 <a href="http://www.jsvine.com/WRIT1-CE9741/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Data-based journalism is increasingly important at all levels of news organizations. This course will introduce you to fundamental concepts and skills for gathering, analyzing, and visualizing data. It’s also a hands-on class; you’ll apply the techniques you learn each week to a semester-long data-r
-        </small></p>
+<p><small>Data-based journalism is increasingly important at all levels of news organizations. This course will introduce you to fundamental concepts and skills for gathering, analyzing, and visualizing data. It’s also a hands-on class; you’ll apply the techniques you learn each week to a semester-long data-r...</small></p>
 
-        <p>Instructors: Jeremy Singer-Vine</p>
-    </td>
-    <td>
-        <small>New York University SCPS</small>
-    </td>
-  </tr>
+<p>Instructors: Jeremy Singer-Vine</p>
+</td>
+<td>
+<small>New York University SCPS</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Data Journalism » 2013; Spring <br>
-            
+<tr>
+<td>
+<h5>Advanced Data Journalism » 2013; Spring <br>
+    
 <a href="https://github.com/cjdd3b/advanced-data-journalism/tree/old/spring-2013">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Chase Davis</p>
-    </td>
-    <td>
-        <small>University of Missouri</small>
-    </td>
-  </tr>
+<p>Instructors: Chase Davis</p>
+</td>
+<td>
+<small>University of Missouri</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computational Journalism » 2013; January-February <br>
-            
+<tr>
+<td>
+<h5>Computational Journalism » 2013; January-February <br>
+    
 <a href="http://courses.jmsc.hku.hk/jmsc6041spring2013/">Homepage</a> / 
 <a href="http://courses.jmsc.hku.hk/jmsc6041spring2013/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course, given at the University of Hong Kong during January-February 2013, is an advanced look at how techniques from visualization, natural language processing, social network analysis, statistics, and cryptography apply to four different areas of journalism: finding stories through data minin
-        </small></p>
+<p><small>This course, given at the University of Hong Kong during January-February 2013, is an advanced look at how techniques from visualization, natural language processing, social network analysis, statistics, and cryptography apply to four different areas of journalism: finding stories through data minin...</small></p>
 
-        <p>Instructors: Jonathan Stray</p>
-    </td>
-    <td>
-        <small>University of Hong Kong</small>
-    </td>
-  </tr>
+<p>Instructors: Jonathan Stray</p>
+</td>
+<td>
+<small>University of Hong Kong</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Introduction to Data Science » 2012; Fall <br>
-            
+<tr>
+<td>
+<h5>Introduction to Data Science » 2012; Fall <br>
+    
 <a href="http://columbiadatascience.com/about-the-class/about-the-course/">Homepage</a> / 
 <a href="http://columbiadatascience.com/2012/08/29/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Rachel Schutt</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Rachel Schutt</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Introduction to Data Analysis » 2012; Fall <br>
-            
+<tr>
+<td>
+<h5>Introduction to Data Analysis » 2012; Fall <br>
+    
 <a href="http://stat405.had.co.nz/">Homepage</a> / 
 <a href="http://stat405.had.co.nz/syllabus.html">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course will teach you to be a data analyst. You will learn how to take a large dataset break up into manageable pieces and use a range of qualitative and quantitative tools to summarise it and learn what it has to tell. You will learn the importance of scepticism and curiosity, and how to commu
-        </small></p>
+<p><small>This course will teach you to be a data analyst. You will learn how to take a large dataset break up into manageable pieces and use a range of qualitative and quantitative tools to summarise it and learn what it has to tell. You will learn the importance of scepticism and curiosity, and how to commu...</small></p>
 
-        <p>Instructors: Hadley Wickham</p>
-    </td>
-    <td>
-        <small>Rice University</small>
-    </td>
-  </tr>
+<p>Instructors: Hadley Wickham</p>
+</td>
+<td>
+<small>Rice University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Information Visualization » 2012; Fall <br>
-            
+<tr>
+<td>
+<h5>Information Visualization » 2012; Fall <br>
+    
 <a href="https://wiki.cs.umd.edu/cmsc734_f12/index.php">Homepage</a> / 
 <a href="https://wiki.cs.umd.edu/cmsc734_f12/index.php?title=Syllabus">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        What is information visualization? How is it related to scientific visualization? How does it combine with data mining? Information visualization is emerging as an important fusion of graphics, scientific visualization, database, and human-computer interaction. Dozens of innovative visualizations fo
-        </small></p>
+<p><small>What is information visualization? How is it related to scientific visualization? How does it combine with data mining? Information visualization is emerging as an important fusion of graphics, scientific visualization, database, and human-computer interaction. Dozens of innovative visualizations fo...</small></p>
 
-        <p>Instructors: Ben Shneiderman</p>
-    </td>
-    <td>
-        <small>University of Maryland</small>
-    </td>
-  </tr>
+<p>Instructors: Ben Shneiderman</p>
+</td>
+<td>
+<small>University of Maryland</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Database Reporting » 2012; Spring <br>
-            
+<tr>
+<td>
+<h5>Database Reporting » 2012; Spring <br>
+    
 <a href="http://www.ire.org/media/uploads/files/documents/educators-center/sylvevster_umn_2012.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This is a skills-based, capstone course designed to enhance reporting skills, primarily by identifying and analyzing electronic data to look for patterns and trends that can lead to in-depth news stories. Students will obtain and analyze digital data for computer-assisted reporting that can be publi
-        </small></p>
+<p><small>This is a skills-based, capstone course designed to enhance reporting skills, primarily by identifying and analyzing electronic data to look for patterns and trends that can lead to in-depth news stories. Students will obtain and analyze digital data for computer-assisted reporting that can be publi...</small></p>
 
-        <p>Instructors: MaryJo Webster</p>
-    </td>
-    <td>
-        <small>University of Minnesota</small>
-    </td>
-  </tr>
+<p>Instructors: MaryJo Webster</p>
+</td>
+<td>
+<small>University of Minnesota</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data-driven Reporting (the Texas Tribune Course) » 2012; Fall <br>
-            
+<tr>
+<td>
+<h5>Data-driven Reporting (the Texas Tribune Course) » 2012; Fall <br>
+    
 <a href="https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/download/2414119/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In this course you’ll learn about and skills needed for Computer Assisted Reporting (also known as CAR) with a focus on data-driven reporting, a valuable skillset in journalism, easily exportable to other professions. You will learn to: develop a journalistic theory or line of questioning that could
-        </small></p>
+<p><small>In this course you’ll learn about and skills needed for Computer Assisted Reporting (also known as CAR) with a focus on data-driven reporting, a valuable skillset in journalism, easily exportable to other professions. You will learn to: develop a journalistic theory or line of questioning that could...</small></p>
 
-        <p>Instructors: Pete Slover</p>
-    </td>
-    <td>
-        <small>University of Texas at Austin</small>
-    </td>
-  </tr>
+<p>Instructors: Pete Slover</p>
+</td>
+<td>
+<small>University of Texas at Austin</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2012; Fall <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2012; Fall <br>
+    
 <a href="http://jclass.umd.edu/cars/772/syllabus.htm">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This is a course in the basic elements of computer-assisted reporting. You will learn how computer spreadsheet and database programs can be used to find details, leads and stories in collections of electronic records. With the proper training and inclination, journalists who are comfortable with the
-        </small></p>
+<p><small>This is a course in the basic elements of computer-assisted reporting. You will learn how computer spreadsheet and database programs can be used to find details, leads and stories in collections of electronic records. With the proper training and inclination, journalists who are comfortable with the...</small></p>
 
-        <p>Instructors: Dan Keating, Ira Chinoy</p>
-    </td>
-    <td>
-        <small>University of Maryland</small>
-    </td>
-  </tr>
+<p>Instructors: Dan Keating, Ira Chinoy</p>
+</td>
+<td>
+<small>University of Maryland</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2012; Spring <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2012; Spring <br>
+    
 <a href="http://archive.is/trDXO">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Advanced use of computer technology and investigative techniques to access, analyze and develop database information in combination with traditional news reporting. 
-        </small></p>
+<p><small>Advanced use of computer technology and investigative techniques to access, analyze and develop database information in combination with traditional news reporting. </small></p>
 
-        <p>Instructors: Joe Hayden</p>
-    </td>
-    <td>
-        <small>University of Memphis</small>
-    </td>
-  </tr>
+<p>Instructors: Joe Hayden</p>
+</td>
+<td>
+<small>University of Memphis</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2012; Fall <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2012; Fall <br>
+    
 <a href="https://joegisondi.files.wordpress.com/2012/11/computer-assisted-syllabus-20124.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Joe Gisondi</p>
-    </td>
-    <td>
-        <small>Eastern Illinois University</small>
-    </td>
-  </tr>
+<p>Instructors: Joe Gisondi</p>
+</td>
+<td>
+<small>Eastern Illinois University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computation + Journalism » 2012; Spring <br>
-            <a href="https://compjournalism.wordpress.com/2012-2/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Computation + Journalism » 2012; Spring <br>
+    <a href="https://compjournalism.wordpress.com/2012-2/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        This class is aimed at understanding the computational and technological advancements in the area of journalism. Primary focus is on the study of technologies for developing new tools for (a) sense-making from diverse news information sources, (b) the impact of more and cheaper networked sensors (c)
-        </small></p>
+<p><small>This class is aimed at understanding the computational and technological advancements in the area of journalism. Primary focus is on the study of technologies for developing new tools for (a) sense-making from diverse news information sources, (b) the impact of more and cheaper networked sensors (c)...</small></p>
 
-        <p>Instructors: Irfan Essa</p>
-    </td>
-    <td>
-        <small>Georgia Tech</small>
-    </td>
-  </tr>
+<p>Instructors: Irfan Essa</p>
+</td>
+<td>
+<small>Georgia Tech</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Applied Fact Finding » 2012; Spring <br>
-            
+<tr>
+<td>
+<h5>Applied Fact Finding » 2012; Spring <br>
+    
 <a href="http://dennisfrohlich.com/syllabi/factfinding.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Fact Finding is designed to give student journalists the skills to locate, interpret and analyze a wide range of informational resources crucial to your success as a working journalist, including standard reference materials, public records, and internet resources. You will learn and practice invest
-        </small></p>
+<p><small>Fact Finding is designed to give student journalists the skills to locate, interpret and analyze a wide range of informational resources crucial to your success as a working journalist, including standard reference materials, public records, and internet resources. You will learn and practice invest...</small></p>
 
-        <p>Instructors: Dennis Owen Frohlich</p>
-    </td>
-    <td>
-        <small>University of Florida</small>
-    </td>
-  </tr>
+<p>Instructors: Dennis Owen Frohlich</p>
+</td>
+<td>
+<small>University of Florida</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Intro to Digital Humanities » 2012 <br>
-            
+<tr>
+<td>
+<h5>Intro to Digital Humanities » 2012 <br>
+    
 <a href="http://dh101.humanities.ucla.edu/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Based on the Introduction to Digital Humanities (DH101) course at UCLA, taught by Johanna Drucker (with David Kim) in 2011 and 2012, this online coursebook (and related collection of resources) is meant to provide introductory materials to digital approaches relevant to a wide range of disciplines. 
-        </small></p>
+<p><small>Based on the Introduction to Digital Humanities (DH101) course at UCLA, taught by Johanna Drucker (with David Kim) in 2011 and 2012, this online coursebook (and related collection of resources) is meant to provide introductory materials to digital approaches relevant to a wide range of disciplines. ...</small></p>
 
-        <p>Instructors: Johanna Drucker</p>
-    </td>
-    <td>
-        <small>University of California Los Angeles</small>
-    </td>
-  </tr>
+<p>Instructors: Johanna Drucker</p>
+</td>
+<td>
+<small>University of California Los Angeles</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>How to Process, Analyze and Visualize Data » 2012 <br>
-            
+<tr>
+<td>
+<h5>How to Process, Analyze and Visualize Data » 2012 <br>
+    
 <a href="http://dataiap.github.io/dataiap/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Data science! Big data! Statistics! Infographics! Buzzword! 
-        </small></p>
+<p><small>Data science! Big data! Statistics! Infographics! Buzzword! </small></p>
 
-        <p>Instructors: Adam Marcus, Eugene Wu</p>
-    </td>
-    <td>
-        <small>Massachusetts Institute of Technology</small>
-    </td>
-  </tr>
+<p>Instructors: Adam Marcus, Eugene Wu</p>
+</td>
+<td>
+<small>Massachusetts Institute of Technology</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Frontiers of Computational Journalism » 2012 <br>
-            
+<tr>
+<td>
+<h5>Frontiers of Computational Journalism » 2012 <br>
+    
 <a href="http://www.compjournalism.com/?p=6">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The aim of the course is to familiarise students with current areas of research and development within computer science that have a direct relevance to the field of journalism, so that they are capable of participating in the design of future public information systems. The course is built around a 
-        </small></p>
+<p><small>The aim of the course is to familiarise students with current areas of research and development within computer science that have a direct relevance to the field of journalism, so that they are capable of participating in the design of future public information systems. The course is built around a ...</small></p>
 
-        <p>Instructors: Jonathan Stray</p>
-    </td>
-    <td>
-        <small>Columbia University</small>
-    </td>
-  </tr>
+<p>Instructors: Jonathan Stray</p>
+</td>
+<td>
+<small>Columbia University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Investigative Reporting » 2011; Fall <br>
-            
+<tr>
+<td>
+<h5>Investigative Reporting » 2011; Fall <br>
+    
 <a href="https://ire.org/media/uploads/files/documents/educators-center/horvitsyllabus.pdf">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In this course you will learn the approach, mindset, tools and skills used by investigative reporters. You will learn a fundamental approach to journalism that takes you beyond the day-to-day, event focused reporting practiced in many newsrooms and will learn how to add context and meaning to all of
-        </small></p>
+<p><small>In this course you will learn the approach, mindset, tools and skills used by investigative reporters. You will learn a fundamental approach to journalism that takes you beyond the day-to-day, event focused reporting practiced in many newsrooms and will learn how to add context and meaning to all of...</small></p>
 
-        <p>Instructors: Mark Horvit</p>
-    </td>
-    <td>
-        <small>University of Missouri</small>
-    </td>
-  </tr>
+<p>Instructors: Mark Horvit</p>
+</td>
+<td>
+<small>University of Missouri</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Digital Frameworks for Reporting » 2011; Summer <br>
-            
+<tr>
+<td>
+<h5>Digital Frameworks for Reporting » 2011; Summer <br>
+    
 <a href="http://digitalframeworks.wordpress.com/">Homepage</a> / 
 <a href="http://digitalframeworks.wordpress.com/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The objective of this course is to familiarize students with digital tools that will become the frameworks with which they can approach storytelling, emphasizing the use of structured data and the visualization of data to aid in the understanding of complex information. The course establishes a deep
-        </small></p>
+<p><small>The objective of this course is to familiarize students with digital tools that will become the frameworks with which they can approach storytelling, emphasizing the use of structured data and the visualization of data to aid in the understanding of complex information. The course establishes a deep...</small></p>
 
-        <p>Instructors: Derek Willis</p>
-    </td>
-    <td>
-        <small>University of Northwestern</small>
-    </td>
-  </tr>
+<p>Instructors: Derek Willis</p>
+</td>
+<td>
+<small>University of Northwestern</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Database & Computer Assisted Reporting » 2011; Winter <br>
-            
+<tr>
+<td>
+<h5>Database & Computer Assisted Reporting » 2011; Winter <br>
+    
 <a href="http://www2.fiu.edu/~surisc/database.html">Homepage</a> / 
 <a href="http://www2.fiu.edu/~surisc/database%20syllabus.html">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The dual emphasis of the course is to have students acquire the basic skills and practical knowledge of how to access information in order to support their reporting practices, as well as, a basic understanding of data managers and spreadsheet software and their fundamental relationship to present d
-        </small></p>
+<p><small>The dual emphasis of the course is to have students acquire the basic skills and practical knowledge of how to access information in order to support their reporting practices, as well as, a basic understanding of data managers and spreadsheet software and their fundamental relationship to present d...</small></p>
 
-        <p>Instructors: Carlos Suris</p>
-    </td>
-    <td>
-        <small>Florida International University</small>
-    </td>
-  </tr>
+<p>Instructors: Carlos Suris</p>
+</td>
+<td>
+<small>Florida International University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Visualization » 2011; Spring <br>
-            
+<tr>
+<td>
+<h5>Data Visualization » 2011; Spring <br>
+    
 <a href="http://had.co.nz/stat645/">Homepage</a> / 
 <a href="http://had.co.nz/stat645/syllabus.html">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course will give you the tools to create and critically evaluate data visualisations. We will focus on statistical graphics, graphics that display statistical data (observations are in rows and variables in columns), with some forays into the field of information visualisation. 
-        </small></p>
+<p><small>This course will give you the tools to create and critically evaluate data visualisations. We will focus on statistical graphics, graphics that display statistical data (observations are in rows and variables in columns), with some forays into the field of information visualisation. </small></p>
 
-        <p>Instructors: Hadley Wickham</p>
-    </td>
-    <td>
-        <small>Rice University</small>
-    </td>
-  </tr>
+<p>Instructors: Hadley Wickham</p>
+</td>
+<td>
+<small>Rice University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2011; Spring <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2011; Spring <br>
+    
 <a href="http://www.eiu.edu/include08/global/show_file_gsm.php?type=syllabi2&id=4011">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        To give students the fundamentals of computer-assisted reporting, using public documents in order to gather, organize, evaluate data to write objective reports in accepted journalistic style across several media platforms. 
-        </small></p>
+<p><small>To give students the fundamentals of computer-assisted reporting, using public documents in order to gather, organize, evaluate data to write objective reports in accepted journalistic style across several media platforms. </small></p>
 
-        <p>Instructors: Joe Gisondi</p>
-    </td>
-    <td>
-        <small>Eastern Illinois University</small>
-    </td>
-  </tr>
+<p>Instructors: Joe Gisondi</p>
+</td>
+<td>
+<small>Eastern Illinois University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer Assisted Reporting » 2011; Fall <br>
-            
+<tr>
+<td>
+<h5>Computer Assisted Reporting » 2011; Fall <br>
+    
 <a href="https://msu.edu/course/jrn/407/">Homepage</a> / 
 <a href="https://msu.edu/course/jrn/407/Syllabus.htm">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course will help to strengthen your reporting skills, teach you how to find, negotiate for and acquire public records data, how to query and analyze data, how to use online resources beyond Google to identify and retrieve information and how to produce a package. Students will use spreadsheet, 
-        </small></p>
+<p><small>This course will help to strengthen your reporting skills, teach you how to find, negotiate for and acquire public records data, how to query and analyze data, how to use online resources beyond Google to identify and retrieve information and how to produce a package. Students will use spreadsheet, ...</small></p>
 
-        <p>Instructors: Jane Briggs-Bunting</p>
-    </td>
-    <td>
-        <small>Michigan State University</small>
-    </td>
-  </tr>
+<p>Instructors: Jane Briggs-Bunting</p>
+</td>
+<td>
+<small>Michigan State University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Quantitative Journalism: Computer-Assisted Reporting and Research » 2010; Fall <br>
-            
+<tr>
+<td>
+<h5>Quantitative Journalism: Computer-Assisted Reporting and Research » 2010; Fall <br>
+    
 <a href="http://web.augsburg.edu/afa/syllabi/September%202010-August%202011/1-Fall/Fall%202011%20ENL327A%20Aggergaard.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This is a reporting class. Computers will assist you to get you where you need to go, which will be off campus, in the community, our community, reporting the news. 
-        </small></p>
+<p><small>This is a reporting class. Computers will assist you to get you where you need to go, which will be off campus, in the community, our community, reporting the news. </small></p>
 
-        <p>Instructors: Steve Aggergaard</p>
-    </td>
-    <td>
-        <small>Augsburg College</small>
-    </td>
-  </tr>
+<p>Instructors: Steve Aggergaard</p>
+</td>
+<td>
+<small>Augsburg College</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Investigative Reporting Techniques » 2010; Spring <br>
-            
+<tr>
+<td>
+<h5>Investigative Reporting Techniques » 2010; Spring <br>
+    
 <a href="https://www.uclaextension.edu/InstructorContent/prod/FileRoot/Syllabus/210080.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Fred Mamoun, Mary Harris</p>
-    </td>
-    <td>
-        <small>University of California at Los Angeles, Extension</small>
-    </td>
-  </tr>
+<p>Instructors: Fred Mamoun, Mary Harris</p>
+</td>
+<td>
+<small>University of California at Los Angeles, Extension</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2010; Spring <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2010; Spring <br>
+    
 <a href="http://kbpublisher.gu-scs.com/kb_file/WebFiles/MPS%20Journalism/MPS%20JO%20Syllabi/MPS%20JO%20Spring%202010/MPJO720.Computer.Assisted.Reporting.RBenincasa.10a.pdf">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Students will learn the basics of doing computer-assisted reporting in today’s complex and dynamic media world. We’ll work on developing marketable data- driven storytelling skills for news, enterprise and investigative coverage. Lectures will be tailored to the current state of the art in data repo
-        </small></p>
+<p><small>Students will learn the basics of doing computer-assisted reporting in today’s complex and dynamic media world. We’ll work on developing marketable data- driven storytelling skills for news, enterprise and investigative coverage. Lectures will be tailored to the current state of the art in data repo...</small></p>
 
-        <p>Instructors: Robert Benincasa @RobertBenincasa</p>
-    </td>
-    <td>
-        <small>Georgetown University</small>
-    </td>
-  </tr>
+<p>Instructors: Robert Benincasa @RobertBenincasa</p>
+</td>
+<td>
+<small>Georgetown University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computation + Journalism » 2010; Spring <br>
-            <a href="https://compjournalism.wordpress.com/2010-2/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Computation + Journalism » 2010; Spring <br>
+    <a href="https://compjournalism.wordpress.com/2010-2/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Irfan Essa</p>
-    </td>
-    <td>
-        <small>Georgia Tech</small>
-    </td>
-  </tr>
+<p>Instructors: Irfan Essa</p>
+</td>
+<td>
+<small>Georgia Tech</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Quantitative Journalism: Computer-Assisted Reporting and Research » 2009; Fall <br>
-            
+<tr>
+<td>
+<h5>Quantitative Journalism: Computer-Assisted Reporting and Research » 2009; Fall <br>
+    
 <a href="http://web.augsburg.edu/afa/previous%20syllabi%20folder/2009-2010/tri1/091ENL327A.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Practicing journalists and those aspiring to enter communications professions are becoming aware that requirements for entry are growing. With the ongoing information explosions, the liberally educated professional communicator must function as a filter, an organizer and interpreter of quantitative 
-        </small></p>
+<p><small>Practicing journalists and those aspiring to enter communications professions are becoming aware that requirements for entry are growing. With the ongoing information explosions, the liberally educated professional communicator must function as a filter, an organizer and interpreter of quantitative ...</small></p>
 
-        <p>Instructors: Cass Dalglish, Boyd Koehler</p>
-    </td>
-    <td>
-        <small>Augsburg College</small>
-    </td>
-  </tr>
+<p>Instructors: Cass Dalglish, Boyd Koehler</p>
+</td>
+<td>
+<small>Augsburg College</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>News & Numbers: Lies, Statistics, and the Stories Media Tell » 2009; Spring <br>
-            
+<tr>
+<td>
+<h5>News & Numbers: Lies, Statistics, and the Stories Media Tell » 2009; Spring <br>
+    
 <a href="http://www.users.miamioh.edu/baileraj/classes/jrn-sta-380/JRN-STA-380-Syllabus-08Oct08.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        JRN-STA 380 explores the quality of how quantitative ideas and material are represented in daily journalism—where, in fact, most of us get our common-sense ideas about the numbers and data present in our everyday lives. The topics for the course are ripped from current events and headlines—especiall
-        </small></p>
+<p><small>JRN-STA 380 explores the quality of how quantitative ideas and material are represented in daily journalism—where, in fact, most of us get our common-sense ideas about the numbers and data present in our everyday lives. The topics for the course are ripped from current events and headlines—especiall...</small></p>
 
-        <p>Instructors: A. John Bailer, Richard Campbell</p>
-    </td>
-    <td>
-        <small>Miami (Ohio) University</small>
-    </td>
-  </tr>
+<p>Instructors: A. John Bailer, Richard Campbell</p>
+</td>
+<td>
+<small>Miami (Ohio) University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2009; Spring <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2009; Spring <br>
+    
 <a href="http://aladinrc.wrlc.org/handle/1961/6529?show=full">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The computer gives journalists access to a whole new range and realm of sources. A reporter in Des Moines who needs to gather data on food production in China can do so easily by using a variety of electronic research tools. The San Jose journalist trying to understand her city's budget no longer is
-        </small></p>
+<p><small>The computer gives journalists access to a whole new range and realm of sources. A reporter in Des Moines who needs to gather data on food production in China can do so easily by using a variety of electronic research tools. The San Jose journalist trying to understand her city's budget no longer is...</small></p>
 
-        <p>Instructors: Wendell Cochran</p>
-    </td>
-    <td>
-        <small>American University</small>
-    </td>
-  </tr>
+<p>Instructors: Wendell Cochran</p>
+</td>
+<td>
+<small>American University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2008; Spring <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2008; Spring <br>
+    
 <a href="https://dwillis.wordpress.com/">Homepage</a> / 
 <a href="https://dwillis.wordpress.com/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The aim of this class is to teach students how to identify, obtain, analyze and incorporate data into their stories. In practical terms, this means learning to use spreadsheets, databases and the Internet to further reporting. Along the way we’ll also cover new ways to retrieve and process informati
-        </small></p>
+<p><small>The aim of this class is to teach students how to identify, obtain, analyze and incorporate data into their stories. In practical terms, this means learning to use spreadsheets, databases and the Internet to further reporting. Along the way we’ll also cover new ways to retrieve and process informati...</small></p>
 
-        <p>Instructors: Derek Willis</p>
-    </td>
-    <td>
-        <small>George Washington University</small>
-    </td>
-  </tr>
+<p>Instructors: Derek Willis</p>
+</td>
+<td>
+<small>George Washington University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2008; Summer <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2008; Summer <br>
+    
 <a href="http://www.iis.ru.ac.th/iis/syllabus/JR301.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course introduces practically to the data research and data analysis skills that students and professional journalists need to write better stories. The course focuses on research on the Internet in search engines, specialised search engines, e‐book libraries, and online databases. Students gai
-        </small></p>
+<p><small>This course introduces practically to the data research and data analysis skills that students and professional journalists need to write better stories. The course focuses on research on the Internet in search engines, specialised search engines, e‐book libraries, and online databases. Students gai...</small></p>
 
-        <p>Instructors: Ulrich Werner</p>
-    </td>
-    <td>
-        <small>Ramkhamhaeng University</small>
-    </td>
-  </tr>
+<p>Instructors: Ulrich Werner</p>
+</td>
+<td>
+<small>Ramkhamhaeng University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Reporting » 2008; Spring <br>
-            
+<tr>
+<td>
+<h5>Advanced Reporting » 2008; Spring <br>
+    
 <a href="http://www.unc.edu/~pmeyer/JOMC453.html">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course is about processing. You will learn how to deal with the abundance of information in publicly available databases, or in databases that you construct yourself. You will learn how to manage, analyze, and reduce data to make its meaning and importance clear to your audience, using the tool
-        </small></p>
+<p><small>This course is about processing. You will learn how to deal with the abundance of information in publicly available databases, or in databases that you construct yourself. You will learn how to manage, analyze, and reduce data to make its meaning and importance clear to your audience, using the tool...</small></p>
 
-        <p>Instructors: Philip Meyer</p>
-    </td>
-    <td>
-        <small>University of North Carolina at Chapel Hill</small>
-    </td>
-  </tr>
+<p>Instructors: Philip Meyer</p>
+</td>
+<td>
+<small>University of North Carolina at Chapel Hill</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2007; Spring <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2007; Spring <br>
+    
 <a href="https://ire.org/media/uploads/files/documents/educators-center/sp07carsyl.doc">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        We will do three basic things: go after information, analyze it, and write/produce stories about it. You’ll improve your web searching capability. You’ll learn how to use a spreadsheet (Excel) and a database (Access). 
-        </small></p>
+<p><small>We will do three basic things: go after information, analyze it, and write/produce stories about it. You’ll improve your web searching capability. You’ll learn how to use a spreadsheet (Excel) and a database (Access). </small></p>
 
-        <p>Instructors: Karl Idsvoog</p>
-    </td>
-    <td>
-        <small>Kent State University</small>
-    </td>
-  </tr>
+<p>Instructors: Karl Idsvoog</p>
+</td>
+<td>
+<small>Kent State University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Precision Journalism » 2006; Fall <br>
-            
+<tr>
+<td>
+<h5>Precision Journalism » 2006; Fall <br>
+    
 <a href="https://ire.org/media/uploads/files/documents/educators-center/jour547fall06.pdf">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This class used to be called “computer-assisted reporting,” a name that sounds as silly as “telephone- assisted” or “typewriter-assisted” reporting. But just as reporters a century ago discovered they couldn’t live without those newfangled phones and typewriters, today’s reporters cannot live withou
-        </small></p>
+<p><small>This class used to be called “computer-assisted reporting,” a name that sounds as silly as “telephone- assisted” or “typewriter-assisted” reporting. But just as reporters a century ago discovered they couldn’t live without those newfangled phones and typewriters, today’s reporters cannot live withou...</small></p>
 
-        <p>Instructors: Chris Roberts</p>
-    </td>
-    <td>
-        <small>University of South Carolina</small>
-    </td>
-  </tr>
+<p>Instructors: Chris Roberts</p>
+</td>
+<td>
+<small>University of South Carolina</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Power Journalism » 2006; Spring <br>
-            
+<tr>
+<td>
+<h5>Power Journalism » 2006; Spring <br>
+    
 <a href="https://ire.org/media/uploads/files/documents/educators-center/powerjournalism2007.doc">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Power Journalism is a specialized reporting course on high-tech investigative techniques used by today's best journalists to uncover new sources of information, analyze data, and give stories greater depth and context. Using Census, FBI and other government data, you will learn how to apply Excel, a
-        </small></p>
+<p><small>Power Journalism is a specialized reporting course on high-tech investigative techniques used by today's best journalists to uncover new sources of information, analyze data, and give stories greater depth and context. Using Census, FBI and other government data, you will learn how to apply Excel, a...</small></p>
 
-        <p>Instructors: Scott R. Maier</p>
-    </td>
-    <td>
-        <small>University of Oregon</small>
-    </td>
-  </tr>
+<p>Instructors: Scott R. Maier</p>
+</td>
+<td>
+<small>University of Oregon</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Online Journalism » 2006; Winter <br>
-            
+<tr>
+<td>
+<h5>Online Journalism » 2006; Winter <br>
+    
 <a href="http://futureofjourn.blogspot.com/">Homepage</a> / 
 <a href="http://archive.is/GYuHz">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        We will explore how to use the computer and the internet to add depth and context to news stories. Keep in mind, however, that these are just tools – they supplement, but do not replace, in-depth, aggressive reporting. We will conduct database analyses, and access a wide variety of records from gove
-        </small></p>
+<p><small>We will explore how to use the computer and the internet to add depth and context to news stories. Keep in mind, however, that these are just tools – they supplement, but do not replace, in-depth, aggressive reporting. We will conduct database analyses, and access a wide variety of records from gove...</small></p>
 
-        <p>Instructors: Ron Bishop</p>
-    </td>
-    <td>
-        <small>Drexel University</small>
-    </td>
-  </tr>
+<p>Instructors: Ron Bishop</p>
+</td>
+<td>
+<small>Drexel University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Database & Public Records Reporting » 2006; Summer <br>
-            
+<tr>
+<td>
+<h5>Database & Public Records Reporting » 2006; Summer <br>
+    
 <a href="http://www.nreisner.com/res/ClassDocuments/31212.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        We will learn research and analytical methods and how to make sure what you get is true, we’ll review elementary school arithmetic, we’ll learn about powerful software and techniques. More than anything else, we will learn a new way of thinking. 
-        </small></p>
+<p><small>We will learn research and analytical methods and how to make sure what you get is true, we’ll review elementary school arithmetic, we’ll learn about powerful software and techniques. More than anything else, we will learn a new way of thinking. </small></p>
 
-        <p>Instructors: Neil Reisner</p>
-    </td>
-    <td>
-        <small>Florida International University</small>
-    </td>
-  </tr>
+<p>Instructors: Neil Reisner</p>
+</td>
+<td>
+<small>Florida International University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2006; Spring <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2006; Spring <br>
+    
 <a href="http://archive.is/vuQYf">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Course introduces students to technology-based news reporting techniques, ranging from library database research to computer-assisted reporting applications, such as Internet search engines and analytical software. Assignments emphasize acquisition and evaluation of quality information and knowledge
-        </small></p>
+<p><small>Course introduces students to technology-based news reporting techniques, ranging from library database research to computer-assisted reporting applications, such as Internet search engines and analytical software. Assignments emphasize acquisition and evaluation of quality information and knowledge...</small></p>
 
-        <p>Instructors: Barbara K. Iverson</p>
-    </td>
-    <td>
-        <small>Columbia College Chicago</small>
-    </td>
-  </tr>
+<p>Instructors: Barbara K. Iverson</p>
+</td>
+<td>
+<small>Columbia College Chicago</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Journalism » 2003; Fall <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Journalism » 2003; Fall <br>
+    
 <a href="http://media.okstate.edu/faculty/kstan/ketterer/car-s.htm">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course introduces you to the techniques of computer-assisted reporting. Building upon your basic reporting and critical thinking skills, the course will show you how to use the computer as a tool in news gathering and data analysis. You will learn how to find and critically evaluate information
-        </small></p>
+<p><small>This course introduces you to the techniques of computer-assisted reporting. Building upon your basic reporting and critical thinking skills, the course will show you how to use the computer as a tool in news gathering and data analysis. You will learn how to find and critically evaluate information...</small></p>
 
-        <p>Instructors: Stan Ketterer</p>
-    </td>
-    <td>
-        <small>Oklahoma State University</small>
-    </td>
-  </tr>
+<p>Instructors: Stan Ketterer</p>
+</td>
+<td>
+<small>Oklahoma State University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Journalism Research » 2002; Winter <br>
-            
+<tr>
+<td>
+<h5>Journalism Research » 2002; Winter <br>
+    
 <a href="http://homepages.wmich.edu/~schristi/journalism_research/index.html">Homepage</a> / 
 <a href="http://homepages.wmich.edu/~schristi/journalism_research/syllabus.html">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course is designed to provide the student with an introduction to the sources, practices, technique and principles of journalism and other information research. The course introduces students to the techniques of computer-assisted reporting. The course will show students how to use primary, sec
-        </small></p>
+<p><small>This course is designed to provide the student with an introduction to the sources, practices, technique and principles of journalism and other information research. The course introduces students to the techniques of computer-assisted reporting. The course will show students how to use primary, sec...</small></p>
 
-        <p>Instructors: Sue Ellen Christian</p>
-    </td>
-    <td>
-        <small>Western Michigan University</small>
-    </td>
-  </tr>
+<p>Instructors: Sue Ellen Christian</p>
+</td>
+<td>
+<small>Western Michigan University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Journalism Research » 2001; Spring <br>
-            
+<tr>
+<td>
+<h5>Advanced Journalism Research » 2001; Spring <br>
+    
 <a href="http://online.sfsu.edu/jjohnson/Courses&Syllabi/BU-JO807/S01Sylli.htm">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Doing journalism — high-quality journalism — involves five phases that I call the RRAW-P process : Research, Reporting, Analysis, Writing and Publishing (or Production). This is a four-unit course designed to develop and reinforce your skills in the first three of these, especially as they pertain t
-        </small></p>
+<p><small>Doing journalism — high-quality journalism — involves five phases that I call the RRAW-P process : Research, Reporting, Analysis, Writing and Publishing (or Production). This is a four-unit course designed to develop and reinforce your skills in the first three of these, especially as they pertain t...</small></p>
 
-        <p>Instructors: J. T. Johnson</p>
-    </td>
-    <td>
-        <small>Boston University</small>
-    </td>
-  </tr>
+<p>Instructors: J. T. Johnson</p>
+</td>
+<td>
+<small>Boston University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Institute for Analytic Journalism (Proposal) » 2001 <br>
-            
+<tr>
+<td>
+<h5>Institute for Analytic Journalism (Proposal) » 2001 <br>
+    
 <a href="http://www.bu.edu/iaj/Pubs/IAJProposal-20010327.PDF">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Creating, initially, a master’s degree program for mid-career media and communications professionals or individuals trained in other fields but desirous of academic or professional careers in communications. This program will focus on methods, data and analytic techniques largely unknown to traditio
-        </small></p>
+<p><small>Creating, initially, a master’s degree program for mid-career media and communications professionals or individuals trained in other fields but desirous of academic or professional careers in communications. This program will focus on methods, data and analytic techniques largely unknown to traditio...</small></p>
 
-        <p>Instructors: J.T. Johnson, Steven S. Ross</p>
-    </td>
-    <td>
-        <small></small>
-    </td>
-  </tr>
+<p>Instructors: J.T. Johnson, Steven S. Ross</p>
+</td>
+<td>
+<small></small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer-Assisted Reporting » 2001 <br>
-            
+<tr>
+<td>
+<h5>Computer-Assisted Reporting » 2001 <br>
+    
 <a href="http://www.jenster.com/mu_car_syll.htm">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        “Computer-assisted reporting” refers to the analysis of public records that are stored electronically instead of on paper. This course teaches how to examine computerized records by using a spreadsheet and database manager. 
-        </small></p>
+<p><small>“Computer-assisted reporting” refers to the analysis of public records that are stored electronically instead of on paper. This course teaches how to examine computerized records by using a spreadsheet and database manager. </small></p>
 
-        <p>Instructors: Jeff Porter, Jennifer LaFleur</p>
-    </td>
-    <td>
-        <small>University of Missouri</small>
-    </td>
-  </tr>
+<p>Instructors: Jeff Porter, Jennifer LaFleur</p>
+</td>
+<td>
+<small>University of Missouri</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Information Gathering » 2000; Spring <br>
-            
+<tr>
+<td>
+<h5>Information Gathering » 2000; Spring <br>
+    
 <a href="http://journalism.uoregon.edu/~jupshaw/j202/index.html">Homepage</a> / 
 <a href="http://journalism.uoregon.edu/~jupshaw/j202/syllabus.html">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course introduces you to the theory and methods of information gathering and gives you the opportunity to apply what you're learning to an important public policy question. 
-        </small></p>
+<p><small>This course introduces you to the theory and methods of information gathering and gives you the opportunity to apply what you're learning to an important public policy question. </small></p>
 
-        <p>Instructors: Jim Upshaw</p>
-    </td>
-    <td>
-        <small>University of Oregon</small>
-    </td>
-  </tr>
+<p>Instructors: Jim Upshaw</p>
+</td>
+<td>
+<small>University of Oregon</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Reporting » 2000; Winter <br>
-            
+<tr>
+<td>
+<h5>Advanced Reporting » 2000; Winter <br>
+    
 <a href="http://condor.depaul.edu/elawler/cmn377.htm">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The course is designed to go beyond the inverted pyramid of basic newswriting and focus on some of the sophisticated newsgathering techniques used by journalists. As is true with any story, Advanced Reporting begins with an idea. Story generation techniques will be examined in the class. Interviewin
-        </small></p>
+<p><small>The course is designed to go beyond the inverted pyramid of basic newswriting and focus on some of the sophisticated newsgathering techniques used by journalists. As is true with any story, Advanced Reporting begins with an idea. Story generation techniques will be examined in the class. Interviewin...</small></p>
 
-        <p>Instructors: Edmund Lawler</p>
-    </td>
-    <td>
-        <small>DePaul University</small>
-    </td>
-  </tr>
+<p>Instructors: Edmund Lawler</p>
+</td>
+<td>
+<small>DePaul University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Journalism Research » 2000; Fall <br>
-            
+<tr>
+<td>
+<h5>Advanced Journalism Research » 2000; Fall <br>
+    
 <a href="http://online.sfsu.edu/jjohnson/Courses&Syllabi/BU-JO807/JO807Calendar&Syllabus.htm">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: J. T. Johnson</p>
-    </td>
-    <td>
-        <small>Boston University</small>
-    </td>
-  </tr>
+<p>Instructors: J. T. Johnson</p>
+</td>
+<td>
+<small>Boston University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Precision Journalism » 1999; Fall <br>
-            
+<tr>
+<td>
+<h5>Precision Journalism » 1999; Fall <br>
+    
 <a href="http://spot.colorado.edu/~ackland/pj/syllabus-99.html">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Good research is the basis for good journalism. Journalists must understand what information they need for stories and be able to find and evaluate it efficiently -- and on deadline. This class will help you develop a research strategy, learn to use the essential tools of computer-assisted reporting
-        </small></p>
+<p><small>Good research is the basis for good journalism. Journalists must understand what information they need for stories and be able to find and evaluate it efficiently -- and on deadline. This class will help you develop a research strategy, learn to use the essential tools of computer-assisted reporting...</small></p>
 
-        <p>Instructors: Burt Hubbard, Len Ackland</p>
-    </td>
-    <td>
-        <small>University of Colorado</small>
-    </td>
-  </tr>
+<p>Instructors: Burt Hubbard, Len Ackland</p>
+</td>
+<td>
+<small>University of Colorado</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Research Methods for Journalists » 1998; Spring <br>
-            
+<tr>
+<td>
+<h5>Research Methods for Journalists » 1998; Spring <br>
+    
 <a href="http://wjcohen.home.mindspring.com/nwuindex.htm">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course is about evaluating and executing social science research. Journalism professionals increasingly need to analyze, interpret and use research methods employed in the social sciences. Knowledge of these methods is increasingly important for informing audiences about the findings of researc
-        </small></p>
+<p><small>This course is about evaluating and executing social science research. Journalism professionals increasingly need to analyze, interpret and use research methods employed in the social sciences. Knowledge of these methods is increasingly important for informing audiences about the findings of researc...</small></p>
 
-        <p>Instructors: Peter Miller, Warren Cohen</p>
-    </td>
-    <td>
-        <small>Northwestern University</small>
-    </td>
-  </tr>
+<p>Instructors: Peter Miller, Warren Cohen</p>
+</td>
+<td>
+<small>Northwestern University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computer Assisted Reporting » 1997; Spring <br>
-            
+<tr>
+<td>
+<h5>Computer Assisted Reporting » 1997; Spring <br>
+    
 <a href="http://www.drewsullivan.com/nyu/syllabus.html">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Public records have been the mainstay of good beat and investigative reporting for years. But times are changing. No longer are records stored in dusty file drawers or shelves, but rather on the optical disks, hard drives and tapes of mainframe and desk top computers. Soon, paper records may well di
-        </small></p>
+<p><small>Public records have been the mainstay of good beat and investigative reporting for years. But times are changing. No longer are records stored in dusty file drawers or shelves, but rather on the optical disks, hard drives and tapes of mainframe and desk top computers. Soon, paper records may well di...</small></p>
 
-        <p>Instructors: Drew Sullivan</p>
-    </td>
-    <td>
-        <small>New York University</small>
-    </td>
-  </tr>
+<p>Instructors: Drew Sullivan</p>
+</td>
+<td>
+<small>New York University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Geek Like Me (Course proposal) » 1997 <br>
-            
+<tr>
+<td>
+<h5>Geek Like Me (Course proposal) » 1997 <br>
+    
 <a href="http://blog.mattwaite.com/post/141582141069/i-wrote-a-data-journalism-manual-for-my-college-in">Homepage</a> / 
 <a href="https://www.dropbox.com/s/lbnmaudrt112li3/geeklikeme.pdf?dl=0">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In that independent study, for one credit hour, I was to create a Computer-Assisted Reporting class. The proposal I had to write said I would create a syllabus, recommend texts and create class materials. In the proposal, I wrote that “every reporter should know how to feed a city budget into a spre
-        </small></p>
+<p><small>In that independent study, for one credit hour, I was to create a Computer-Assisted Reporting class. The proposal I had to write said I would create a syllabus, recommend texts and create class materials. In the proposal, I wrote that “every reporter should know how to feed a city budget into a spre...</small></p>
 
-        <p>Instructors: Matt Waite</p>
-    </td>
-    <td>
-        <small>University of Nebraska-Lincoln</small>
-    </td>
-  </tr>
+<p>Instructors: Matt Waite</p>
+</td>
+<td>
+<small>University of Nebraska-Lincoln</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Sherp 31 Data Journalism <br>
-            
+<tr>
+<td>
+<h5>Sherp 31 Data Journalism <br>
+    
 <a href="http://kpq.github.io/sherp-31/">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course teaches some of the skills and techniques necessary for using statistical information effectively in science journalism. Obtaining, interpreting, visualizing and displaying data are essential skills for journalists in the 21st Century, especially those who cover scientific and technical 
-        </small></p>
+<p><small>This course teaches some of the skills and techniques necessary for using statistical information effectively in science journalism. Obtaining, interpreting, visualizing and displaying data are essential skills for journalists in the 21st Century, especially those who cover scientific and technical ...</small></p>
 
-        <p>Instructors: Kevin Quealy</p>
-    </td>
-    <td>
-        <small>New York University</small>
-    </td>
-  </tr>
+<p>Instructors: Kevin Quealy</p>
+</td>
+<td>
+<small>New York University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Managing Data Journalism Projects <br>
-            
+<tr>
+<td>
+<h5>Managing Data Journalism Projects <br>
+    
 <a href="http://learno.net/courses/managing-data-journalism-projects">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        Bringing a data journalism project to a good end is not an easy task. There are a lot of variables and processes at play that need to be managed and accounted for before the project can be produced and in the end published. 
-        </small></p>
+<p><small>Bringing a data journalism project to a good end is not an easy task. There are a lot of variables and processes at play that need to be managed and accounted for before the project can be produced and in the end published. </small></p>
 
-        <p>Instructors: Jacopo Ottaviani</p>
-    </td>
-    <td>
-        <small>Learno.net</small>
-    </td>
-  </tr>
+<p>Instructors: Jacopo Ottaviani</p>
+</td>
+<td>
+<small>Learno.net</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>From numeracy to visualization and beyond <br>
-            
+<tr>
+<td>
+<h5>From numeracy to visualization and beyond <br>
+    
 <a href="https://journalistsresource.org/syllabi/data-journalism-visualization-mapping-ethics-syllabus">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        The skills required to be a successful data journalist are many, ranging from numeracy and spreadsheet fluency to being able to create visualizations and interpret and perform statistical analyses. In most moderate to large newsrooms, some data tasks are divided among desks and departments, with rep
-        </small></p>
+<p><small>The skills required to be a successful data journalist are many, ranging from numeracy and spreadsheet fluency to being able to create visualizations and interpret and perform statistical analyses. In most moderate to large newsrooms, some data tasks are divided among desks and departments, with rep...</small></p>
 
-        
-    </td>
-    <td>
-        <small>Journalist's Resource</small>
-    </td>
-  </tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism at SHERP <br>
-            
+</td>
+<td>
+<small>Journalist's Resource</small>
+</td>
+</tr>
+
+<tr>
+<td>
+<h5>Data Journalism at SHERP <br>
+    
 <a href="https://files.nyu.edu/kq2/public/_content.html">Homepage</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This course teaches some of the skills and techniques necessary for using statistical information effectively in science journalism. Obtaining, interpreting, visualizing and displaying data are essential skills for journalists in the 21st Century, especially those who cover scientific and technical 
-        </small></p>
+<p><small>This course teaches some of the skills and techniques necessary for using statistical information effectively in science journalism. Obtaining, interpreting, visualizing and displaying data are essential skills for journalists in the 21st Century, especially those who cover scientific and technical ...</small></p>
 
-        <p>Instructors: Amanda Cox, Kevin Quealy</p>
-    </td>
-    <td>
-        <small>New York University</small>
-    </td>
-  </tr>
+<p>Instructors: Amanda Cox, Kevin Quealy</p>
+</td>
+<td>
+<small>New York University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism Handbook <br>
-            <a href="http://www.odecanet.org/data-journalism-handbook/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Data Journalism Handbook <br>
+    <a href="http://www.odecanet.org/data-journalism-handbook/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        A 200-hour undergrad data journalism concentration curriculum for universities in Eastern Europe and Central Asia. 
-        </small></p>
+<p><small>A 200-hour undergrad data journalism concentration curriculum for universities in Eastern Europe and Central Asia. </small></p>
 
-        <p>Instructors: Eva Constantaras</p>
-    </td>
-    <td>
-        <small>Open Data in Europe and Central Asia</small>
-    </td>
-  </tr>
+<p>Instructors: Eva Constantaras</p>
+</td>
+<td>
+<small>Open Data in Europe and Central Asia</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism <br>
-            
+<tr>
+<td>
+<h5>Data Journalism <br>
+    
 <a href="http://wp.vcu.edu/nenudata/files/2014/02/Data-journalism-syllabus-by-week.pdf">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        
-    </td>
-    <td>
-        <small>Virginia Commonwealth University</small>
-    </td>
-  </tr>
 
-  <tr>
-    <td>
-        <h5>Data Journalism <br>
-            
+</td>
+<td>
+<small>Virginia Commonwealth University</small>
+</td>
+</tr>
+
+<tr>
+<td>
+<h5>Data Journalism <br>
+    
 <a href="http://nickgeidner.com/494/">Homepage</a> / 
 <a href="http://nickgeidner.com/494/?page_id=8">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        This senior-level course will introduce students to all phases of data journalism, including: finding and evaluating data sources, organizing data, reporting with numbers, and visualizing data. During the course we will discuss computer programming, data analysis, statistics, graphic design and othe
-        </small></p>
+<p><small>This senior-level course will introduce students to all phases of data journalism, including: finding and evaluating data sources, organizing data, reporting with numbers, and visualizing data. During the course we will discuss computer programming, data analysis, statistics, graphic design and othe...</small></p>
 
-        <p>Instructors: Nick Geidner</p>
-    </td>
-    <td>
-        <small>University of Tennessee</small>
-    </td>
-  </tr>
+<p>Instructors: Nick Geidner</p>
+</td>
+<td>
+<small>University of Tennessee</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Computers and the Open Society <br>
-            
+<tr>
+<td>
+<h5>Computers and the Open Society <br>
+    
 <a href="http://hci.stanford.edu/courses/cs047n/syllabus.html">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        
-        </small></p>
+<p><small></small></p>
 
-        <p>Instructors: Terry Winograd</p>
-    </td>
-    <td>
-        <small>Stanford University</small>
-    </td>
-  </tr>
+<p>Instructors: Terry Winograd</p>
+</td>
+<td>
+<small>Stanford University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Coding and Data Skills for Communicators <br>
-            
+<tr>
+<td>
+<h5>Coding and Data Skills for Communicators <br>
+    
 <a href="http://coding.cindyroyal.net/">Homepage</a> / 
 <a href="http://coding.cindyroyal.net/syllabus/">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In this course, you’ll be introduced to programming and data concepts relevant to communicators. Data visualization and storytelling tools and techniques are covered as related to journalism, advertising, public relations and the technology industry. 
-        </small></p>
+<p><small>In this course, you’ll be introduced to programming and data concepts relevant to communicators. Data visualization and storytelling tools and techniques are covered as related to journalism, advertising, public relations and the technology industry. </small></p>
 
-        <p>Instructors: Cindy Royal</p>
-    </td>
-    <td>
-        <small>Texas State University</small>
-    </td>
-  </tr>
+<p>Instructors: Cindy Royal</p>
+</td>
+<td>
+<small>Texas State University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Online Media Design <br>
-            
+<tr>
+<td>
+<h5>Advanced Online Media Design <br>
+    
 <a href="http://advanced.jacieyang.com/syllabus">Syllabus</a>
-        </h5>
+</h5>
 
-        <p><small>
-        In Advanced Online Media, we will continue exploring Web design topics, moving more heavily into the area of development, including data visualization and programming. The course will focus on application of these topics in the communication discipline. The goal is to spend several weeks going over 
-        </small></p>
+<p><small>In Advanced Online Media, we will continue exploring Web design topics, moving more heavily into the area of development, including data visualization and programming. The course will focus on application of these topics in the communication discipline. The goal is to spend several weeks going over ...</small></p>
 
-        <p>Instructors: Jacie Yang</p>
-    </td>
-    <td>
-        <small>Texas State University</small>
-    </td>
-  </tr>
+<p>Instructors: Jacie Yang</p>
+</td>
+<td>
+<small>Texas State University</small>
+</td>
+</tr>
 
-  <tr>
-    <td>
-        <h5>Advanced Data Journalism <br>
-            <a href="http://cjdd3b.github.io/advanced-data-journalism/">Homepage/Syllabus</a>
-        </h5>
+<tr>
+<td>
+<h5>Advanced Data Journalism <br>
+    <a href="http://cjdd3b.github.io/advanced-data-journalism/">Homepage/Syllabus</a>
+</h5>
 
-        <p><small>
-        The goal of this class is to teach you how to creatively solve problems in journalism using computer programming. In it, you will learn how to use the Python language, statistics and advanced spreadsheet and database concepts, then apply those skills to real-world exercises. At the end of the semest
-        </small></p>
+<p><small>The goal of this class is to teach you how to creatively solve problems in journalism using computer programming. In it, you will learn how to use the Python language, statistics and advanced spreadsheet and database concepts, then apply those skills to real-world exercises. At the end of the semest...</small></p>
 
-        <p>Instructors: Chase Davis, Mike Jenner</p>
-    </td>
-    <td>
-        <small>University of Missouri</small>
-    </td>
-  </tr></tbody></table>
+<p>Instructors: Chase Davis, Mike Jenner</p>
+</td>
+<td>
+<small>University of Missouri</small>
+</td>
+</tr></tbody></table>

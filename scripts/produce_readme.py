@@ -33,9 +33,7 @@ ROW_TEMPLATE = Template("""
     ${links}
 </h5>
 
-<p><small>
-${description}
-</small></p>
+<p><small>${description}</small></p>
 
 ${teachers}
 </td>
@@ -67,7 +65,7 @@ def main():
         course = '{0} » {1}'.format(d['title'], d['time_period']) if d.get('time_period') else d['title']
         if d.get('description'):
             desc = re.sub(r'\s+', ' ', d['description'])
-            desc = desc[:DESC_LENGTH] if len(desc) >= DESC_LENGTH else desc
+            desc = desc[:DESC_LENGTH] + '...' if len(desc) >= DESC_LENGTH else desc
         else:
             desc = ""
 
