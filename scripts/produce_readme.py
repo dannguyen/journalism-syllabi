@@ -38,7 +38,7 @@ ROW_TEMPLATE = Template("""
 def main():
     rawdata = ryaml.load(SRC_PATH.open())
     # Let's try sorting by time period
-    data = sorted(rawdata, key=lambda r: str(r['time_period']) if r.get('time_period') else '_' + r.get('title'), reverse=True)
+    data = sorted(rawdata, key=lambda r: str(r['time_period']) if r.get('time_period') else '0000 ' + r.get('title'), reverse=True)
 
 
     tablerows = []
