@@ -2212,3 +2212,84 @@
     - Dawn Garcia
     - Jay Hamilton
 
+
+
+- title: Data Journalism, Spring 2018
+  org: University of California at Berkeley
+  course_listing: J298
+  time_period: 2018; Spring
+  syllabus: https://ucb-dataj.github.io/2018/
+  homepage: https://ucb-dataj.github.io/2018/
+  description: |
+    This course is for students who want to make finding and reporting stories from data part of their toolkit. It will be useful for anyone interested in investigative journalism, which nowadays is often heavily data-driven, or those keen to use data to provide context and ground-truth for regular beat reporting. You should be comfortable with numbers, and thinking critically and quantitatively. You must be prepared to work with some simple code (in R and SQL), and to get your hands dirty with real-life, messy data!
+
+  instructors:
+    - Peter Aldhous
+    - Amanda Hickman
+
+
+- title: Sports Data Analysis and Visualization
+  org: University of Nebraska-Lincoln
+  course_listing: SPMC 350
+  time_period: 2019; Summer
+  homepage: https://github.com/mattwaite/sportsdatabook
+  syllabus: http://mattwaite.github.io/sports/
+  description: |
+    The entire course is in R and promotes replicable methods for data analysis to students who likely have done no programmatic data analysis and have zero experience working with code. The course philosophy, given those realities, is to have lots of small assignments that build on each other step by step.
+  instructors:
+    - Matt Waite
+  buzzwords:
+    - R
+
+
+
+- title: The Data Institute 2019
+  org: ProPublica
+  time_period: 2019
+  syllabus: https://github.com/propublica/data-institute-2019
+  homepage: https://projects.propublica.org/graphics/data-institute-2019
+  description: |
+    An intensive workshop from The Ida B. Wells Society for Investigative Reporting and ProPublica on how to use data, design and code for journalism. From July 22 to Aug 2 in New York City.
+
+
+
+- title: Data Journalism with R and the Tidyverse
+  org: University of Nebraska-Lincoln
+  course_listing: JOUR 307
+  time_period: 2020
+  homepage: https://github.com/mattwaite/datajournalismbook
+  syllabus: https://mattwaite.github.io/datajournalism/
+  description: |
+    In this book, you’ll get a taste of modern data journalism through programming in R, a statistics language. You’ll be challenged to think programmatically while thinking about a story you can tell to readers in a way that they’ll want to read. They might seem like two different sides of the brain – mutually exclusive skills. They aren’t. I’m confident you’ll see programming is a creative endeavor and storytelling can be analytical.
+
+  instructors:
+    - Matt Waite
+  buzzwords:
+    - R
+
+
+- title: Programming in Journalism
+  org: Stanford University
+  homepage: https://github.com/stanfordjournalism/stanford-progj-2020
+  course_listing: COMM 177P/COMM 277P
+  time_period: 2020; Winter
+  description: |
+    This course introduces general purpose programming skills commonly used in the news. Students will gain basic proficiency in the Unix shell and Python programming while practicing skills such as web scraping, acquiring data from public APIs, cleaning and transforming data, and working with spreadsheets and databases. Automation and reproducibility will be important themes in the course. Exercises and projects will focus on helping students understand the nuances of obtaining and preparing data for use in data analysis and web applications for the news. Students must have basic SQL skills for this course.
+
+  instructors:
+    - Serdar Tumgoren
+
+
+- title: Reporting Methods
+  org: Carleton University
+  time_period: 2020; Winter
+  instructors:
+    - David McKie
+    - Jim Bronskill
+  homepage: http://www.davidmckie.com/jour-5206-reporting-methods-2020-winter-term-carleton-school-of-journalism-and-communication/
+  description: |
+    1) Obtain a thorough grounding in journalistic research methods.
+
+    2) Acquire skills needed to make sense of the information gathered.
+
+    3) Develop the ability to shape the information into accurate and compelling stories for all platforms.
