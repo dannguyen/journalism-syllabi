@@ -17,11 +17,11 @@ The [list of courses](#table-courses) – which is at the end of this README fil
 ### Related resources
 
 
-For investigative journalism syllabi, the [Investigative Journalism Education Consortium maintains](http://ijec.org/) a list here:  http://ijec.org/syllabi/
+- For investigative journalism syllabi, the [Investigative Journalism Education Consortium maintains](http://ijec.org/) a list here:  http://ijec.org/syllabi/
 
-[Investigative Reporters & Editors](https://ire.org/) also maintains a collection: https://ire.org/resource-center/educators-center/syllabi/
+- [Investigative Reporters & Editors](https://ire.org/) also maintains a collection: https://ire.org/resource-center/educators-center/syllabi/
 
-Also relevant: This report by Charles Berret (Columbia University) and Cheryl Phillips (Stanford University): [Teaching Data and Computational Journalism](https://www.gitbook.com/book/columbiajournalism/teaching-data-computational-journalism/details)
+- Also relevant: This report by Charles Berret (Columbia University) and Cheryl Phillips (Stanford University): [Teaching Data and Computational Journalism](https://www.gitbook.com/book/columbiajournalism/teaching-data-computational-journalism/details)
 
 
 
