@@ -14,7 +14,8 @@ DESC_LENGTH = 300
 SEASON_KEY = {'Spring': '03', 'Summer': '06', 'Fall': '09', 'Winter': '11'}
 
 TABLE_TEMPLATE = Template("""
-There are currently <strong>${rowcount}</strong> courses listed; see [some-syllabi.yaml](some-syllabi.yaml) for more data fields.
+
+There are currently <strong>${rowcount}</strong> courses listed.
 
 <table>
 <thead>
@@ -33,12 +34,12 @@ ROW_TEMPLATE = Template("""
     ${links}
 </h5>
 
-<p><small>${description}</small></p>
+<p>${description}</p>
 
 ${teachers}
 </td>
 <td>
-<small>${organization}</small>
+${organization}
 </td>
 </tr>""")
 
