@@ -10,6 +10,21 @@ If you have a suggestion for a course to add, it's as easy as [creating an issue
 If you feel the need to be more helpful, or want to write the course info yourself, it's as easy as filling out the fields in this YAML template:
 
 ```yaml
+title: _____
+course_listing: _____
+org: _____
+time_period: "_____" 
+homepage: _____
+syllabus: _____
+
+description: |
+  _____
+
+instructors:
+    - _____
+
+
+
 title: "Human Readable Name of the Course"
 course_listing: "DEPT 123" # if applicable; not all courses listed are from college
 org: "The full name of the University"

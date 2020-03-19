@@ -687,7 +687,7 @@
   time_period: 2016; Spring
   org: University of Florida
   instructors:
-    - Norm Lewis
+    - Norman Lewis
   syllabus: https://www.jou.ufl.edu/assets/syllabi/201601/JOU4930%20DataJou-Section%20015A-Lewis-SP16.pdf
   description: |
     The day is coming when “data journalism” will be redundant. Once upon a time, reporters could rely mostly on interviews and anecdotes. But today’s digital-savvy audiences expect better evidence. They demand data to know whether the community is safe or what colors are in fashion. Thus, employers now expect journalists to find and use data as a matter of routine. So the purpose of this course is to enable you to be a journalist proficient in data
@@ -698,7 +698,7 @@
   syllabus: https://www.jou.ufl.edu/assets/syllabi/JOU4930%20DataJou-Section%2003C8s-Lewis-FA14.pdf
   org: University of Florida
   instructors:
-    - Norm Lewis
+    - Norman Lewis
   time_period: 2014; Fall
   description: |
     Students will develop a “data frame of mind” by demonstrating proficiency in:
@@ -1151,6 +1151,22 @@
 
 
 
+- title: Advanced Coding
+  org: City University of New York
+  time_period: 2016; Fall
+  syllabus: https://github.com/lamthuyvo/advanced-coding-cuny2016
+  homepage: https://github.com/lamthuyvo/advanced-coding-cuny2016
+
+  description: |
+    This three-credit course will introduce students to effective, data-driven interactive storytelling. Students will learn how to effectively research and pitch stories; they will learn how to employ design and code to tell these stories; and they will learn how to produce, iterate and publish their projects.
+
+  instructors:
+      - Lam Thuy Vo
+
+
+
+
+
 - title: Data Journalism
   org: Northeast Normal University
   homepage: http://wp.vcu.edu/nenudata/
@@ -1544,7 +1560,6 @@
 
 
 - title: Intro to Web Apps
-  homepage: https://introwebapps.wordpress.com/
   syllabus: https://www.scribd.com/doc/274776275/Intro-to-Web-Apps-Syllabus-2015
   time_period: 2015; Fall
   org: University of Florida
@@ -1560,7 +1575,6 @@
 
 - title: Advanced Web Apps
   org: University of Florida
-  homepage: https://webappsplus.wordpress.com/
   syllabus: https://www.scribd.com/doc/294050877/Web-Apps-2-Syllabus-2016
   time_period: 2016; Spring
   instructors:
@@ -1871,7 +1885,7 @@
   description: |
     This course unpacks the phenomenon of big data and how large data sets and sophisticated algorithms are changing society in general and mass communication in particular. The course also enables you acquire and evaluate a large data set for a research paper (although no experience in data or statistics is presumed or required).
   instructors:
-    - Norm Lewis
+    - Norman Lewis
 
 - title: Code4SA Data Journalism School
   syllabus: http://www.journalism.co.za/blog/data-journalism-school-overview/
@@ -2047,25 +2061,32 @@
 
 
 
-- title: Introduction to Web Apps
+- title: Introduction to Web Apps for Communicators
   course_listing: JOU 3363
   org: University of Florida
   homepage: https://introwebapps.wordpress.com/
-  time_period: 2017; Fall
+  syllabus: https://www.scribd.com/document/421634846/Web-Apps-Syllabus-2019
+  time_period: 2019; Fall
   instructors:
     - Mindy McAdams
+  description: |
+    This is not a course where you “learn to make websites.” (Making websites is so 2005.) It is a course in which you will learn to code, and by “code” I mean write functional programs that run in a Web browser — not just make Web pages.
+
+    It is an introductory course. It has no prerequisites. However, students are required to be majoring in Journalism, Advertising, Public Relations or Telecommunication at UF.
 
 
-- title: Advanced Web Apps
-  course_listing: JOU 3363
+
+- title: Advanced Web Apps for Communicators
+  course_listing: JOU 4364
   org: University of Florida
-  homepage: https://introwebapps.wordpress.com/
-  syllabus: https://www.scribd.com/document/336092220/Advanced-Web-Apps-Syllabus-2017
-  time_period: 2017; Spring
+  homepage: https://webappsplus.wordpress.com/
+  syllabus: https://webappsplus.wordpress.com/syllabus/
+  time_period: 2020; Spring
   instructors:
     - Mindy McAdams
   description: |
     This course adds server-side (back-end) Web skills to the client-side (front-end) Web skills students have developed in the preceding course, with the goal of developing Web apps that include a server-side component to support presentations of stories and large data sets for media organizations. Web scraping is also covered to enable journalists to gather open data from the Web for analysis and/or informing audiences.
+
 
 
 - title: Data Journalism
@@ -2429,4 +2450,139 @@
     - Jonathan Stray
   description: |
     A course on algorithms used in journalism, for beginning Python programmers. The major topics are text processing, visualization of high dimensional data, regression, machine learning, algorithmic bias and accountability, monte carlo simulation, and election prediction.
+
+
+
+- title: "Data Journalism"
+  course_listing: JOUR 322
+  org: "The full name of the University"
+  time_period: "2018; Spring"
+  syllabus: https://web-app.usc.edu/soc/syllabus/20181/21169.pdf
+
+  description: |
+    Proficiency with gathering, analyzing and visualizing data is essential in journalism today as commodity content becomes increasingly ineffective in both serving the public interest and engaging audiences.
+
+    This two-unit introduction to data journalism builds upon the reporting skills you developed in JOUR 207/307, Reporting and Writing I and II. Those courses focused on identifying and interviewing people as sources. This course introduces you to using data as a source, and “interviewing” datasets using quantitative analysis and data visualization tools.
+
+  instructors:
+      - Dana Chinn
+
+
+
+- title: Foundations
+  org: Columbia University
+  time_period: "2018; Summer"
+  homepage: http://jonathansoma.com/lede/foundations-2018/
+  syllabus: http://jonathansoma.com/lede/foundations-2018/housekeeping/syllabus/
+
+  description: |
+    By the end of this course you’ll have the flexibility to find and execute solutions to most any coding- or data-related problem you run across. In theory we’re focusing on Python in general, the data package pandas, and comfort with the command line.
+
+
+  instructors:
+      - Jonathan Soma
+
+
+
+- title: Data Journalism
+  course_listing: JOUR76006
+  org: City University of New York
+  time_period: "2019; Fall" # year is fine, if there's a session, delimit it with a semicolon, e.g. Fall; 2019
+  homepage: https://github.com/lamthuyvo/cuny-advanced-data-journalism
+  syllabus: https://github.com/lamthuyvo/cuny-advanced-data-journalism
+
+  description: |
+    Data sets are everywhere. In public sources, like election results, budgets and census reports; semi-public and private datasets, like hidden company information; in cross referencing people and organizations in documents and databases to discover conflicts of interest; in social media updates, images and video uploads. Data has become an invaluable resource for journalists to expose stories buried in the numbers and find relevant facts to shape them in newsworthy ways to produce great stories. And today, no matter if your goal is to cover a daily beat or to do enterprise or investigative stories, you are expected to be able to use it.
+
+
+  instructors:
+      - Lam Thuy Vo
+
+
+
+
+- title: Data Journalism
+  course_listing: JOU3305
+  org: University of Florida
+  time_period: 2019; Fall
+  syllabus: https://www.jou.ufl.edu/assets/syllabi/201908/JOU3305%20DataJou-Section16001-Lewis-FA18.pdf
+
+  description: |
+    This course focuses on the numbers side of data journalism. You will learn how to find data to tell stories and how to find stories in data. No experience in spreadsheets or databases presumed.
+
+    Pre-requisite: Journalism 3101 (reporting) or permission of instructor; course open to non-majors with an aptitude for journalism. For journalism majors needing a twocourse sequence, this course pairs with the Data Visualization and Mapping class.
+
+  instructors:
+      - Norman Lewis
+
+
+- title: Research Methods
+  course_listing: MMC 6421
+  org: University of Florida
+  time_period: 2018; Summer
+  syllabus: http://www.bikeprof.com/uploads/9/0/6/5/9065192/mmc6421-researchmethods-section01fc-lewis-su18.pdf
+
+  description: |
+    This is an overview of the primary qualitative and quantitative methods in mass communication research. It is designed to help graduate students conduct research for a peer-reviewed journal, thesis, or dissertation.
+  instructors:
+      - Norman Lewis
+
+
+- title: Data Literacy for Communicators
+  course_listing: MMC 2450
+  org: University of Florida
+  time_period: "2019; Fall"
+  syllabus: https://www.jou.ufl.edu/assets/syllabi/201908/MMC2450_DataLiteracy_Class19809_McAdams_Fall19.pdf
+
+  description: |
+    This course grounds you in numeracy so you can correctly interpret and communicate numbers as a media professional. This is not a math course. Rather, it enables you to become literate about data so that you avoid common mistakes made with numbers. The course has no pre-requisite other than sophomore standing and is open to any major.
+
+  instructors:
+      - Mindy McAdams
+
+
+- title: Dataviz & Mapping
+  course_listing: JOU 3121
+  org: University of Florida
+  time_period: "2020; Spring"
+  syllabus: https://www.jou.ufl.edu/assets/syllabi/202001/JOU3121_Dataviz_Section29000_Lewis_SP20.pdf
+
+
+  description: |
+    This course covers the foundational skills required for any professional communicator who seeks to tell a visual data story for audiences that rely on cellphones, as well as the basics of geospatial analysis. The emphasis is on data evaluation using code-free tools. Prerequisite:
+
+    Sophomore standing and either MMC 2450 (Data Literacy) or permission of instructor.
+  instructors:
+      - Norman Lewis
+
+
+
+
+- title: Drone Journalism
+  course_listing: JOU4930
+  org: University of Florida
+  time_period: "2019"
+  syllabus: https://www.jou.ufl.edu/assets/syllabi/201901/JOU4930_DroneJourn_Syllabus_S19.pdf
+
+  description: |
+    This class is a non-technical setting in which students from various disciplines within CJC may apply the “expert knowledge” of their individual emphasis areas, whether that be in communications, journalism or other fields. This experiential-learning course introduces students to the issues, applications and flight maneuvers of an evolving and promising technology: small, unmanned aircraft systems (UAS), also known as “drones” or UAV (unmanned aerial vehicles). The course is designed for those who are interested in learning to fly an UAS and how to apply them as a storytelling tool. It is not geared for engineering or training students in how to build and program drones, or design new equipment for drones. This course recognizes the evolving market of off-the-shelf drone technology, without hardware development or software configurations.
+
+  instructors:
+      - Richard Shaw
+
+
+
+- title: Data Journalism
+  course_listing: JOU 3305
+  org: University of Florida
+  time_period: "2019; Spring"
+  syllabus: https://www.jou.ufl.edu/assets/syllabi/201901/Data%20journalism%20syllabus,%20spring%202019.pdf
+
+  description: |
+    This is a hands-on course. You’ll learn to use data to illuminate trends and tell stories. You’ll get comfortable importing and cleaning data and building your own spreadsheets. Then you’ll practice using tools like Microsoft Excel and SQL to analyze information. The classroom will be part learning lab, part newsroom. Working as group, you’ll execute a data-driven news story, with the goal of getting it published. You will have the opportunity to participate in the data collection, analysis, reporting, writing and presentation.
+
+  instructors:
+      - Adam Playford
+      - Kathleen McGreory
+
 

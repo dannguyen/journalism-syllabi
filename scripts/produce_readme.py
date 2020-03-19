@@ -11,7 +11,7 @@ SRC_PATH = Path('some-syllabi.yaml')
 DEST_PATH = Path('README.md')
 DESC_LENGTH = 300
 # DEST_START_STR = '<!--tablehere-->'
-SEASON_KEY = {'Spring': '03', 'Summer': '06', 'Fall': '09', 'Winter': '11'}
+SEASON_KEY = {'Spring': '03', 'Summer': '04', 'Fall': '01', 'Winter': '02'}
 
 TABLE_TEMPLATE = Template("""
 
@@ -50,7 +50,7 @@ def sortfoo(record):
 
     if tx:
         year, season = tx.groups()
-        monthval = SEASON_KEY if season else "01"
+        monthval = SEASON_KEY[season] if season else "00"
         return f'{year}-{monthval}-{record["title"]}'
     else:
         return '0000-00-' + record['title']
