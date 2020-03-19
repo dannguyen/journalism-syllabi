@@ -2484,20 +2484,6 @@
 
 
 
-- title: Data Journalism
-  course_listing: JOUR76006
-  org: City University of New York
-  time_period: "2019; Fall" # year is fine, if there's a session, delimit it with a semicolon, e.g. Fall; 2019
-  homepage: https://github.com/lamthuyvo/cuny-advanced-data-journalism
-  syllabus: https://github.com/lamthuyvo/cuny-advanced-data-journalism
-
-  description: |
-    Data sets are everywhere. In public sources, like election results, budgets and census reports; semi-public and private datasets, like hidden company information; in cross referencing people and organizations in documents and databases to discover conflicts of interest; in social media updates, images and video uploads. Data has become an invaluable resource for journalists to expose stories buried in the numbers and find relevant facts to shape them in newsworthy ways to produce great stories. And today, no matter if your goal is to cover a daily beat or to do enterprise or investigative stories, you are expected to be able to use it.
-
-
-  instructors:
-      - Lam Thuy Vo
-
 
 
 
@@ -2585,4 +2571,40 @@
       - Adam Playford
       - Kathleen McGreory
 
+
+- title: Data Journalism
+  id: dj-2020-fall-JOUR73351
+  course_listing: JOUR73351
+  org: City University of New York
+  time_period: "2020; Spring" # year is fine, if there's a session, delimit it with a semicolon, e.g. Fall; 2019
+  syllabus: https://docs.google.com/document/d/1CuEvEOmK82qPhOl4IbJqWy-IXutX6_7kJkECvENYUQs/edit
+
+  description: |
+      Data sets are everywhere. In public sources, like election results, budgets and census reports; semi-public and private datasets, like hidden company information; in cross referencing people and organizations in documents and databases to discover conflicts of interest; in social media updates, images and video uploads. Data has become an invaluable resource for journalists to expose stories buried in the numbers and find relevant facts to shape them in newsworthy ways to produce great stories. And today, no matter if your goal is to cover a daily beat or to do enterprise or investigative stories, you are expected to be able to use it.
+
+
+  instructors:
+      - Lam Thuy Vo
+      - Madeleine Varner
+
+
+- title: Advanced Data Journalism
+  course_listing: JOUR76006
+  org: City University of New York
+  time_period: "2019; Fall" # year is fine, if there's a session, delimit it with a semicolon, e.g. Fall; 2019
+  homepage: https://github.com/lamthuyvo/cuny-advanced-data-journalism
+  syllabus: https://github.com/lamthuyvo/cuny-advanced-data-journalism
+
+  description: |
+      The objective of this course is to train students in the fundamental skills to do data journalism and be ready to continue their training in the Advanced Data Journalism course.
+
+
+  notes: |
+    Has exact same description as `dj-2020-fall-JOUR73351`, but syllabus is different in the details, e.g. includes web scraping and sPaCY
+  similar_to:
+    - dj-2020-fall-JOUR73351
+
+  instructors:
+      - Lam Thuy Vo
+      - Madeleine Varner
 
