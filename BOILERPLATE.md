@@ -2,9 +2,9 @@
 
 This is a collection of computational and data journalism courses for which there is a __publicly available homepage or syllabus__ suitable for others to use as a guiding reference, i.e. basically anything that shows up in a Google search for `syllabus` + `computational`/`data`/`research` + `journalism` / `computer assisted reporting`.
 
-Data/computational journalism is still a relatively new field, so it can be hard to know what's possible to fit in a curriculum. Hopefully, the 200+ course syllabuses – and in many cases, open source code/data repos – listed here can provide  helpful guidance! 
+Data/computational journalism is still a relatively new field, so it can be hard to know what's possible to fit in a curriculum. Hopefully, the 230+ course syllabuses – and in many cases, open source code/data repos – listed here can provide  helpful guidance! 
 
-**Jump [to the list of 200+ courses](#the-course-list)**
+**Jump [to the list of 230+ courses](#the-course-list)**
 
 -------------
 
@@ -17,11 +17,14 @@ The [list of courses](#the-course-list) – which is at the end of this README f
 ### Related resources
 
 
-- For investigative journalism syllabi, the [Investigative Journalism Education Consortium maintains](http://ijec.org/) a list here:  http://ijec.org/syllabi/
+- For investigative journalism syllabi, the [Investigative Journalism Education Consortium maintains](http://ijec.org/) lists here:
+    - https://ijec.org/car-and-data-syllabi/
+    - http://ijec.org/syllabi/ (old?)
 
 - [Investigative Reporters & Editors](https://ire.org/) also maintains a collection: https://ire.org/resource-center/educators-center/syllabi/
 
 - Also relevant: This report by Charles Berret (Columbia University) and Cheryl Phillips (Stanford University): [Teaching Data and Computational Journalism](https://www.gitbook.com/book/columbiajournalism/teaching-data-computational-journalism/details)
+
 
 
 

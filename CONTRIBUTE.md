@@ -10,18 +10,18 @@ If you have a suggestion for a course to add, it's as easy as [creating an issue
 If you feel the need to be more helpful, or want to write the course info yourself, it's as easy as filling out the fields in this YAML template:
 
 ```yaml
-title: _____
-course_listing: _____
-org: _____
-time_period: "_____" 
-homepage: _____
-syllabus: _____
+- title: _____
+  course_listing: _____
+  org: _____
+  time_period: "_____" 
+  homepage: _____
+  syllabus: _____
 
-description: |
-  _____
+  description: |
+    _____
 
-instructors:
-    - _____
+  instructors:
+      - _____
 
 
 

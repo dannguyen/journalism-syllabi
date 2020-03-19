@@ -801,10 +801,12 @@
 - title: Data Journalism
   syllabus: http://wp.vcu.edu/nenudata/files/2014/02/Data-journalism-syllabus-by-week.pdf
   org: Virginia Commonwealth University
+  time_period: 2014; Spring
 
 - title: Data Journalism
   homepage: http://nickgeidner.com/494/
   syllabus: http://nickgeidner.com/494/?page_id=8
+  time_period: 2014
   org: University of Tennessee
   instructors:
     - Nick Geidner
@@ -1162,9 +1164,6 @@
 
   instructors:
       - Lam Thuy Vo
-
-
-
 
 
 - title: Data Journalism
@@ -2608,3 +2607,84 @@
       - Lam Thuy Vo
       - Madeleine Varner
 
+
+
+- title: Telling Stories With Data
+  org: Arizona State University
+  time_period: 2016; Fall
+  course_listing: JMC 465
+
+  syllabus: http://ijec.org/wp-content/uploads/2013/04/SyllabusJMC465Fall2016-Wyloge-2.docx
+  description: |
+    Techniques and tools of reporting using data and public records as well as how to use the Internet and other online sources to find information and sources for stories. Students get experience with computer spreadsheets, database software and statistical techniques as they develop their advanced reporting skills.
+
+  instructors:
+    - Evan Wyloge
+
+- title: Graduate Data Journalism
+  org: Arizona State University
+  course_listing: MCO 510
+  time_period: 2016; Fall
+  syllabus: http://ijec.org/wp-content/uploads/2013/04/SyllabusMCO510Fall2016-Wyloge-2.docx
+  description: |
+    Uses data to tell stories, negotiates with government officials for public records and uses the Internet and other online sources to find information and sources for stories. Uses computer spreadsheets, database software, mapping programs and statistical techniques and explores how these tools can be used across a wide variety of beats and stories.
+
+
+  instructors:
+    - Evan Wyloge
+
+
+- title: Data Journalism
+  org: University of Iowa
+  course_listing: JMC 3640
+  time_period: 2018; Spring
+  syllabus: https://clas.uiowa.edu/sjmc/sites/clas.uiowa.edu.sjmc/files/JMC_3640_Data_Journalism_Daniel_Lathrop.pdf
+  description: |
+    This class is built to train you on the skills to both analyze data and create data visualizations. The goal is to tell visual stories with — and about — data. However, to take the class you do not need to know (or like) anything about math, statistics or data analysis.
+
+    When you’re done you’ll have a portfolio of interactive charts, graphs and maps and understand the data that underly them.
+
+    Specific topics will include: infographics, social media, investigative reporting, public records, JavaScript, basic statistics, spreadsheets and “newsroom math.” Absolutely no prior background in math, statistics, coding or data analysis is needed.
+
+  instructors:
+    - Daniel Lathrop
+
+
+- title: Data Journalism
+  course_listing: MED7373
+  org: Birmingham City University
+  time_period: 2018; Fall
+  homepage: https://github.com/paulbradshaw/MED7373-Data-Journalism
+  syllabus: https://github.com/paulbradshaw/MED7373-Data-Journalism
+
+  description: |
+    Data Journalism aims to facilitate a flexible and adaptable skillset, including the use of ‘computational thinking’ and communities of practice, that provides a basis for students to critically adapt to both new and existing data journalism techniques.
+
+  instructors:
+      - Paul Bradshaw
+
+- title: Data Journalism
+  course_listing: MED7369
+  org: Birmingham City University
+  time_period: 2018; Fall
+  homepage: https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism
+  syllabus: https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism
+
+  description: |
+    Within the context of media integration and convergence, Specialist journalism, investigations and coding aims to facilitate a flexible and adaptable skillset that provides a basis for students to critically adapt to any chosen field of reporting. It also provides a basis for the successful completion of the master’s route project, and introduces potential avenues of practice-based inquiry for routes into PhD progression beyond.
+
+
+  instructors:
+      - Paul Bradshaw
+
+
+- title: Foundation Course in Data Journalism
+  org: Data-N
+  time_period: 2019
+  syllabus: https://ijec.org/wp-content/uploads/2020/03/Kuang-Keng-Kuek-Ser-course-outline-20190430.pdf
+
+  description: |
+    We believe learning by doing is the best way to gain new skills. That is why our course is highly interactive and hands-on. It is conducted through a series of engaging sessions including quiz game, design workshop, group discussion, step-by-step hands-on exercise on participants' own laptops using real datasets. Each session is followed by a practical exercise. The course details including level of each session, tools and datasets used, topics chosen are customised based on a pre-course survey sent to all participants and interviews with newsroom managers/editors to meet the real demands of the newsroom/journalists.
+
+  instructors:
+      - Kuek Ser Kuang Keng
