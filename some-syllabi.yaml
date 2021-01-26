@@ -2688,3 +2688,18 @@
 
   instructors:
       - Kuek Ser Kuang Keng
+
+
+
+- title: Data Journalism
+  org: Cardiff University
+  course_listing: MCT 559 (MSc)
+  time_period: 2020
+  homepage: https://github.com/aodhanlutetiae/data_journalism_jomec
+  syllabus: https://github.com/aodhanlutetiae/data_journalism_jomec/blob/master/README.md
+
+  description: |
+    Data journalism at its broadest sees any information in a digitised form as a potential journalistic resource. Digging for this information with computerised tools and supplementing it with traditional journalistic methods is the task of the data journalist
+
+  instructors:
+    - Aidan O'Donnell
