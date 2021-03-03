@@ -2703,3 +2703,16 @@
 
   instructors:
     - Aidan O'Donnell
+
+
+- title: Data Storytelling
+  org: University of Illinois Urbana-Champaign
+  course_listing: JOUR460
+  time_period: 2021; Spring
+  syllabus: https://ymn.web.illinois.edu/file/Syllabus_DataStorytelling.pdf
+
+  description: |
+    Data has become an invaluable resource to produce great stories. However, like any sources, datasets should be treated with skepticism and ethical considerations. This class introduces students to the development process for creating data stories: Acquire, clean, analyze, and visualize data using various data journalism tools (Excel, Open Refine, SQL, and Python). It also covers key concepts in ethics for data journalism and discusses other burgeoning computational technology used in the field.
+
+  instructors:
+    - Margaret Ng
